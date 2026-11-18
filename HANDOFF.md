@@ -50,7 +50,10 @@ Pas de Figma/FigJam, mesure du coût en tokens, au moins 2 LLM différents, 2 h 
 - [x] Personas (Élise, Yanis, Odile) et JTBD : proposés, **à valider par l'équipe**
 - **Pause levée.** Analyse Gemini obtenue et challengée. Synthèse finale : knowledge/SYNTHESE-FINALE.md (personas finaux Élise / Yanis / Odile, 13 JTBD, concept retenu **B « Rouvrir d'abord »** : un humain nommé, une date, une première aide).
 - **User journey commune faite** : knowledge/product/user-journey.md (7 phases J0 -> reprise, 17 features candidates FEAT-01 à FEAT-17, hypothèses à valider).
-- **Prochaines étapes :** (user journey faite) -> user stories (besoin de FEAT-xx) -> challenge MoSCoW -> prototype avec severance.md (design, à ajouter au repo) -> pitch.
+- **Features formalisées** : knowledge/pm/outputs/features.md (FEAT-01 à FEAT-18, aucun JTBD orphelin).
+- **MoSCoW fait** : knowledge/pm/outputs/backlog.md (6 Must, 7 Should, 4 Could, 1 Won't), priorités à valider.
+- **User stories faites** : knowledge/pm/outputs/us.md (29 stories : 6 Must + 7 Should).
+- **Prochaines étapes :** (user journey, features, MoSCoW, user stories faits) -> challenge des stories vs MoSCoW -> prototype avec severance.md (design, à ajouter au repo) -> pitch.
 - Décisions ouvertes : règle de gravité, E22/E24/E28/E48/E50, biens de clients, montant de l'avance (voir SYNTHESE-FINALE.md section 5).
 - (historique) En pause avant continuation : obtenir l'analyse Gemini puis la comparer à celle de Claude.
 - [ ] Gemini : synthèse + personas + JTBD (prompts/gemini-synthese-commercants.md) -> à enregistrer dans knowledge/uxr/outputs/gemini/
