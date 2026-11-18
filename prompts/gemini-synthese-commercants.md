@@ -59,10 +59,32 @@ RÈGLES STRICTES
 
 ---
 
-## Prompt 2 (après les personas de Claude) : challenge croisé
+## Prompt 2 : personas et JTBD (dans la même conversation, juste après la synthèse)
 
-À envoyer dans la même conversation, une fois `personas.md` produit et copié en pièce jointe ou collé :
+Ne donne à Gemini ni les personas ni les JTBD de Claude. Il construit les siens à partir de sa propre synthèse et du corpus.
 
 ```
-Voici des personas construits à partir des mêmes 50 entretiens. Pour chaque persona : 1) vérifie dans le corpus que les entretiens cités en ancrage disent bien ce qui est affirmé, 2) repère les verbatims mal interprétés ou inventés, 3) dis s'il manque un segment de commerçants récurrent (au moins 3 entretiens) qui n'est pas représenté, 4) signale toute caricature démographique. Réponds sous forme de liste de problèmes, chacun avec le fichier source et un verbatim exact. Ne propose pas de solution produit.
+À partir de ta synthèse et du corpus des 50 entretiens, produis maintenant deux livrables en Markdown.
+
+LIVRABLE 1 : PERSONAS (2 à 3 maximum)
+Méthode : segmente par GRAVITÉ DU SINISTRE croisée avec l'AISANCE NUMÉRIQUE (déduite du texte). Un segment = au moins 3 entretiens. Un cas isolé n'est pas un persona : classe-le en « cas limite ». Les 10 commerçants non sinistrés ne servent pas d'ancrage.
+Pour chaque persona :
+## [Prénom] : [étiquette courte]
+- Profil (synthèse du segment, pas une personne réelle)
+- Objectifs
+- Frustrations
+- Motivations / déclencheurs
+- Contexte d'usage
+- Citation représentative (verbatim exact)
+- Ancrage : liste des fichiers d'entretien sources
+Ajoute : ce que les personas partagent, les divergences à arbitrer, les cas limites.
+
+LIVRABLE 2 : JOBS TO BE DONE
+Format : « Quand [situation], je veux [motivation], afin de [résultat attendu] ». Aucune solution ni fonctionnalité dans un job. Classe-les en fonctionnels, émotionnels et sociaux.
+Pour chaque job : le nombre d'interviewés concernés (X/50), au moins 1 verbatim exact avec le fichier source, les personas liés.
+
+RÈGLES : aucun persona sans ancrage, aucun verbatim inventé, aucun trait non présent dans les données, pas plus de 3 personas, « non couvert par les entretiens » quand la donnée manque. Les données sont fictives. Précise à la fin les choix de segmentation que tu as faits et ceux dont tu n'es pas sûr.
 ```
+
+Après réponse, enregistrer les trois sorties de Gemini dans `knowledge/uxr/outputs/gemini/` :
+`synthese-commercants.md`, `personas.md`, `jobs-to-be-done.md`. Puis lancer `agent-challenger` (voir `.claude/agents/agent-challenger.md`).

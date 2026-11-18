@@ -47,7 +47,10 @@ Pas de Figma/FigJam, mesure du coût en tokens, au moins 2 LLM différents, 2 h 
 - [x] Grille d'analyse validée (knowledge/uxr/outputs/grille-analyse.md)
 - [x] Synthèses : synthese-commercants.md (50), synthese-assureurs.md (20)
 - [x] Personas (Élise, Yanis, Odile) et JTBD : proposés, **à valider par l'équipe**
-- [ ] Contre-vérification par un 2e LLM (Gemini) : prompts/gemini-synthese-commercants.md
+- **PROJET EN PAUSE** (décision équipe) : avant de continuer vers brief / MoSCoW, obtenir l'analyse Gemini puis la comparer à celle de Claude.
+- [ ] Gemini : synthèse + personas + JTBD (prompts/gemini-synthese-commercants.md) -> à enregistrer dans knowledge/uxr/outputs/gemini/
+- [ ] agent-challenger (.claude/agents/agent-challenger.md) : compare les deux analyses -> knowledge/uxr/outputs/final/ (comparaison.md, personas-final.md, jobs-to-be-done-final.md)
+- [ ] Les personas et JTBD finaux remplacent les versions provisoires pour la suite (brief, MoSCoW)
 - [ ] Valider la règle de gravité (durée de fermeture) et l'aisance numérique déduite du texte
 - [ ] Choix du problème à traiter (brief + MoSCoW)
 - [ ] User flow, user journey
