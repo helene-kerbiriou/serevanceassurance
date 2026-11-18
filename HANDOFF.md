@@ -55,7 +55,7 @@ Pas de Figma/FigJam, mesure du coût en tokens, au moins 2 LLM différents, 2 h 
 - **User stories faites** : knowledge/pm/outputs/us.md (29 stories : 6 Must + 7 Should).
 - **Prototype fait** : prototype/index.html (HTML autonome, thème severance.md, ton humain ; vues : accueil, déclaration en 3 étapes, ouverture, suivi du dossier). Contexte produit : PRODUCT.md. Non fait : vue gestionnaire, vue agent, DESIGN.md.
 - **Prochaines étapes :** (user journey, features, MoSCoW, user stories, prototype faits) -> relecture équipe, pitch -> prototype avec severance.md (design, à ajouter au repo) -> pitch.
-- **Benchmark fait** : knowledge/product/benchmark.md (Rockfi lu sur rockfi.fr, Bpifrance Prêt Solidarité Commerce, Alan, "Sidecar" non identifié avec certitude, compléments 🔎 à vérifier, matrice, principes réutilisables, voix proposée "présent, calme, précis"). À valider par l'équipe : identité de "Sidecar", articulation avec le prêt Bpifrance, voix.
+- **Benchmark fait** : knowledge/product/benchmark.md (Rockfi lu sur rockfi.fr, Bpifrance Prêt Solidarité Commerce, Alan, Sidecare (confirmé par l'équipe, lecture directe du site à faire), compléments 🔎 à vérifier, matrice, principes réutilisables, voix proposée "présent, calme, précis"). À valider par l'équipe : articulation avec le prêt Bpifrance, voix.
 - Décisions ouvertes : règle de gravité, E22/E24/E28/E48/E50, biens de clients, montant de l'avance (voir SYNTHESE-FINALE.md section 5).
 - (historique) En pause avant continuation : obtenir l'analyse Gemini puis la comparer à celle de Claude.
 - [ ] Gemini : synthèse + personas + JTBD (prompts/gemini-synthese-commercants.md) -> à enregistrer dans knowledge/uxr/outputs/gemini/

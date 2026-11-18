@@ -81,10 +81,18 @@ Sources : Selectra, Clubic, TechCrunch, blog Alan (mascotte). Je n'ai trouvé ni
 
 **À ne pas copier** : le "ludique" et la mascotte. Pour un commerçant qui a perdu son stock, l'humour est un risque. Notre registre est plutôt : *présent, calme, précis*.
 
-### 2.4 Sidecar : 🔎 identification incertaine
+### 2.4 Sidecare (confirmé par l'équipe : "Sidecar" = Sidecare)
 
-La recherche ne trouve pas d'"app d'assurance Sidecar". Le plus proche est **Sidecare** : un **néo-courtier** (services gratuits pour le client, rémunéré par les assureurs) centré sur les contrats collectifs et la gestion RH (affiliations, DUE, suivi S/P, application mobile) ; le contenu est B2B, sans détail produit exploitable.
-**→ À confirmer avec vous** : est-ce bien Sidecare, ou un autre acteur (Lovys, Leocare, Luko, Acheel…) ? En attendant, la section 3 couvre les néo-assureurs mobiles.
+Source : pages "application mobile" de sidecare.com, lues via la recherche seulement (pas de lecture directe du site ni test de l'app).
+
+**Ce que c'est** : un **néo-courtier** (conseil et plateforme sans frais pour le client, rémunéré par les assureurs), centré sur les contrats collectifs et la gestion RH : affiliations et dispenses des salariés en ligne, génération automatique des DUE, suivi du S/P, application mobile.
+
+**À retenir (hypothèses, à confirmer par une lecture directe du site)**
+1. Le **courtier comme interface humaine** entre l'assuré et plusieurs assureurs : proche de notre cas, où l'agent n'est jamais court-circuité (G4).
+2. **Tâches administratives automatisées** (DUE, affiliations) : l'automatisation sert à décharger, pas à décider, ce qui rejoint notre principe 2.
+3. Cible pro (entreprises, indépendants/TNS) : proche de nos commerçants, mais côté prévoyance et santé collectives, pas sinistre.
+
+**Limites** : contenu B2B marketing, sans détail produit sur le suivi ni sur le ton ; aucun avis indépendant trouvé. Ne pas en tirer de conclusion de design avant d'avoir parcouru le site et l'app.
 
 ## 3. Compléments proposés (pour élargir au-delà des 4)
 
@@ -148,7 +156,7 @@ Ces exemples sont des **propositions** (noms et numéros fictifs).
 6. Une aide présentée comme un crédit, ou l'inverse.
 
 ## 8. Hypothèses et vérifications ouvertes
-- Confirmer "Sidecar" (§2.4).
+- Parcourir sidecare.com et son app (identité confirmée : Sidecare, §2.4).
 - Vérifier les conditions du Prêt Solidarité Commerce sur bpifrance.fr (sources divergentes sur l'ancienneté et la comptabilité).
 - Tester l'app Alan et le parcours Lovys/Leocare pour passer de la presse à l'observation directe.
 - Ne lire que la page d'accueil de Rockfi : les pages /nos-conseillers et /contact-conseiller sont à parcourir.
