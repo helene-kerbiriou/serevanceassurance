@@ -47,7 +47,10 @@ Pas de Figma/FigJam, mesure du coût en tokens, au moins 2 LLM différents, 2 h 
 - [x] Grille d'analyse validée (knowledge/uxr/outputs/grille-analyse.md)
 - [x] Synthèses : synthese-commercants.md (50), synthese-assureurs.md (20)
 - [x] Personas (Élise, Yanis, Odile) et JTBD : proposés, **à valider par l'équipe**
-- **PROJET EN PAUSE** (décision équipe) : avant de continuer vers brief / MoSCoW, obtenir l'analyse Gemini puis la comparer à celle de Claude.
+- **Pause levée.** Analyse Gemini obtenue et challengée. Synthèse finale : knowledge/SYNTHESE-FINALE.md (personas finaux Élise / Yanis / Odile, 13 JTBD, concept retenu **B « Rouvrir d'abord »** : un humain nommé, une date, une première aide).
+- **Prochaines étapes :** user journey -> user stories (besoin de FEAT-xx) -> challenge MoSCoW -> prototype avec severance.md (design, à ajouter au repo) -> pitch.
+- Décisions ouvertes : règle de gravité, E22/E24/E28/E48/E50, biens de clients, montant de l'avance (voir SYNTHESE-FINALE.md section 5).
+- (historique) En pause avant continuation : obtenir l'analyse Gemini puis la comparer à celle de Claude.
 - [ ] Gemini : synthèse + personas + JTBD (prompts/gemini-synthese-commercants.md) -> à enregistrer dans knowledge/uxr/outputs/gemini/
 - [ ] agent-challenger (.claude/agents/agent-challenger.md) : compare les deux analyses -> knowledge/uxr/outputs/final/ (comparaison.md, personas-final.md, jobs-to-be-done-final.md)
 - [ ] Les personas et JTBD finaux remplacent les versions provisoires pour la suite (brief, MoSCoW)

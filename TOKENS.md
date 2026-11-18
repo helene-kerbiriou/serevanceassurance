@@ -19,6 +19,8 @@ Suivi de la consommation IA pendant le hackathon (2h). Mis à jour à chaque ét
 | 2 | 18:00 | Hélène | Sous-agent UXR : synthèse des 20 assureurs (Claude Sonnet 5.5) | n/a (hors contexte principal) | 131 866 tokens (sous-agent) | 8 outils, 4 min. Fichier : synthese-assureurs.md |
 | 3 | 18:10 | Hélène | Sous-agent UXR : synthèse des 50 commerçants (Claude Sonnet 5.5) | n/a (hors contexte principal) | 231 185 tokens (sous-agent) | 9 outils, 9 min. Fichier : synthese-commercants.md |
 | 4 | 18:25 | Hélène | Session principale : prompt Gemini, lecture synthèse commerçants, personas, JTBD | 194 352 | +61 742 | Extra usage compte : 19,96 $ (+3,30 $ depuis la ligne 1, dont les 2 sous-agents) |
+| 5 | 18:00 | Équipe | Gemini (AI Studio) : synthèse + personas + JTBD des 50 commerçants | à renseigner | à renseigner | 2e LLM exigé par le brief. Tokens à relever dans AI Studio |
+| 6 | 18:10 | Hélène | Sous-agent challenger : comparaison Claude vs Gemini (Claude Sonnet 5.5) | n/a (hors contexte principal) | 228 477 tokens (sous-agent) | 37 outils, 7 min 20. Fichiers : knowledge/uxr/outputs/final/ |
 
 ## Récap final
 _À compléter à la fin : total tokens, répartition par étape et par personne, nombre de sous-agents, budget compte consommé (extra usage au départ : 16,15 $ / 40 $)._
