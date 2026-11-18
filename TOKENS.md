@@ -17,6 +17,8 @@ Suivi de la consommation IA pendant le hackathon (2h). Mis à jour à chaque ét
 
 | 1 | 17:40 | Hélène | Lecture du brief (PDF, deck, protocoles) + 10 entretiens + mise en place skills/agents/knowledge | 132 610 | +45 998 | Extra usage compte : 16,15 $ → 16,66 $ (+0,51 $). 2e LLM à utiliser et à noter (contrainte du brief) |
 | 2 | 18:00 | Hélène | Sous-agent UXR : synthèse des 20 assureurs (Claude Sonnet 5.5) | n/a (hors contexte principal) | 131 866 tokens (sous-agent) | 8 outils, 4 min. Fichier : synthese-assureurs.md |
+| 3 | 18:10 | Hélène | Sous-agent UXR : synthèse des 50 commerçants (Claude Sonnet 5.5) | n/a (hors contexte principal) | 231 185 tokens (sous-agent) | 9 outils, 9 min. Fichier : synthese-commercants.md |
+| 4 | 18:25 | Hélène | Session principale : prompt Gemini, lecture synthèse commerçants, personas, JTBD | 194 352 | +61 742 | Extra usage compte : 19,96 $ (+3,30 $ depuis la ligne 1, dont les 2 sous-agents) |
 
 ## Récap final
 _À compléter à la fin : total tokens, répartition par étape et par personne, nombre de sous-agents, budget compte consommé (extra usage au départ : 16,15 $ / 40 $)._

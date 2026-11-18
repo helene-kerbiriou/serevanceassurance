@@ -44,8 +44,11 @@ Pas de Figma/FigJam, mesure du coût en tokens, au moins 2 LLM différents, 2 h 
 ## Avancement
 - [x] Corpus et brief importés, texte extrait
 - [x] Skills UXR/PM et agents installés
-- [ ] Grille d'analyse validée (proposition : knowledge/uxr/outputs/grille-analyse.md)
-- [ ] Synthèse, personas, JTBD
+- [x] Grille d'analyse validée (knowledge/uxr/outputs/grille-analyse.md)
+- [x] Synthèses : synthese-commercants.md (50), synthese-assureurs.md (20)
+- [x] Personas (Élise, Yanis, Odile) et JTBD : proposés, **à valider par l'équipe**
+- [ ] Contre-vérification par un 2e LLM (Gemini) : prompts/gemini-synthese-commercants.md
+- [ ] Valider la règle de gravité (durée de fermeture) et l'aisance numérique déduite du texte
 - [ ] Choix du problème à traiter (brief + MoSCoW)
 - [ ] User flow, user journey
 - [ ] Prototype
