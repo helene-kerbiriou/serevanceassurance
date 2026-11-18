@@ -29,6 +29,7 @@ README.md                    présentation courte
 HANDOFF.md                   ce fichier
 TOKENS.md                    journal de consommation de tokens
 CLAUDE.md                    règles pour l'IA
+severance.md                 couche design du prototype (thème Lumon / Severance)
 brief/                       exercice.pdf, deck du hackathon, liens utiles
 skills/uxr, skills/pm        skills (SKILL.md) ; pipeline dans skills/README.md
 .claude/agents/              agent-uxr, agent-pm
@@ -48,7 +49,8 @@ Pas de Figma/FigJam, mesure du coût en tokens, au moins 2 LLM différents, 2 h 
 - [x] Synthèses : synthese-commercants.md (50), synthese-assureurs.md (20)
 - [x] Personas (Élise, Yanis, Odile) et JTBD : proposés, **à valider par l'équipe**
 - **Pause levée.** Analyse Gemini obtenue et challengée. Synthèse finale : knowledge/SYNTHESE-FINALE.md (personas finaux Élise / Yanis / Odile, 13 JTBD, concept retenu **B « Rouvrir d'abord »** : un humain nommé, une date, une première aide).
-- **Prochaines étapes :** user journey -> user stories (besoin de FEAT-xx) -> challenge MoSCoW -> prototype avec severance.md (design, à ajouter au repo) -> pitch.
+- **User journey commune faite** : knowledge/product/user-journey.md (7 phases J0 -> reprise, 17 features candidates FEAT-01 à FEAT-17, hypothèses à valider).
+- **Prochaines étapes :** (user journey faite) -> user stories (besoin de FEAT-xx) -> challenge MoSCoW -> prototype avec severance.md (design, à ajouter au repo) -> pitch.
 - Décisions ouvertes : règle de gravité, E22/E24/E28/E48/E50, biens de clients, montant de l'avance (voir SYNTHESE-FINALE.md section 5).
 - (historique) En pause avant continuation : obtenir l'analyse Gemini puis la comparer à celle de Claude.
 - [ ] Gemini : synthèse + personas + JTBD (prompts/gemini-synthese-commercants.md) -> à enregistrer dans knowledge/uxr/outputs/gemini/
