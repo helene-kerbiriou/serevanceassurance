@@ -5,3 +5,4 @@
 - **Passation** : mettre à jour `HANDOFF.md` à chaque livrable ou décision, de façon à ce qu'une autre IA ou équipe puisse reprendre sans contexte.
 - Trois personnes travaillent sur ce repo : ne jamais écraser le travail des autres, faire `git pull` avant de pousser, travailler dans son dossier ou sa branche.
 - Ne pas commit ni push sans demande explicite.
+- **Notion de passation** : à chaque livrable ou décision, mettre à jour le Notion « Sérévance Assurances » (https://app.notion.com/p/41c8f3776f4f80e6b188d8532e61902e), pages 4 (recherche), 5 (décisions et avancement), 6 (tokens), en plus de `HANDOFF.md`. Il est destiné à des humains : phrases courtes, sans jargon, données fictives signalées.
