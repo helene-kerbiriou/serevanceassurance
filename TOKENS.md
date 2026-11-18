@@ -21,6 +21,9 @@ Suivi de la consommation IA pendant le hackathon (2h). Mis à jour à chaque ét
 | 5 | 18:47 | Florian | Session 2e LLM (Gemini) : synthèse UXR des 50 commerçants | n/a (hors contexte principal) | 71 800 tokens nets estimés (665–765k cumulés API avant cache) | 10 outils, 4 min. Corpus 50 entretiens (44,9k) + sortie visible (15,2k) + retours outils (11,1k). Estimation (pas de get_usage ; hors thoughts ~7–14k) |
 | 6 | 18:53 | Florian | Session 2e LLM (Gemini) : génération fichiers synthese-commercants.md, personas.md, jobs-to-be-done.md | n/a (hors contexte principal) | 21 000 tokens nets estimés (270–320k cumulés API avant cache) | 4 outils, 3 min. Sortie visible 20,7k (synthese 10,6k, personas 4,2k, JTBD 5,3k, vérif 110 verbatims 0,6k). Estimation hors thoughts (~3–6k) |
 | 7 | 18:10 | Hélène | Sous-agent challenger : comparaison Claude vs Gemini (Claude Sonnet 5.5) | n/a (hors contexte principal) | 228 477 tokens (sous-agent) | 37 outils, 7 min 20. Fichiers : knowledge/uxr/outputs/final/ |
+| 8 | 19:00 | Hélène | Session principale (Claude Sonnet 5.5) : journey, features, MoSCoW, user stories, prototype (skill Impeccable) | 402 981 | +208 629 depuis la ligne 4 (194 352) | Extra usage compte : 26,46 $ (66 % du plafond de 40 $). Sous-agents déjà comptés lignes 2, 3, 7 |
+| 9 | — | Hélène | Session principale (Sonnet 5.5) : benchmark (4 recherches web, lecture repo, rédaction benchmark.md) | 100 143 (nouvelle session) | n/a (fenêtre distincte des lignes 0 à 8) | Extra usage compte : 27,02 $ (67 % du plafond de 40 $) |
+| 10 | — | Hélène | 2 sous-agents web-fetch (Sonnet 5.5) : landing Rockfi | n/a (hors contexte principal) | 34 111 tokens (11 732 + 22 379) | Le 1er a lu rockfi.com (mauvaise entreprise), le 2e rockfi.fr (bonne) |
 
 ## Récap final
 _À compléter à la fin : total tokens, répartition par étape et par personne, nombre de sous-agents, budget compte consommé (extra usage au départ : 16,15 $ / 40 $)._
