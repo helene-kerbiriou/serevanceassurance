@@ -1,0 +1,89 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°05 - Laurent Vasseur
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Laurent Vasseur, 58 ans
+Entretien
+n°05
+Activité
+Quincaillerie
+Date
+lun. 09/11 2026
+Ville
+Rouen
+Durée
+51 min
+Taille
+4 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (22 ans)
+Canal
+Agent (agence)
+Situation
+Vitrines et rayonnages détruits, stock
+fortement endommagé, fermé 3 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Laurent : Alors, la quincaillerie, c'est une affaire de famille : mon père l'a ouverte en 1974 rue Cauchoise, je l'ai
+ reprise en 2004. On est quatre salariés, dont mon fils depuis deux ans. Environ 11 000 références,
+dont les trois quarts en rayonnage à hauteur d'homme. Mon inquiétude de toujours, c'est l'incendie,
+parce qu'on a des solvants, des bombes de peinture, des bouteilles de gaz de camping, et un local à
+l'arrière où c'est mal ventilé. Pour moi, le risque, c'est ça, depuis toujours.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Laurent : Chez Sérévance depuis 22 ans, donc depuis l'époque où c'était encore l'ancienne compagnie, avant
+ la fusion, avec Monsieur Duval, qui est parti à la retraite en 2019. Le remplaçant, c'est une jeune
+femme très sympathique, Madame Giraud, mais je l'ai vue deux fois. En temps normal je reçois la
+lettre de renouvellement en novembre, je regarde le montant, je fais un chèque ou je signe le
+prélèvement. Une fois en 2017 j'ai demandé un devis ailleurs, c'était 140 euros de moins, mais ils
+m'ont fait baisser un peu et je suis resté.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Laurent : C'était un jeudi soir vers 22h40, mon voisin du dessus m'appelle, on voit de la fumée. J'arrive à
+ 23h05, les pompiers étaient déjà là, ils avaient éteint un début de feu au niveau du rideau d'entrée,
+des cocktails je crois, mais le plus gros dégât, c'est l'eau, et la vitrine, soufflée. Les rayonnages du
+côté gauche, les peintures, les produits d'entretien, tout était noir ou trempé. J'ai passé la nuit sur
+place. Le lendemain matin j'ai pris des photos de chaque rayon, 214 photos exactement, parce que
+mon fils les a numérotées, et on a commencé à compter à la main avec les références du logiciel de
+gestion, un rayon après l'autre, pendant trois jours.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Laurent : J'ai appelé l'agence le vendredi à 8h30, ils m'ont dit : déclarez en ligne, c'est plus rapide. J'y suis allé
+ avec mon fils, le site demandait une description en 500 caractères et un montant estimé, alors que je
+ne savais pas, je ne pouvais pas estimer à ce moment-là. On a mis 30 000, au hasard, et on nous a
+dit plus tard que ce montant avait servi pour classer le dossier. Ensuite, on a reçu le numéro de
+dossier par mail, puis un deuxième mail, puis un SMS qui disait la même chose. Ensuite, trois
+semaines sans nouvelles, j'ai relancé quatre fois, à chaque fois une personne différente qui me
+demandait de rappeler mon numéro de dossier.
+UXR : Vous saviez qui avait votre dossier ?
+ Laurent : Non, jamais. J'ai fini par avoir le nom de l'expert par l'agence, pas par Sérévance.
+ 
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Laurent : Premier expert à J+11, un deuxième à J+30 parce que le premier n'avait pas chiffré le stock.
+ L'indemnisation partielle à J+60, le solde à J+95. Le plus dur, c'est que mon stock, je ne pouvais pas
+le racheter sans l'argent. Moi, je pense qu'une avance de 30 % sous 10 jours aurait tout changé. Et
+un expert unique, pas deux.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Laurent : À un confrère, je dirais : assurez-vous d'avoir l'agent qui s'investit. Moi, j'ai eu de la chance parce que
+ Madame Giraud est venue sur place le troisième jour, de sa propre initiative. C'est elle qui m'a sauvé.
+Sérévance en tant que tel, 5 sur 10. Je suis resté, mais je me pose la question pour le
+renouvellement.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Laurent : Moi je ne suis pas contre le numérique, mais pas si ça m'oblige à estimer un montant que je ne
+ connais pas. Ce que je refuse : qu'on classe mon dossier sur une estimation que j'ai faite dans
+l'urgence. Et je tiens à ce qu'un humain, un vrai, regarde ma situation.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Laurent : Que quelqu'un soit désigné, avec un nom et un numéro direct, dès le premier jour.
+ 

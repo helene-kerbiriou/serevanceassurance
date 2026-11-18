@@ -1,0 +1,81 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°01 - Claire Bonnet
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Claire Bonnet, 41 ans
+Entretien
+n°01
+Fonction
+Gestionnaire sinistres senior (entreprises)
+Date
+jeu. 05/11 2026
+Structure
+Sérévance, plateau sinistres Lille
+Durée
+51 min
+Profil
+Gestionnaire sinistres
+Mode
+Visio
+Ancienneté
+12 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Pour commencer, pouvez-vous vous présenter et me dire ce que vous faites au quotidien ?
+ Claire : Je suis gestionnaire sinistres senior sur le segment commerçants et TPE-PME. Je traite environ 120
+ dossiers en portefeuille actif, de la déclaration à l'indemnisation. J'utilise notre outil de gestion
+sinistres, le téléphone, et beaucoup de mails. En temps normal, je suis très proche de mes
+dossiers.
+2. La relation avec les commerçants
+ UXR : Qui est le visage de Sérévance pour un commerçant, d'après votre expérience ?
+ Claire : La relation avec les commerçants est plutôt bonne quand tout va bien : ils appellent peu. Mais dès qu'il
+ y a un sinistre, ils attendent de nous de la proximité, et on n'en a pas toujours le temps. Ce qui
+frotte, c'est qu'ils pensent que nous avons leur dossier sous les yeux en permanence, alors qu'on
+traite parfois 40 dossiers en parallèle. Pour eux, le visage de Sérévance, c'est leur agent ou notre
+ligne sinistres, très rarement nous.
+3. La crise, le récit
+ UXR : Racontez-moi ce qui s'est passé chez vous après les émeutes.
+ Claire : Les premiers jours ont été un raz-de-marée. Nous avons reçu environ 3 000 déclarations en deux
+ semaines, contre une centaine habituellement sur le segment. La cellule de crise a été activée à
+J+1, on a eu des renforts en gestionnaires venus d'autres équipes, mais qui ne connaissaient pas
+les contrats commerçants. La ligne sinistres a saturé, avec des attentes de 40 minutes. J'ai passé
+les trois premiers jours à répondre au téléphone au lieu de traiter les dossiers.
+4. Qualité des déclarations et tri
+ UXR : Que contient une déclaration ? Et comment priorise-t-on, concrètement ?
+ Claire : Les déclarations arrivent avec des descriptions très inégales. Environ un tiers étaient incomplètes : pas
+ de dépôt de plainte, pas de liste du stock, pas de photos. Et le montant estimé est souvent un
+chiffre au hasard. Pour le tri, on a utilisé le montant estimé et la présence ou non d'une garantie
+perte d'exploitation, mais c'était brut. Les dossiers de commerçants fermés avec salariés auraient
+mérité d'être traités avant, mais l'outil ne le permet pas facilement.
+UXR : Donc le tri était surtout fondé sur le montant déclaré ?
+ Claire : Oui, c'est ça, avec un biais : ceux qui déclarent gros passent devant, parfois à tort.
+ 
+5. Délais
+ UXR : Quels délais constatez-vous, et qu'est-ce qui les explique ?
+ Claire : Normalement, expert sous 4 jours. En crise, 10 jours en moyenne, jusqu'à 25 pour les plus compliqués.
+ Ce qui allonge : le manque d'experts, les pièces manquantes, et les allers-retours avec les
+commerçants. L'avance, nous pouvons la débloquer sans expertise jusqu'à 5 000 euros, mais
+beaucoup de collègues ne le savaient pas. Pour le client, il n'y a aucune visibilité : il ne voit que le
+statut 'en cours'.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+6. Satisfaction perçue
+ UXR : Comment savez-vous si un commerçant est satisfait ? Que remontent les retours ?
+ Claire : On regarde les réclamations et les appels de relance, mais pas de mesure systématique de la
+ satisfaction après un sinistre. Je dirais que les commerçants sont satisfaits quand on les a appelés
+proactivement, et très insatisfaits quand ils ont dû relancer plusieurs fois. Les retours sont
+majoritairement sur l'absence d'information, pas sur le montant.
+7. Attentes, freins, lignes rouges
+ UXR : Quels seraient vos besoins, vos freins et vos lignes rouges pour un nouveau circuit ?
+ Claire : Un circuit de mise en relation qui me donnerait des dossiers structurés, avec les pièces déjà classées,
+ ce serait un gain énorme. Ce que j'ai besoin de garder : la capacité de décider de la priorité, de
+poser des questions, de faire confiance à mon jugement. Mes lignes rouges : qu'un outil envoie
+automatiquement des promesses de délai que je ne pourrai pas tenir, et que les données soient
+exploitables par la lutte anti-fraude.
+8. Clôture
+ UXR : Pour finir, une chose à retenir ?
+ Claire : Qu'on donne un statut lisible aux commerçants, parce que 60 % de mes appels sont des demandes de
+ nouvelles.

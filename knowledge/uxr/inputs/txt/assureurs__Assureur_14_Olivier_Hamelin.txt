@@ -1,0 +1,67 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°14 - Olivier Hamelin
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Olivier Hamelin, 39 ans
+Entretien
+n°14
+Fonction
+Courtier en ligne (cabinet digital)
+Date
+mer. 04/11 2026
+Structure
+Cabinet Digitalis Assurances (partenaire
+Sérévance)
+Durée
+52 min
+Profil
+Agent / courtier
+Mode
+Sur place
+Ancienneté
+9 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre périmètre, et comment travaillez-vous avec les commerçants ?
+ Olivier : Je suis courtier chez un cabinet digital : 90 % de mes clients sont des TPE, qui souscrivent en ligne ou
+ par téléphone, sans rendez-vous. Je gère environ 1 500 contrats, dont 300 chez Sérévance.
+2. La relation avec les commerçants
+ UXR : Comment décririez-vous la relation de Sérévance avec ses assurés commerçants ?
+ Olivier : Nos clients attendent de la rapidité et de la clarté. Ils n'ont pas de temps. Avec Sérévance, la relation
+ passe par une plateforme courtiers, et quelques contacts nommés. En cas de sinistre, ils me
+contactent via le chat ou le téléphone, et je fais le lien.
+3. La crise, le récit
+ UXR : Revenons sur la crise : comment l'avez-vous vécue, qu'est-ce qui s'est passé les premiers jours ?
+ Olivier : Durant la crise, j'ai reçu 140 demandes en 3 jours, dont 40 sinistres Sérévance. Notre outil nous a
+ permis de pré-remplir les déclarations avec les données du contrat, ce qui a accéléré. Mais côté
+Sérévance, il fallait ressaisir dans leur portail, donc double saisie.
+4. Qualité des déclarations et tri
+ UXR : Parlons des déclarations : leur qualité, et la façon dont les dossiers sont triés.
+ Olivier : Les déclarations que j'envoie sont structurées : activité, adresse, contrat, garanties, photos. Ce qui
+ manque, c'est la gravité et la situation du commerçant. Mais on pourrait l'ajouter facilement. Le tri
+chez Sérévance, je ne le vois pas. Je sais juste que mes dossiers n'avancent pas plus vite que les
+autres.
+5. Délais
+ UXR : Quels sont vos délais réels, étape par étape ? Qu'est-ce qui les allonge ?
+ Olivier : Mes clients ont eu un expert à J+10 en moyenne. Indemnisation à J+45. Le plus pénible : l'absence de
+ visibilité. Je voudrais une API ou un export automatique, pour synchroniser mes dossiers avec les
+statuts de Sérévance, et informer mes clients par SMS.
+6. Satisfaction perçue
+ UXR : Que savez-vous de la satisfaction des commerçants ? Quels signaux avez-vous ?
+ Olivier : Nos clients nous notent. La note moyenne sur les sinistres Sérévance est de 3,2 sur 5, contre 4,1 pour
+ un concurrent qui propose un suivi par SMS. Les commentaires parlent presque tous de l'attente
+sans information.
+7. Attentes, freins, lignes rouges
+ UXR : Si on repensait le circuit, qu'est-ce qui vous aiderait, et qu'est-ce qui serait inacceptable ?
+ Olivier : Un circuit où nos outils parlent aux leurs, par API. Je refuse qu'on soit obligé de passer par un portail
+ sans intégration. Et je voudrais un statut standardisé, avec des dates prévues, que je puisse relayer
+en SMS à mes clients.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Olivier : Une API de suivi de dossier pour les courtiers.
+ 

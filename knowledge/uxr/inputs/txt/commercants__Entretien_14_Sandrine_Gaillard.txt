@@ -1,0 +1,65 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°14 - Sandrine Gaillard
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Sandrine Gaillard, 45 ans
+Entretien
+n°14
+Activité
+Bar-brasserie
+Date
+mer. 04/11 2026
+Ville
+Strasbourg
+Durée
+56 min
+Taille
+5 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (11 ans)
+Canal
+Agent (agence)
+Situation
+Devanture incendiée, salle détruite, fermée
+4 mois
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Sandrine : jé un bar brasserie depui 11 ans, 5 employé, on fait resto le midi et bar le soir. Mon gros stresse cé
+ le feu, la cuisine, et les clients qui se battent, mais ça cé la vie.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Sandrine : Sérévance jy suis depuis le début, cé un agent de proximité, Monsieur Haas, un monsieur très
+ gentil. On se voit au renouvellement, on prend un café. Cé presque un copain.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Sandrine : Cé la nuit, des gars ont lancé des cocktails sur la devanture, ça a pris feu, les pompiers sont venu,
+ mais la salle est détruite, la moquette, les banquettes, la cuisine a eu de lfumée. Jme suis retrouvée
+devant mon bar a 4h du mat, jai pleuré. Après j'ai appelé Monsieur Haas.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Sandrine : Monsieur Haas a tout géré, il est venu le jour même. Jai rempli un dossier avec lui, en papier, avec
+ les factures. Ensuite sérévance ma envoyé un expert, puis un autre expert parce que cété trop gros,
+puis un architecte. Jmenfiche, mais jsavais plus qui était qui.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Sandrine : Premier expert J+6, mais lindemnisation, jai eu une avance à J+40, et le reste, 4 mois après. Ces 4
+ mois, jai pas pu payer mes employés, jai du les mettre en chomage partiel. Pour moi, jusqua 3
+semaines sa va, mais pas 4 mois.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Sandrine : 5 sur 10. Lhumain a été super, lorganisation est nulle. Le pire moment, cétait le jour ou ils ont dit
+ qu'ils ne couvraient pas les travaux de mise aux normes.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Sandrine : Je voudrai un seul expert, un seul dossier. Et quon me dise tout de suite ce qui est exclu. Je refuse
+ quon me traite comme un numéro.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Sandrine : Un interlocuteur unique pour les gros sinistres, pas trois experts differents.
+ 

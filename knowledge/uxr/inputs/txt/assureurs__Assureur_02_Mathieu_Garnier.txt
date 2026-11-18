@@ -1,0 +1,73 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°02 - Mathieu Garnier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Mathieu Garnier, 34 ans
+Entretien
+n°02
+Fonction
+Gestionnaire sinistres (renfort cellule de
+crise)
+Date
+mar. 10/11 2026
+Structure
+Sérévance, équipe sinistres particuliers
+Nantes
+Durée
+55 min
+Profil
+Gestionnaire sinistres
+Mode
+Visio
+Ancienneté
+5 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre périmètre, et comment travaillez-vous avec les commerçants ?
+ Mathieu : Je suis gestionnaire sinistres, normalement sur les particuliers : auto, habitation. Pendant la crise, j'ai
+ été mobilisé en renfort sur le dossier commerçants pendant trois semaines. Je suis donc moins
+expert du segment que mes collègues, ce qui est une partie de l'histoire.
+2. La relation avec les commerçants
+ UXR : Comment décririez-vous la relation de Sérévance avec ses assurés commerçants ?
+ Mathieu : Je ne connaissais pas du tout les commerçants. Les particuliers, ils sont tous en panique mais
+ simples à comprendre. Les commerçants, ils ont des enjeux de trésorerie, de salariés, de saison,
+que je n'avais pas en tête. J'ai appris vite, grâce à un guide interne d'une page, mais je faisais
+encore des erreurs.
+3. La crise, le récit
+ UXR : Revenons sur la crise : comment l'avez-vous vécue, qu'est-ce qui s'est passé les premiers jours ?
+ Mathieu : J'ai reçu un lundi matin un message : 'vous êtes affecté à la cellule émeutes'. On m'a donné 60
+ dossiers à reprendre, sans contexte, sans historique de contact. Certains étaient déjà ouverts
+depuis une semaine par quelqu'un d'autre. J'ai passé la première journée à comprendre qui avait
+fait quoi. Les notes dans l'outil étaient parfois inexistantes.
+4. Qualité des déclarations et tri
+ UXR : Parlons des déclarations : leur qualité, et la façon dont les dossiers sont triés.
+ Mathieu : Ce qui manque le plus dans une déclaration : l'activité réelle du commerçant. Une 'boutique' peut être
+ un tabac, une pharmacie ou une friterie, et les garanties changent. Ensuite le nombre de salariés,
+que je n'avais pas. Et la situation : fermé ou ouvert ? Pour le tri, je ne savais pas quels critères
+appliquer, on m'a dit 'les plus gros d'abord', mais sans définition de 'gros'.
+5. Délais
+ UXR : Quels sont vos délais réels, étape par étape ? Qu'est-ce qui les allonge ?
+ Mathieu : Pour moi, le plus long, c'était d'avoir une réponse du commerçant, parce qu'il avait la tête ailleurs.
+ Entre le premier appel et la décision d'expertise, il y a eu 3 jours. Ensuite c'est le planning des
+experts qui dicte. Je ne maîtrisais pas les délais, donc je ne pouvais rien promettre. Je disais 'on
+revient vers vous', ce qui est la pire phrase.
+6. Satisfaction perçue
+ UXR : Que savez-vous de la satisfaction des commerçants ? Quels signaux avez-vous ?
+ Mathieu : Je n'ai aucun indicateur de satisfaction. Ce que je voyais, c'était le ton au téléphone : de plus en plus
+ tendu au fil des jours. Et certains commerçants me disaient 'vous êtes le troisième à m'appeler, je
+recommence tout'.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes, freins, lignes rouges
+ UXR : Si on repensait le circuit, qu'est-ce qui vous aiderait, et qu'est-ce qui serait inacceptable ?
+ Mathieu : Un dossier qui arrive avec une fiche d'identité du commerçant claire, des pièces classées, une gravité
+ estimée et une case 'priorité'. Ça m'aurait épargné deux jours. Un point de vigilance : je ne voudrais
+pas qu'une IA décide seule de la priorité, parce qu'un commerçant qui a perdu un camion aura
+peut-être déclaré peu.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Mathieu : Une fiche d'identité claire dès l'ouverture du dossier.
+ 

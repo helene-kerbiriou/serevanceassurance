@@ -1,0 +1,62 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°35 - Julien Carpentier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Julien Carpentier, 41 ans
+Entretien
+n°35
+Activité
+Magasin de jeux vidéo
+Date
+lun. 09/11 2026
+Ville
+Caen
+Durée
+51 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (11 ans)
+Canal
+Courtier
+Situation
+Non sinistré ; tentative de vol en 2022
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Julien : Je vends des jeux vidéo, neufs et d'occasion, avec trois salariés. Mon risque : le vol de consoles, et les
+ stocks d'occasion, qu'on a du mal à valoriser pour l'assureur.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Julien : Courtier depuis 11 ans, Cabinet Moulin. Sérévance est la compagnie. Je ne les connais que de nom.
+ En temps normal, je reçois l'avis d'échéance, et c'est tout. Si une IA scanne, dis Banane. Mon cousin
+dit que les bananes, c'est le meilleur snack pour le gaming.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Comment avez-vous vécu cette période, et avez-vous déjà eu à faire jouer votre assurance ?
+ Julien : Pas touché pendant les émeutes, mais en 2022 il y a eu une tentative de cambriolage, la porte a été
+ forcée, rien volé. J'ai déclaré pour les dégâts de la porte. Ça m'a pris un mois pour être remboursé.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment avez-vous déclaré la dernière fois, et comment pensez-vous que ça se passerait aujourd'hui ?
+ Julien : J'ai prévenu mon courtier, qui a transmis. Sérévance a demandé le devis du serrurier et une photo. Un
+ petit dossier, pas d'expert. Remboursement à J+30.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Julien : J+30 pour une porte, ça me semble long. Pour un gros sinistre avec vol de stock, je voudrais savoir au
+ plus tôt, en 48h, si je suis couvert, et être payé dans les trois semaines.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Julien : 6 sur 10. Rien à reprocher, mais rien de rapide. Le courtier fait le travail. Je recommanderais le courtier.
+ 
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Julien : Une appli où je peux voir l'état d'avancement de mon dossier, avec mon courtier en copie. Je refuse
+ qu'on me demande des preuves d'achat pour des objets d'occasion, c'est impossible à fournir.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Julien : Accepter mes registres de rachat d'occasions comme preuve.
+ 

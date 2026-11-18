@@ -1,0 +1,63 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°46 - Françoise Lemoine
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Françoise Lemoine, 61 ans
+Entretien
+n°46
+Activité
+Papeterie-presse
+Date
+jeu. 12/11 2026
+Ville
+Le Mans
+Durée
+55 min
+Taille
+2 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Mutuelle Atlantis (22 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, stock détérioré, fermée 12
+jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Françoise : J'ai ma papeterie-presse depuis 22 ans, deux salariés. La presse ne rapporte plus beaucoup, la
+ papeterie dépend de la rentrée. Le vol, je n'y pense pas trop d'habitude.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Mutuelle Atlantis, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Françoise : Je suis chez Mutuelle Atlantis depuis 22 ans, avec la même agence. J'ai une conseillère que je vois
+ en décembre. Franchement, j'ai une relation de confiance, je n'ai jamais pensé à comparer.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Françoise : La vitrine a été brisée, de l'eau est entrée, une partie du stock papier est foutue. J'ai appelé la
+ conseillère le lendemain matin, elle est venue avec un expert dans l'heure. Ça m'a vraiment surprise.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Françoise : Ma conseillère a tout géré. J'ai signé un document, c'est elle qui a envoyé le reste. L'expert était
+ déjà sur place. Je n'ai pas eu à chercher qui appeler, on est venu à moi.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Françoise : Expert J+1, avance J+5, solde J+20. C'est exceptionnel, je pense. Je ne sais pas si c'est toujours
+ comme ça, ou si j'ai eu de la chance.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Mutuelle
+ Atlantis ?
+Françoise : 9 sur 10. Je recommande à tout le monde. Je pense que la proximité fait toute la différence :
+ l'agence est à 500 mètres, elle a eu mon appel et elle est venue.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Françoise : Que ça reste ainsi. Je refuse un assureur à distance qui ne vient jamais voir. Une appli pour les
+ jeunes, mais moi j'ai la conseillère.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Françoise : Gardez la proximité.
+ 

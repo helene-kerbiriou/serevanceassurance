@@ -1,0 +1,91 @@
+Protocoles UXR - Hackathon designers - Sérévance Assurances (données fictives)
+1
+Protocoles d'entretiens UXR
+Hackathon designers – Mise en relation commerçants / assureurs post-sinistre
+Contexte : étude exploratoire menée pour Sérévance Assurances. Les entretiens produits à partir de ces protocoles seront
+synthétiques (données fictives pour le hackathon).
+Principes communs
+ Entrée par la relation, pas par le sinistre : le sinistre est un moment fort d'une relation plus large.
+ Récits plutôt qu'opinions : « racontez-moi la dernière fois que… » avant toute question de satisfaction.
+ Sérévance au cœur, sans exclusivité : comparaison avec les autres assureurs et courtiers connus.
+ Blocs dédiés aux délais (attendu vs vécu) et aux refus (lignes rouges).
+ Aucune solution présentée avant la fin, pour ne pas biaiser les réponses.
+
+Protocoles UXR - Hackathon designers - Sérévance Assurances (données fictives)
+2
+Protocole 2 – Assureurs (20 entretiens)
+Objectif : comprendre comment Sérévance vit sa relation avec ses assurés commerçants, notamment en crise
+: flux, tri, délais, satisfaction perçue, contraintes et attentes vis-à-vis d'un nouveau circuit.
+Durée : 50 min. Hypothèse : collaborateurs et partenaires Sérévance (à confirmer).
+Échantillon
+ Gestionnaires sinistres (6), experts internes et externes (4).
+ Agents généraux et courtiers partenaires (4), managers de cellule de crise (2).
+ Relation client / digital / produit (2), conformité / lutte anti-fraude (2).
+Déroulé
+Bloc
+Durée
+Questions principales
+Relances
+0. Intro
+3 min
+Cadre, confidentialité.
+1. Rôle et
+périmètre
+5 min
+Quel est votre rôle ? Quel est votre lien avec
+les commerçants ?
+Équipe, outils, volumes habituels.
+2. La relation avec
+les commerçants
+7 min
+Comment décririez-vous la relation de
+Sérévance avec ses assurés commerçants ?
+Ce qui marche, ce qui frotte ? Qui est le
+visage de Sérévance pour eux ? Verbatims
+clients entendus ?
+3. La crise, le récit
+10 min
+Racontez-moi ce qui s'est passé chez vous
+après les émeutes.
+Premiers jours ? Afflux, canaux, effectifs ?
+Décisions prises ? Surprises ?
+4. Qualité des
+déclarations et tri
+8 min
+Qu'est-ce qui arrive dans une déclaration ?
+Comment décidez-vous de l'ordre de
+traitement ?
+Infos manquantes ? Règles de priorisation
+formelles ou implicites ? Qui décide ?
+Dossiers laissés de côté ?
+5. Délais
+6 min
+Quels sont vos délais réels, étape par étape ?
+Qu'est-ce qui les allonge ?
+Engagements internes ou réglementaires ?
+Qu'est-ce qui est visible pour le client ?
+Expertise à distance ?
+6. Satisfaction
+perçue
+4 min
+Comment savez-vous si un commerçant est
+satisfait ?
+Réclamations, médiateur, NPS,
+bouche-à-oreille ?
+7. Attentes, freins,
+lignes rouges
+6 min
+Qu'attendriez-vous d'un meilleur circuit de
+mise en relation ? Qu'est-ce que vous ne
+pourriez pas accepter ?
+Fraude, responsabilité, conformité, RGPD ?
+Données structurées vs pièces libres ?
+Statut de délai affiché au client ? Rôle des
+courtiers ?
+8. Clôture
+1 min
+Un dernier point à ajouter ?
+À capter
+ Règles de tri réelles, goulots d'étranglement, champs de données indispensables.
+ Risques perçus : fraude, surcharge, promesses de délai.
+ Appétence pour l'outil ; écarts entre le discours assureur et le discours commerçant.

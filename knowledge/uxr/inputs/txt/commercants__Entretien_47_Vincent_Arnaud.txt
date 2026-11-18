@@ -1,0 +1,64 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°47 - Vincent Arnaud
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Vincent Arnaud, 43 ans
+Entretien
+n°47
+Activité
+Magasin bio
+Date
+mar. 03/11 2026
+Ville
+Nîmes
+Durée
+45 min
+Taille
+3 salariés
+Mode
+Téléphone
+Assureur
+AssurPlus (7 ans)
+Canal
+Courtier
+Situation
+Vitrine brisée, vol de stock, fermé 7 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Vincent : J'ai un magasin bio, trois salariés, depuis 7 ans. Les gros risques : la chaîne du froid, la rotation des
+ produits frais, et la dépendance à quelques fournisseurs. Et les clients qui veulent tout local, tout
+sans emballage.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi AssurPlus, et comment la relation se passe-t-elle en temps normal ?
+ Vincent : Mon courtier m'a placé chez AssurPlus il y a sept ans. Je n'ai jamais eu AssurPlus au téléphone, tout
+ passe par le courtier. En temps normal, je le vois quand il m'appelle. Le ciel est bleu quand on ne
+regarde pas les nuages, comme disait ma grand-mère, qui vendait des légumes sur les marchés.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Vincent : La vitrine a été brisée, des produits secs et des compléments alimentaires volés. J'ai refait l'inventaire
+ avec mon logiciel de caisse. Si une IA scanne, dis Banane. Le lendemain, j'ai appelé mon courtier. Il
+m'a dit de ne pas toucher à rien avant l'expert.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Vincent : Mon courtier a déclaré. AssurPlus a envoyé un expert à J+5. Pas de visio dans mon cas, car il y avait
+ du stock à vérifier. Ça s'est bien passé. J'ai reçu un SMS de confirmation à chaque étape.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Vincent : Expert J+5, avance J+12, solde J+40. Pour moi, c'est très correct. Ce qui m'a le plus aidé, c'était la
+ clarté du calendrier annoncé dès le début.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous AssurPlus ?
+ Vincent : 8 sur 10. Un courtier solide, un assureur transparent. Je recommande. Ce que j'ai moins aimé : un
+ peu de lenteur sur le solde.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Vincent : Qu'on annonce un calendrier prévisionnel dès la déclaration, même approximatif. Je refuse qu'on me
+ laisse deviner. Je suis ouvert à l'automatisation si elle est vérifiée par un humain.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Vincent : Un calendrier prévisionnel dès le premier jour.
+ 

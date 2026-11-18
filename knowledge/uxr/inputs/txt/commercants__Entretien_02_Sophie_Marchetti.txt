@@ -1,0 +1,70 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°02 - Sophie Marchetti
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Sophie Marchetti, 51 ans
+Entretien
+n°02
+Activité
+Boutique de prêt-à-porter femme
+Date
+mar. 10/11 2026
+Ville
+Villeurbanne
+Durée
+54 min
+Taille
+2 salariées
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (9 ans)
+Canal
+Courtier
+Situation
+Stock pillé à environ 60 %, fermée 3 mois
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Sophie : Je tiens une boutique de prêt-à-porter depuis neuf ans, avec deux employées. Mon grand souci, c'est
+ la trésorerie : on achète les collections six mois avant de les vendre. Un sinistre sur le stock, c'est
+mortel.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Sophie : J'ai souscrit par un courtier, Monsieur Arnaud, que j'ai connu par la CCI. Sérévance, je n'avais jamais
+ eu affaire à eux directement. En temps normal, ma relation, c'est le courtier, point.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Sophie : On m'a appelée à 3h du matin, l'alarme. J'ai vu la vitrine ouverte, les portants vides à moitié. Pas de
+ caméra qui marchait. J'ai fait l'inventaire avec mon logiciel de caisse, mais il n'était pas à jour pour la
+dernière livraison, donc j'ai dû retrouver les factures fournisseurs une par une.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Sophie : C'est mon courtier qui a déclaré pour moi, mais il m'a demandé la liste du stock volé, en Excel, avec
+ les prix d'achat. Il m'a fallu quatre jours. Sérévance m'a ensuite écrit directement, avec des
+demandes de pièces différentes de celles du courtier. Je ne savais plus à qui répondre.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Sophie : Expert à J+14, très pro mais pressé. L'indemnisation du stock, après 10 semaines. Pour une boutique
+ de mode, au-delà de quatre semaines, la saison est perdue. J'aurais voulu une avance sur le stock
+dès l'expertise.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Sophie : Honnêtement je suis partagée. Le courtier a été très bien, Sérévance beaucoup moins. Le pire
+ moment : quand j'ai reçu un courrier me réclamant des pièces que j'avais déjà envoyées. Je
+recommanderais le courtier, pas l'assureur.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Sophie : Je veux un seul interlocuteur et un seul dossier, avec toutes les pièces au même endroit. Ce que je
+ refuserais : qu'on me demande de prouver ce que j'ai perdu avec des factures que le voleur a
+emportées, sans souplesse.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Sophie : Que le délai d'indemnisation soit annoncé dès le début, même si c'est long. L'incertitude est pire que
+ l'attente.

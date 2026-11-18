@@ -1,0 +1,70 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°08 - Amandine Rousseau
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Amandine Rousseau, 39 ans
+Entretien
+n°08
+Fonction
+Experte en pertes d'exploitation et
+comptabilité
+Date
+ven. 06/11 2026
+Structure
+Cabinet d'expertise Delorme & Associés
+(partenaire Sérévance)
+Durée
+55 min
+Profil
+Expert
+Mode
+Téléphone
+Ancienneté
+13 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre périmètre, et comment travaillez-vous avec les commerçants ?
+ Amandine : Je suis experte en pertes d'exploitation. Je travaille sur les chiffres : bilans, marges, saisonnalité.
+ Je vois les commerçants moins souvent que mes collègues du bâtiment, mais j'ai plus de contact
+avec leurs comptables.
+2. La relation avec les commerçants
+ UXR : Comment décririez-vous la relation de Sérévance avec ses assurés commerçants ?
+ Amandine : Les commerçants sont souvent très mal préparés côté comptabilité. Certains n'ont pas de bilan à
+ jour, d'autres ont des chiffres qui ne reflètent pas leur activité réelle. Je dois reconstruire, parfois à
+partir de relevés bancaires. J'essaie d'être pédagogue, parce qu'ils se sentent jugés.
+3. La crise, le récit
+ UXR : Revenons sur la crise : comment l'avez-vous vécue, qu'est-ce qui s'est passé les premiers jours ?
+ Amandine : Sur la crise, j'ai eu une vingtaine de dossiers en trois semaines, très variés : un restaurant fermé 4
+ mois, une boutique ouverte avec baisse de 30 %, un salon de coiffure. Je suis intervenue assez
+tard dans le processus, parfois à J+30, alors qu'on aurait pu m'impliquer plus tôt pour cadrer
+l'avance.
+4. Qualité des déclarations et tri
+ UXR : Parlons des déclarations : leur qualité, et la façon dont les dossiers sont triés.
+ Amandine : Ce qui me manque dans une déclaration : la date de fermeture, la date prévue de réouverture, les
+ charges fixes, et le chiffre d'affaires moyen. Ce sont quatre champs simples qui me permettraient
+de proposer une avance en 48 heures. Pour le tri, la durée de fermeture est le critère principal, bien
+avant le montant des dégâts.
+5. Délais
+ UXR : Quels sont vos délais réels, étape par étape ? Qu'est-ce qui les allonge ?
+ Amandine : Mon délai : 3 à 5 semaines pour un rapport complet, parce que j'attends les pièces comptables.
+ Mais une avance peut être décidée beaucoup plus tôt, sur des éléments simples.
+Malheureusement, elle est souvent conditionnée à mon rapport, ce qui est trop long.
+6. Satisfaction perçue
+ UXR : Que savez-vous de la satisfaction des commerçants ? Quels signaux avez-vous ?
+ Amandine : Je constate que les commerçants qui ont un comptable réactif sont mieux indemnisés et plus vite.
+ Ça crée une inégalité. Les plus petits, sans comptable, sont pénalisés. Un circuit qui les aiderait à
+produire ces éléments serait très utile.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes, freins, lignes rouges
+ UXR : Si on repensait le circuit, qu'est-ce qui vous aiderait, et qu'est-ce qui serait inacceptable ?
+ Amandine : Un formulaire qui capte les données essentielles de perte d'exploitation en amont. Je refuse qu'on
+ généralise des forfaits sans vérification, parce que le risque de sur-indemnisation ou de
+sous-indemnisation est réel. Mais une avance forfaitaire encadrée, oui.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Amandine : Dissocier l'avance du rapport complet.
+ 

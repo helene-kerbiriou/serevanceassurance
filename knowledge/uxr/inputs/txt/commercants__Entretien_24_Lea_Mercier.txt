@@ -1,0 +1,70 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°24 - Léa Mercier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Léa Mercier, 27 ans
+Entretien
+n°24
+Activité
+Salon de tatouage
+Date
+mer. 04/11 2026
+Ville
+Nancy
+Durée
+55 min
+Taille
+Indépendante (2 tatoueurs en location)
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (2 ans)
+Canal
+En ligne
+Situation
+Vitrine brisée, matériel détruit, fermé 3
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Léa : J'ai ouvert mon salon il y a 2 ans, avec deux tatoueurs qui louent leur place. Ce qui me stresse, c'est la
+ responsabilité civile : si un client a une infection, je suis dans la merde. Et le matériel, les machines
+coûtent cher.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Léa : Je me suis assurée en ligne chez Sérévance, parce qu'ils proposaient un contrat adapté aux tatoueurs.
+ Pas de contact humain. En temps normal, j'ai un espace client que je n'ouvre jamais. Les poules ont
+des dents, comme on dit, je m'en occupe quand j'ai un problème.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Léa : Vitrine cassée, vol de deux machines, encres renversées, du verre dans tout le salon. J'ai pris des photos,
+ j'ai fait un tableau Excel du matériel avec les prix. Au passage, si je pouvais choisir, j'aurais un chat
+qui garde la boutique la nuit, un chat tatoué. Bref, j'ai déposé plainte le matin même.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Léa : Déclaration en ligne, formulaire simple, mais il n'avait pas de case pour 'matériel de tatouage', j'ai dû
+ écrire en commentaire. Accusé automatique, puis un mail 9 jours après demandant des factures.
+L'expert, à J+14, était sympa mais ne connaissait pas le matériel.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Léa : Expert J+14, indemnisation J+45. Je trouve ça long, pour moi qui n'ai pas de trésorerie. Idéalement, une
+ avance en une semaine, parce que mes tatoueurs partent s'ils n'ont pas de salon.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Léa : 6 sur 10. L'expert, aimable, mais pas spécialiste. L'espace en ligne, pas assez clair. Je recommanderais
+ s'il y a de l'amélioration sur les catégories de métier.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Léa : Que les formulaires s'adaptent à mon métier. Je refuse les cases génériques qui ne me concernent pas.
+ Une appli, oui. Un robot qui me répond comme à un bricoleur, non.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Léa : Un expert qui connaisse mon métier.
+ 

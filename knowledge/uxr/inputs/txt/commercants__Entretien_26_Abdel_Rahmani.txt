@@ -1,0 +1,64 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°26 - Abdel Rahmani
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Abdel Rahmani, 42 ans
+Entretien
+n°26
+Activité
+Primeur (fruits et légumes)
+Date
+jeu. 12/11 2026
+Ville
+Évry
+Durée
+41 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (9 ans)
+Canal
+Agent (agence)
+Situation
+Étals détruits, camion incendié, fermé 12
+jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Abdel : Je suis primeur, trois salariés, je me lève à 4h pour Rungis. Mon risque principal, c'est la perte de
+ marchandise : tout est périssable. Et mon camion, il me sert à tout.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Abdel : Sérévance depuis 9 ans, par un agent de la ville. Je le connais, on se croise souvent. En temps normal,
+ je le vois pas, je signe une fois par an et c'est tout.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Abdel : Mon camion a été incendié devant la boutique, et la façade a été touchée. Les étals extérieurs étaient
+ détruits. J'ai pu sauver la marchandise intérieure, mais sans camion, plus de Rungis. J'ai passé 12
+jours à louer un utilitaire.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Abdel : J'ai déclaré le camion et la boutique en même temps par l'agent. L'expert est passé pour le camion à
+ J+7, pour la boutique à J+14. Ils ont eu l'air de traiter deux dossiers différents, avec deux numéros.
+J'ai mal compris qui s'occupait de quoi.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Abdel : Camion remboursé à J+40, boutique à J+60. Pour moi, le camion était urgent parce que sans lui, je ne
+ peux pas travailler. Il aurait fallu le traiter en priorité, dans les 5 jours.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Abdel : 6 sur 10. J'ai trouvé que personne ne comprenait que sans camion je suis mort. Le meilleur moment :
+ l'agent qui a trouvé un loueur de véhicule. Je recommande l'agent.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Abdel : Que la priorité soit donnée à l'outil de travail, camion, matériel, avant le reste. Je refuse qu'on traite tout
+ dans le même ordre. Une appli, oui. Un robot, non.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Abdel : Prioriser ce qui permet de reprendre le travail.
+ 

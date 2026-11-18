@@ -1,0 +1,67 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°10 - Karine Dubois
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Karine Dubois, 44 ans
+Entretien
+n°10
+Fonction
+Experte (expertise à distance, visio)
+Date
+lun. 02/11 2026
+Structure
+Sérévance, pôle expertise digitale
+Durée
+49 min
+Profil
+Expert
+Mode
+Sur place
+Ancienneté
+10 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Pour commencer, pouvez-vous vous présenter et me dire ce que vous faites au quotidien ?
+ Karine : Je suis experte au pôle expertise à distance de Sérévance. Je réalise des expertises en visio, avec le
+ commerçant qui filme avec son téléphone. C'est une activité récente, lancée il y a 2 ans, sur les
+petits dommages.
+2. La relation avec les commerçants
+ UXR : Qui est le visage de Sérévance pour un commerçant, d'après votre expérience ?
+ Karine : Les commerçants sont plutôt à l'aise avec la visio, même les plus âgés. Ils filment, je les guide. Ce que
+ j'apprécie : je vois leur environnement, je comprends leur activité. Ce qui est difficile : quand le
+réseau est mauvais, ou quand ils sont en détresse.
+3. La crise, le récit
+ UXR : Racontez-moi ce qui s'est passé chez vous après les émeutes.
+ Karine : Pendant la crise, notre pôle a été mobilisé massivement : nous avons fait environ 600 visios en 12
+ jours, contre une trentaine par semaine d'habitude. On a traité surtout des dossiers C, avec
+dommage limité. Beaucoup de commerçants m'ont dit que c'était 'rapide' et 'pratique'. Pour les cas
+lourds, on passait le relais à un expert terrain.
+4. Qualité des déclarations et tri
+ UXR : Que contient une déclaration ? Et comment priorise-t-on, concrètement ?
+ Karine : Pour qu'une visio fonctionne, il faut que le dossier contienne les coordonnées valides, l'adresse, la
+ nature du dommage et les photos de base. Ce n'était pas toujours le cas. Pour le tri, les dossiers
+visio étaient orientés par le gestionnaire selon des critères d'éligibilité : montant estimé inférieur à
+15 000 euros, pas de dommage structurel, pas de suspicion.
+5. Délais
+ UXR : Quels délais constatez-vous, et qu'est-ce qui les explique ?
+ Karine : Visio à J+3 en moyenne, rapport sous 24h, avance quasi immédiate si le dossier est conforme. C'est
+ l'un des circuits les plus rapides de la compagnie. Je pense qu'on pourrait l'étendre à 30 % de
+dossiers de plus, avec un meilleur ciblage en amont.
+6. Satisfaction perçue
+ UXR : Comment savez-vous si un commerçant est satisfait ? Que remontent les retours ?
+ Karine : Les retours sont très bons : 85 % de satisfaction sur nos visios, d'après le questionnaire envoyé après
+ chaque expertise. Les commerçants apprécient d'avoir un humain en face, même à distance.
+7. Attentes, freins, lignes rouges
+ UXR : Quels seraient vos besoins, vos freins et vos lignes rouges pour un nouveau circuit ?
+ Karine : Un circuit qui oriente directement les petits dossiers vers la visio, dès la déclaration. Ce que je refuse :
+ que la visio soit imposée à un commerçant qui n'est pas à l'aise. Il faut proposer, pas obliger. Et ne
+pas l'utiliser pour des dommages complexes.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, une chose à retenir ?
+ Karine : Orienter les petits dossiers vers la visio dès la déclaration.
+ 

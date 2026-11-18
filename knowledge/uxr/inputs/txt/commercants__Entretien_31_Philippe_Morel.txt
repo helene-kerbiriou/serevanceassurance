@@ -1,0 +1,73 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°31 - Philippe Morel
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Philippe Morel, 52 ans
+Entretien
+n°31
+Activité
+Boutique de chaussures
+Date
+jeu. 05/11 2026
+Ville
+Paris 11e
+Durée
+45 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (17 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistré lors des émeutes ; dégât des
+eaux en 2023
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Philippe : Je tiens une boutique de chaussures depuis 17 ans, trois salariés. Ce qui m'inquiète, c'est le coût des
+ loyers et la concurrence en ligne. L'assurance, c'est une charge de plus, mais obligatoire.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Philippe : Chez Sérévance depuis 17 ans, avec le même agent, Monsieur Bonnet. En temps normal, je
+ l'appelle une fois par an. On a une relation cordiale, mais sans plus. J'ai déjà reçu des offres
+concurrentes, je les ai regardées sans bouger.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Votre commerce n'a pas été touché par les émeutes. Comment l'avez-vous vécu, et avez-vous déjà eu
+ un sinistre ?
+Philippe : Pendant les émeutes, ma rue a été épargnée, mais deux boutiques à 200 mètres ont été touchées.
+ J'ai passé la nuit à surveiller ma vitrine. Sinon, mon seul sinistre, c'était un dégât des eaux en 2023,
+une fuite du voisin du dessus. Ça avait pris un mois pour les réparations.
+UXR : Donc après ce dégât des eaux, vous avez quitté Sérévance puis vous êtes revenu ?
+ Philippe : Euh... oui, enfin non, j'ai jamais vraiment quitté, j'ai juste regardé ailleurs.
+ 
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment s'est passée la déclaration, et qu'est-ce qui vous aiderait en cas de sinistre plus gros ?
+ Philippe : Pour le dégât des eaux, j'ai appelé Monsieur Bonnet, qui m'a dit d'envoyer des photos par mail. Un
+ expert est venu en deux semaines. Il fallait faire un constat amiable avec le voisin, ce qui a pris du
+temps. Si c'était un gros sinistre, je ne sais pas comment ça se passerait.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Philippe : Dégât des eaux : expert J+14, indemnisation J+45. Je pense que pour un petit dommage, c'est
+ correct. Si j'étais fermé, j'attendrais une réponse en 48h et un paiement en 15 jours.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Philippe : 6 sur 10. Rien de grave, mais rien de marquant. Je recommanderais mon agent plutôt que
+ Sérévance. Après avoir vu ce qui s'est passé pour les voisins, je me demande si je serais bien
+couvert.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Philippe : Je veux qu'on me dise concrètement : en cas d'émeute, qu'est-ce qui est couvert, en combien de
+ temps. Je refuse qu'on le découvre après. Pour le reste, je m'adapte.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Philippe : Que mon assureur me dise, avant, ce qui se passera.
+ 

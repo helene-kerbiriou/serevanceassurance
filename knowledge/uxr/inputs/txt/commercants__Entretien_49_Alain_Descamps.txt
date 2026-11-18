@@ -1,0 +1,65 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°49 - Alain Descamps
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Alain Descamps, 59 ans
+Entretien
+n°49
+Activité
+Garage automobile
+Date
+mer. 11/11 2026
+Ville
+Lens
+Durée
+55 min
+Taille
+4 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Groupe Valmont (25 ans)
+Canal
+Agent (agence)
+Situation
+Vol de véhicules clients, atelier vandalisé,
+fermé 2 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Alain : J'ai un garage automobile depuis 25 ans, quatre salariés. Mon gros risque, c'est la responsabilité sur les
+ véhicules de mes clients, et les outils, qui coûtent très cher.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Groupe Valmont, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Alain : Chez Valmont depuis 25 ans, avec un agent, Monsieur Cordier, qui m'a toujours suivi. On se voit chaque
+ année. Il est un peu comme un conseiller de famille.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Alain : On a forcé le portail la nuit, volé trois véhicules de clients en réparation, et vandalisé l'atelier. Le matin,
+ j'ai appelé mon agent, puis les clients concernés, et la gendarmerie. C'était dur de dire aux clients
+que leur voiture avait disparu.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Alain : Mon agent a ouvert le dossier, et a tout de suite contacté les assureurs des clients. Il m'a dit que
+ Valmont avait un process pour ça, avec un gestionnaire dédié aux dossiers 'garde de véhicules'. Les
+clients n'ont pas eu à tout refaire.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Alain : Expert J+6, indemnisation de l'atelier J+30, véhicules clients J+45. Je trouve ça très correct pour un cas
+ aussi compliqué. Ce qui m'a aidé, c'est le gestionnaire dédié.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Groupe
+ Valmont ?
+Alain : 8 sur 10. Une compagnie qui a prévu le cas particulier des véhicules clients. Je recommande. Mon agent
+ a aussi fait beaucoup de choses.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Alain : Que les cas particuliers, comme les biens de clients, aient un circuit prévu. Je refuse de faire
+ l'intermédiaire entre mes clients et l'assureur.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Alain : Un circuit dédié pour les biens des clients.
+ 

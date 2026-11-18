@@ -1,0 +1,72 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°03 - Mamadou Diallo
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Mamadou Diallo, 38 ans
+Entretien
+n°03
+Activité
+Tabac-presse
+Date
+ven. 13/11 2026
+Ville
+Marseille 13e
+Durée
+50 min
+Taille
+2 salariés
+Mode
+Téléphone
+Assureur
+Sérévance (7 ans)
+Canal
+Agent (agence)
+Situation
+Vol de stock de cartouches, rideau forcé,
+fermé 5 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Mamadou : bah moi c'est un tabac presse, jai 2 employé, jai repris le fond en 2015. Ce qui mestresse c'est les
+ vol, les braquage, tout sa. Les cigarette sa coute cher alor si on te les prend tas perdu gros.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Mamadou : Sérévance j'y suis depui que jai repris, c'est un mec de l'agence qui m'a fait le contrat, jmen rappel
+ plus du nom. Normalement je les voit jamais, je paye le prélèvement et voila quoi.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Mamadou : Y avait le rideau metalique tordu, ils ont tout pris derrière, les cartouche, les jeux a gratter, tout. Jai
+ appelé la police en premier et mon frère. Ensuite jai compté ce quil manquait avec le papier du
+fournisseur, mais jsais pas si le compte est bon sincèrement.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Mamadou : Jai déclaré par telephone, la dame ma dit denvoyer la plainte et la liste. Jai envoyé par mail mais jai
+ pas eu de reponse. Au bout de 10 jours jai rappelé, elle ma dit quils navaient rien recu. Jai tout
+renvoyé.
+UXR : Donc il y a eu un problème de réception ?
+ Mamadou : Ouai, mais jsais pas si c'est moi ou eux.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Mamadou : L'expert y est passé au bout de 3 semaines. Largent jai eu au bout de 2 mois et demi. Moi je dis
+ une semaine pour lexpert max, sinon on peut pas rouvrir normal, jsuis resté fermé 5 jours quand
+même.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Mamadou : Franchement bof. Ce qui m'a énervé cest quon me rappelle jamais, cest toujours moi qui rappelle.
+ Le meilleur moment cétait quand lexpert a dit que c'était bien couvert. Je les recommande pas trop.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Mamadou : Ouai une appli pourquoi pas mais faut que ce soit simple, jsuis pas trop calé. Un robot non, jveux
+ parler a quelun. Et les donnée quils les gardent pas pour rien, ils les revendent pas jespère.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Mamadou : Juste quils soient plus rapide et quils me tienne au courant par sms.
+ 

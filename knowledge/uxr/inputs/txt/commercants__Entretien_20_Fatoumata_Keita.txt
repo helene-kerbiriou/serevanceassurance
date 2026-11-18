@@ -1,0 +1,76 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°20 - Fatoumata Keita
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Fatoumata Keita, 43 ans
+Entretien
+n°20
+Activité
+Restaurant africain
+Date
+lun. 02/11 2026
+Ville
+Paris 19e
+Durée
+43 min
+Taille
+6 salariés
+Mode
+Visio
+Assureur
+Sérévance (8 ans)
+Canal
+Agent (agence)
+Situation
+Devanture et salle dégradées, fermé 2
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Fatoumata : Mon restaurant, c'est ma vie, j'ai six employés. Je fais du mafé, du thieb, des plats que les gens du
+ quartier aiment. Le risque numéro un, c'est le contrôle d'hygiène, mais aussi la clientèle, qui change
+avec les saisons.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Fatoumata : Chez Sérévance, mon agent s'appelle Monsieur Dupré, il est à Belleville. Il est gentil. En fait, non,
+ je l'ai connu par un cousin, je crois, ou par une association de commerçants, je ne sais plus. Moi je
+n'aime pas l'assurance, tout le monde m'a toujours dit que c'est de l'argent jeté. Mais là, merci, ça
+m'a aidée.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Fatoumata : Le soir, on a entendu du bruit, mon mari est allé voir. La vitrine était cassée, des bouteilles lancées
+ dans la salle. J'ai appelé la police, qui est venue le lendemain. Mon frère a une camionnette, il a
+transporté ce qui était cassé. Au fait, le prix du riz a augmenté de 30 %, c'est ça le vrai problème pour
+nous, pas les émeutes. Le fournisseur de poisson, il vient de Rungis, et il a changé de camion.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Fatoumata : J'ai déclaré rapidement, c'était un lundi, à l'agent. Il m'a dit de ne rien jeter et de prendre des
+ photos. J'ai tout jeté parce que ça sentait, mais j'ai gardé les photos. Je n'ai rien déclaré, en fait, c'est
+mon mari qui l'a fait par téléphone le surlendemain. Sérévance ne m'a jamais rappelée, je crois.
+UXR : Vous n'avez jamais été rappelée ?
+ Fatoumata : Si, l'expert m'a appelée trois fois, il était très gentil.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Fatoumata : L'expert est venu en 4 jours, super rapide. Mais l'argent, je l'attends depuis trois mois. Ou bien je
+ l'ai reçu après trois semaines, je ne sais plus exactement. En tout cas, c'est long, mais ça va.
+Sérévance est très lente. Ou plutôt rapide, mais pas assez.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Fatoumata : Très satisfaite. Enfin, pas vraiment : 6 sur 10. Je les recommanderais, sauf à ma sœur, qui a un
+ autre assureur. L'expert, on m'a dit qu'il était sympathique, je l'ai à peine vu.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Fatoumata : Je ne veux pas d'appli, je ne sais pas me servir de mon téléphone. Mais mon fils pourrait m'aider.
+ Je refuse qu'on réclame des papiers d'avant 2015, parce que mon comptable a déménagé. Pour le
+reste, je m'adapte.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Fatoumata : Que les gens soient gentils, ça aide beaucoup. Le reste, on verra.
+ 

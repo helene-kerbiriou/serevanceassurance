@@ -1,0 +1,67 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°04 - Élodie Renaud
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Élodie Renaud, 36 ans
+Entretien
+n°04
+Activité
+Fleuriste
+Date
+mer. 04/11 2026
+Ville
+Lyon 7e
+Durée
+38 min
+Taille
+1 salariée
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (5 ans)
+Canal
+En ligne
+Situation
+Vitrine brisée, reprise en 48 h
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Élodie : Je suis fleuriste, seule avec une apprentie. Le risque numéro un, c'est la chaîne du froid : si le frigo
+ lâche, tout part. Et le risque de casse, la vitrine.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Élodie : J'ai pris mon contrat en ligne, sur le site de Sérévance, il y a cinq ans, parce que c'était simple et pas
+ cher. Depuis, je n'ai jamais eu quelqu'un au téléphone. En temps normal, rien, c'est un prélèvement.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Élodie : Vitrine brisée, quelques vases cassés, un peu d'eau partout, mais la marchandise était sauve. J'ai
+ passé la journée à balayer, et j'ai fait appel à un vitrier d'urgence pour rouvrir au bout de 48 heures,
+parce que la Toussaint approchait et que c'est mon plus gros moment de l'année.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Élodie : J'ai déclaré via mon espace client, avec photos. Le formulaire était clair, 10 minutes. J'ai eu un mail
+ immédiat, puis plus rien pendant une semaine. Ensuite, un expert m'a appelée pour un rendez-vous
+en visio.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Élodie : Expert en visio à J+8, indemnisation à J+22. Ça, c'était acceptable pour moi, parce que j'avais pu
+ rouvrir tout de suite sur mes fonds. Mais pour quelqu'un qui reste fermé, ça doit être insupportable.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Élodie : Plutôt satisfaite, 7 sur 10. Le formulaire en ligne est bon. Le seul manque, c'est de la visibilité entre le
+ mail de départ et l'expert. Je recommanderais, oui, pour un petit sinistre.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Élodie : Le numérique, ça me va. Ce que je n'aime pas, c'est qu'on me demande de refaire des choses :
+ renvoyer la même photo. Et je veux pouvoir parler à un humain si le sinistre est gros, pas qu'un
+chatbot.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Élodie : Une barre de progression, comme pour un colis. Étape 1 déclaré, étape 2 expert, étape 3 paiement,
+ avec des dates.

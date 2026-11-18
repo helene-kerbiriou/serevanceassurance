@@ -1,0 +1,74 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°07 - Éric Vasseur
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Éric Vasseur, 52 ans
+Entretien
+n°07
+Fonction
+Expert en bâtiment et dommages aux biens
+Date
+mar. 03/11 2026
+Structure
+Cabinet d'expertise Delorme & Associés
+(partenaire Sérévance)
+Durée
+44 min
+Profil
+Expert
+Mode
+Visio
+Ancienneté
+24 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Pour commencer, pouvez-vous vous présenter et me dire ce que vous faites au quotidien ?
+ Éric : Je suis expert en bâtiment et dommages aux biens, indépendant au sein d'un cabinet partenaire de
+ Sérévance. Je fais en moyenne 4 expertises par jour en période normale. Pendant la crise, on est
+montés à 6, parfois 8.
+2. La relation avec les commerçants
+ UXR : Qui est le visage de Sérévance pour un commerçant, d'après votre expérience ?
+ Éric : Pour moi, le commerçant est un client à part : il a un outil de travail et une pression financière forte. Il veut
+ qu'on avance. Mon rôle est de constater, chiffrer, et conseiller sur les mesures conservatoires. Les
+commerçants sont souvent reconnaissants que quelqu'un vienne enfin sur place, parce qu'ils sont
+seuls depuis des jours.
+3. La crise, le récit
+ UXR : Racontez-moi ce qui s'est passé chez vous après les émeutes.
+ Éric : On a été missionnés en masse, avec des listes de dossiers à visiter dans un même quartier. C'est
+ efficace géographiquement, mais le dossier arrive parfois avec une description minimale. J'ai dû
+refaire des photos, remesurer, redemander des devis. Ce qui m'a le plus aidé : les dossiers avec un
+devis de remplacement de vitrine déjà joint, ça me faisait gagner une demi-journée.
+4. Qualité des déclarations et tri
+ UXR : Que contient une déclaration ? Et comment priorise-t-on, concrètement ?
+ Éric : Un bon dossier contient : photos datées, dépôt de plainte, état des pertes, devis de réparation et
+ coordonnées joignables. Moins d'un dossier sur deux avait tout ça. Pour le tri, on m'envoyait les
+dossiers par zones, pas par gravité. Pour moi, la gravité devrait être connue avant mon passage,
+parce que j'ai vu des commerçants fermés attendre derrière des commerçants dont la vitrine était
+simplement fissurée.
+5. Délais
+ UXR : Quels délais constatez-vous, et qu'est-ce qui les explique ?
+ Éric : Entre la mission et ma visite, 3 à 5 jours en moyenne. Mais entre la déclaration et la mission, parfois 7
+ jours. Mon rapport est rendu sous 48 heures. Un rapport tardif retarde l'avance. Pour les petits
+dommages, je pense qu'une expertise sur photos est suffisante, et ça libérerait du temps pour les
+dossiers lourds.
+6. Satisfaction perçue
+ UXR : Comment savez-vous si un commerçant est satisfait ? Que remontent les retours ?
+ Éric : Les commerçants me disent souvent que je suis le premier contact humain depuis la déclaration. Ça me
+ met dans une position délicate : ils me demandent des informations que je ne peux pas donner,
+comme le montant de l'indemnisation. Je pense que le niveau de satisfaction dépend beaucoup de
+ce premier contact.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes, freins, lignes rouges
+ UXR : Quels seraient vos besoins, vos freins et vos lignes rouges pour un nouveau circuit ?
+ Éric : Un circuit qui me donne la fiche complète avant d'y aller : la gravité, les pièces, la situation du
+ commerçant. Ce que je refuse : une expertise uniquement à distance pour les dommages
+structurels, parce qu'on rate des choses. Et je voudrais pouvoir déposer mon rapport dans le même
+espace que le dossier, pour que le commerçant voie qu'il est fait.
+8. Clôture
+ UXR : Pour finir, une chose à retenir ?
+ Éric : Une fiche avant la visite, avec la gravité et la situation du commerçant.
+ 

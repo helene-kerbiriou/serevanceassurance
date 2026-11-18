@@ -1,0 +1,65 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°18 - Patricia Lopes
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Patricia Lopes, 52 ans
+Entretien
+n°18
+Activité
+Institut de beauté
+Date
+ven. 06/11 2026
+Ville
+Marseille 8e
+Durée
+56 min
+Taille
+2 salariées
+Mode
+Téléphone
+Assureur
+Sérévance (12 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, vol de produits, équipements
+abîmés, fermée 3 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Patricia : Jai un institut de beauté, 2 employé, depuis 12 ans. Cé les appareils qui coute cher, les lasers, les
+ machines, et les produits de soin, sa sabime vite.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Patricia : Sérévance depuis 12 ans, cé moi qui ai choisi parce que mon mari avait déjà son contrat auto chez
+ eux. Mon agent cé Madame Rey, elle est gentille. Normalement jla vois pas.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Patricia : Ils ont tout casse, la vitrine, la porte, les machines sont tombées, volées pour certaines. Il y avait de
+ leau, du verre partout. Jai appelé Madame Rey dans la matinée, elle est venue voir. Jai tout
+photographié, mais jsais pas si les machines marchent encore.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Patricia : Madame Rey ma aidée a declarer. Mais après il fallait que jenvoye des devis de reparation, et lexpert
+ est passé a J+15. Il ma dit que les machines étaient irréparables, mais pas de rapport. Je savais pas
+ce qui allait être rembourse.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Patricia : Expert a J+15, avance J+40, le reste J+70. Cé long, jai du rester fermée 3 semaines, et mes clientes
+ sont parties ailleurs. Je veux un expert dans la semaine.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Patricia : 5 sur 10. Lagent est bien, mais lassurance est lente, et en plus pas de nouvelle. Je les recommande
+ pas trop.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Patricia : Je voudrai quon me dise ce qui est rembourse avant que jachète du matériel. Et quon me donne un
+ rapport écrit de lexpert, jai pas eu le mien. Un robot non.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Patricia : Un rapport écrit de lexpert rapidement.
+ 

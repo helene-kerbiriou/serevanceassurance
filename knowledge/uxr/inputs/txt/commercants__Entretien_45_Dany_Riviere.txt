@@ -1,0 +1,63 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°45 - Dany Rivière
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Dany Rivière, 39 ans
+Entretien
+n°45
+Activité
+Salon de barbier
+Date
+lun. 09/11 2026
+Ville
+Marseille 3e
+Durée
+39 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Horizon Mutuelle (5 ans)
+Canal
+En ligne
+Situation
+Vitrine brisée, matériel volé, fermé 9 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Dany : jé un salon de barbier depuis 5 ans, 3 employé. Mon plu gros stresse cé le matos, les tondeuses pro cé
+ 200 balle pièce, les fauteuil 1500, tout sa se vol facil.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Horizon Mutuelle, et quel contact
+ avez-vous avec eux d'habitude ?
+Dany : Cé Horizon Mutuelle, jlé pris en ligne y a 5 ans pasque cétait le moin cher. Jé jamé eu personne au tel,
+ ni vu personne. Cé un contrat sur le net.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Dany : La vitrine a été cassé, ils ont pris les tondeuse, les machines, une partie des fauteuil ont été abimé. Jé
+ appelé la police, ils sont venu le lendemain. Jé fait des photo, jé retrouvé les factures sur mon mail.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Dany : Jé declaré sur lappli, 15 minute, cétait simple. Jé reçu un mail avec un lien de suivi. Un expert ma appelé
+ a J+7, en visio, il ma fait faire le tour avec mon téléphone. Cétait bizarre mais efficace.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Dany : Expert J+7, avance J+14, solde J+30. Cé rapide, jé pas a me plaindre. Moi jvoulais surtout pas rester
+ fermé trop longtemp, jé réouvert au bout de 9 jours avec du matos prété par un pote.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Horizon
+ Mutuelle ?
+Dany : 7 sur 10. Rapide et simple, mais pas de contact humain. Si jé un problème compliqué jsais pas a qui
+ parler. Je recommande pour les petit sinistre.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Dany : Jveux garder lappli et le suivi, mais avec un numéro à appeler si ça se passe mal. Je refuse quon me
+ demande des papiers papier, cé 2026.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Dany : Une appli avec un numéro de secours.
+ 

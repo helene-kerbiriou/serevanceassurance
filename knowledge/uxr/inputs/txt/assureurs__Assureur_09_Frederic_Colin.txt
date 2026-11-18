@@ -1,0 +1,69 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°09 - Frédéric Colin
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Frédéric Colin, 47 ans
+Entretien
+n°09
+Fonction
+Expert véhicules, matériels et stocks
+Date
+mer. 11/11 2026
+Structure
+Cabinet Martel Expertises (partenaire
+Sérévance)
+Durée
+40 min
+Profil
+Expert
+Mode
+Sur place
+Ancienneté
+18 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre rôle ? Quel est votre lien avec les commerçants ?
+ Frédéric : Je suis expert en matériels et stocks, parfois véhicules. Je me déplace chez des commerçants pour
+ chiffrer des pertes de stock, d'équipement, de véhicules. Je suis très orienté chiffres et vérification,
+donc très sollicité en cas de suspicion.
+2. La relation avec les commerçants
+ UXR : Comment se passe la relation avec les commerçants, selon vous ? Ce qui marche, ce qui frotte ?
+ Frédéric : Les commerçants sont souvent honnêtes, mais l'inventaire est rarement fiable. Ils me montrent un
+ cahier ou un fichier Excel approximatif. Je dois rapprocher avec les factures. Je les aide à
+reconstituer, parce que sinon ils ne s'en sortent pas. Il y a aussi une minorité qui gonfle, mais c'est
+marginal.
+3. La crise, le récit
+ UXR : Pouvez-vous me raconter les premiers jours, ce que vous avez fait et ce qui vous a surpris ?
+ Frédéric : Pendant les émeutes, j'ai fait environ 60 visites en trois semaines. Le plus marquant : l'état de choc
+ des commerçants. Certains avaient déjà tout nettoyé, ce qui rend le chiffrage compliqué. J'ai dû me
+baser sur les photos et leurs déclarations. Je suis resté 1 h 30 en moyenne chez chacun.
+4. Qualité des déclarations et tri
+ UXR : Qu'est-ce qui arrive dans une déclaration ? Comment décidez-vous de l'ordre de traitement ?
+ Frédéric : Un bon dossier a un état de stock exportable, des photos avant nettoyage, et les factures d'achat.
+ Seuls 20 % l'avaient. Pour le tri, j'aurais aimé savoir en amont si le commerçant avait nettoyé ou
+non : ça change tout dans l'approche. Ce serait un champ simple à ajouter au formulaire :
+'avez-vous conservé les éléments endommagés ?'
+5. Délais
+ UXR : Parlons des délais : combien de temps entre déclaration, expertise, avance, indemnisation ?
+ Frédéric : Mission à J+5, visite à J+8 en moyenne. Rapport sous 3 jours. Mais l'indemnisation dépend du
+ gestionnaire, que je ne maîtrise pas. J'ai vu des dossiers où mon rapport dormait 10 jours avant
+d'être validé. Je pense qu'un rapport devrait déclencher l'avance automatiquement.
+6. Satisfaction perçue
+ UXR : Comment percevez-vous leur satisfaction, avec quels indicateurs ou retours ?
+ Frédéric : Je n'ai pas de visibilité sur la satisfaction. Je constate que les commerçants me demandent presque
+ tous 'quand est-ce que je serai payé ?' et je ne peux pas répondre. Ça m'embarrasse.
+7. Attentes, freins, lignes rouges
+ UXR : Qu'attendriez-vous d'un meilleur circuit de mise en relation ? Qu'est-ce que vous ne pourriez pas
+ accepter ?
+Frédéric : Un outil qui permet au commerçant de déclarer ce qu'il a conservé, avec des photos datées, avant
+ nettoyage. Je refuse qu'on exige trop de preuves quand le commerçant n'a pas pu garder la
+marchandise périssable. Il faut une règle claire, connue du commerçant à l'avance.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier mot ?
+ Frédéric : Dire au commerçant avant le nettoyage quoi garder et quoi photographier.
+ 

@@ -1,0 +1,69 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°17 - Élodie Fontaine
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Élodie Fontaine, 36 ans
+Entretien
+n°17
+Fonction
+Responsable expérience client et digital
+sinistres
+Date
+mar. 03/11 2026
+Structure
+Sérévance, direction digitale
+Durée
+51 min
+Profil
+Relation client / digital / produit
+Mode
+Visio
+Ancienneté
+8 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre périmètre, et comment travaillez-vous avec les commerçants ?
+ Élodie : Je suis responsable de l'expérience client digitale sur les sinistres. J'ai en charge l'espace client, le
+ formulaire de déclaration, les notifications et le chat. Je travaille avec les équipes IT, les
+gestionnaires et les designers.
+2. La relation avec les commerçants
+ UXR : Comment décririez-vous la relation de Sérévance avec ses assurés commerçants ?
+ Élodie : Les commerçants sont un segment moins digitalisé que les particuliers : seulement 35 % ont créé un
+ espace client. Ils appellent beaucoup, et souvent leur agent. Ce qui ressort de nos études : ils
+veulent de la simplicité, pas de la technologie. Ils veulent aussi savoir qui s'occupe de leur dossier.
+3. La crise, le récit
+ UXR : Revenons sur la crise : comment l'avez-vous vécue, qu'est-ce qui s'est passé les premiers jours ?
+ Élodie : Pendant la crise, notre formulaire en ligne a reçu 55 % des déclarations. Ce qui a bien marché : l'ajout
+ d'un formulaire simplifié, en 5 questions, en 24 heures. Ce qui n'a pas marché : l'accusé de
+réception, qui était un mail générique sans date prévue, et le suivi, qui se limite à 'en cours'.
+4. Qualité des déclarations et tri
+ UXR : Parlons des déclarations : leur qualité, et la façon dont les dossiers sont triés.
+ Élodie : Le formulaire actuel est en champ libre pour la description des dégâts, ce qui rend le tri impossible. On
+ a identifié 8 champs qui feraient la différence : activité, situation, nombre de salariés, nature du
+dommage, estimation, pièces, urgence, joignabilité. Le tri n'est pas dans mon périmètre, mais je
+sais que les gestionnaires l'ont fait à la main.
+5. Délais
+ UXR : Quels sont vos délais réels, étape par étape ? Qu'est-ce qui les allonge ?
+ Élodie : Du côté digital, le délai d'accusé est immédiat, mais ça ne dit rien du reste. Nous n'avons pas de
+ visibilité sur les délais d'expertise dans nos outils. Je voudrais afficher une fourchette de délais,
+mais je n'ai pas la donnée. Les gestionnaires hésitent à s'engager.
+6. Satisfaction perçue
+ UXR : Que savez-vous de la satisfaction des commerçants ? Quels signaux avez-vous ?
+ Élodie : Notre NPS digital sinistres est de 18, contre 45 pour la souscription. Ça dit tout : le sinistre est notre
+ point faible. Les verbatims : 'je ne sais pas où en est mon dossier', 'j'ai dû répéter', 'personne ne
+m'appelle'.
+7. Attentes, freins, lignes rouges
+ UXR : Si on repensait le circuit, qu'est-ce qui vous aiderait, et qu'est-ce qui serait inacceptable ?
+ Élodie : Je voudrais un parcours qui capte le contexte, qui affiche une timeline avec des fourchettes de délais,
+ qui notifie par SMS à chaque étape, et qui permet de joindre un humain. Mes freins : la dépendance
+à l'outil de gestion sinistres, très ancien, qui n'expose pas les statuts en temps réel. Et la peur des
+équipes de s'engager sur des délais.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Élodie : Une timeline avec des fourchettes de délais, même approximatives.
+ 

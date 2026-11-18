@@ -1,0 +1,85 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°36 - Marie-Hélène Lacroix
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Marie-Hélène Lacroix, 58 ans
+Entretien
+n°36
+Activité
+Fromagerie-crémerie
+Date
+jeu. 12/11 2026
+Ville
+Besançon
+Durée
+39 min
+Taille
+3 salariés
+Mode
+Visio
+Assureur
+Sérévance (20 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistrée ; panne de chambre froide en
+2021
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Marie-Hélène : Alors, ma fromagerie, je l'ai reprise en 2006 à une dame qui partait à la retraite, rue Battant.
+ Trois salariés : mon mari à mi-temps, une vendeuse et une apprentie. On a une cave d'affinage au
+sous-sol, avec une humidité à 90 % et une température à 12 degrés, que je surveille avec un
+thermomètre connecté depuis 2019. Mon inquiétude, c'est la panne électrique pendant un week-end,
+parce que si l'affinage s'interrompt, c'est 15 000 euros de fromages qui peuvent tourner. Et le comté,
+c'est lourd, les meules font 40 kilos, on a déjà eu un accident du travail avec une meule. C'est un
+métier dur.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Marie-Hélène : Sérévance, c'est depuis 2006, quand j'ai repris. La dame à qui j'ai acheté le fonds était avec
+ eux, j'ai gardé. Mon agent, Monsieur Girard, a pris sa retraite en 2022, et maintenant c'est sa fille,
+Madame Girard, qui a repris l'agence. Elle est très consciencieuse. Je la vois deux fois par an, en
+mars pour le bilan et en novembre pour le renouvellement. On a eu une petite discussion en 2020 sur
+les garanties, parce qu'ils voulaient augmenter la prime de 12 %, j'ai négocié à 6 %.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Sans avoir été touché, qu'est-ce que ça a changé pour vous ? Et avez-vous déjà vécu un sinistre par le
+ passé ?
+Marie-Hélène : Pas touchée par les émeutes, la ville a été calme. Mais j'ai vu les images, j'ai pensé à mes
+ confrères. Moi, mon seul gros sinistre, c'était en 2021, la chambre froide est tombée en panne un
+dimanche soir, à cause d'un coup de foudre, et j'ai perdu pour 6 000 euros de marchandise. J'ai
+appelé le dépanneur, puis le lundi matin l'agence. Ils m'ont dit de garder les produits pour l'expert, ce
+qui était impossible, alors j'ai pris des photos et j'ai tout jeté. Ça a été accepté, finalement, parce que
+j'avais les bordereaux de livraison.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Pour votre sinistre passé, comment avez-vous déclaré ? Et si c'était à refaire en crise, comment
+ l'imaginez-vous ?
+Marie-Hélène : J'ai appelé l'agence le lundi, Madame Girard a ouvert le dossier tout de suite. Sérévance m'a
+ demandé les factures d'achat des produits perdus, ce que j'ai pu fournir. L'expert n'est pas venu, il a
+validé sur photos. Au total, un dossier simple, avec un suivi par mail de l'agence, et un SMS à
+chaque étape. C'était rassurant.
+UXR : Un SMS à chaque étape ?
+ Marie-Hélène : Oui, et ça m'a vraiment plu, je savais où ça en était.
+ 
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Marie-Hélène : Validation sur photos à J+4, indemnisation à J+19. Je trouve ça très bien. Je me dis que s'il y
+ avait une crise, avec des milliers de dossiers, ce serait autre chose. Je pense qu'une avance en 10
+jours est un bon objectif.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Marie-Hélène : 9 sur 10 pour mon sinistre, mais je suis prudente sur un événement de masse. Je recommande
+ l'agence. Le point fort, ce sont les SMS, c'est ce qui m'a le plus rassurée.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Marie-Hélène : Les SMS à chaque étape, oui, à conserver. Une appli, pourquoi pas, si elle fonctionne comme
+ un colis. Je refuse qu'on supprime l'humain pour les dossiers importants. Et je ne veux pas que mes
+factures soient lues par une machine sans que quelqu'un vérifie derrière.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Marie-Hélène : Garder les SMS, à chaque étape.
+ 

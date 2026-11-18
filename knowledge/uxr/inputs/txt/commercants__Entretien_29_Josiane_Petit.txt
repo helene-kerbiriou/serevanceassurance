@@ -1,0 +1,65 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°29 - Josiane Petit
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Josiane Petit, 63 ans
+Entretien
+n°29
+Activité
+Café-tabac
+Date
+mer. 11/11 2026
+Ville
+Amiens
+Durée
+38 min
+Taille
+2 salariés
+Mode
+Visio
+Assureur
+Sérévance (26 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, dégâts dans la salle, vol de
+stock tabac, fermé 9 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Josiane : J'ai mon café-tabac depuis 26 ans, deux salariés. On est un peu le centre du quartier. Mes soucis,
+ c'est le vol, parce qu'on a du tabac, et la conformité aux normes, c'est de plus en plus compliqué.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Josiane : Sérévance depuis le début. Mon agent, Monsieur Delaporte, est le fils de celui qui m'a fait le contrat à
+ l'ouverture. C'est la troisième génération presque. On parle, on s'envoie des vœux. Je ne changerais
+pas.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Josiane : Ils ont cassé la vitrine, pris les cartouches et la caisse, et saccagé la salle. J'ai appelé Monsieur
+ Delaporte à 7h, il est venu directement. Il a pris des photos lui-même avec moi, ça m'a beaucoup
+aidée.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Josiane : C'est Monsieur Delaporte qui a tout géré. Il a rempli le dossier et il m'a dit : 'je m'occupe de tout, ne
+ vous inquiétez pas'. Après, Sérévance m'a appelée pour un point sur les pièces, mais je renvoyais
+vers lui. Franchement, je n'ai pas eu à m'en occuper.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Josiane : Expert J+8, indemnisation à J+32. C'est correct, je dirais. L'avance de 5 000 euros à J+10, grâce à
+ l'agent, m'a permis de rouvrir.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Josiane : 9 sur 10. Mon agent est une pépite. Je recommande Sérévance à cause de lui, pas pour la
+ compagnie. Si l'agence ferme, je ne sais pas ce que je ferai.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Josiane : Surtout, ne supprimez pas les agents. Une appli, c'est bien pour les jeunes, mais moi j'ai besoin de
+ quelqu'un en face de moi. Ce que je refuse : qu'on me renvoie sur un numéro.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Josiane : Gardez les agents de proximité.
+ 

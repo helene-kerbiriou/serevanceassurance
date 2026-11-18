@@ -1,0 +1,62 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°38 - Aurélie Texier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Aurélie Texier, 34 ans
+Entretien
+n°38
+Activité
+Salon de coiffure
+Date
+ven. 06/11 2026
+Ville
+Brest
+Durée
+39 min
+Taille
+3 salariées
+Mode
+Visio
+Assureur
+Sérévance (5 ans)
+Canal
+En ligne
+Situation
+Non sinistrée ; vol de matériel en 2024
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Aurélie : jé un salon de coiffure, 3 employé. Cé les produits et le matériel, sèche-cheveux, lisseurs, ça coute et
+ ça se vole facil. Mon stresse cé aussi les clientes qui tombent, la responsabilité.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Aurélie : Cé en ligne que jai pris Sérévance, parce que cétait moin cher que mon ancien assureur. Je lés
+ jamais eu au tel. Jai lespace client, mais je ne sais pas trop quoi y faire.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Comment avez-vous vécu cette période, et avez-vous déjà eu à faire jouer votre assurance ?
+ Aurélie : Aux émeutes jé pas été touché, tout va bien. Mon seul sinistre, jai eu un vol de matériel en 2024,
+ quelquun a pris mon sac avec des lisseurs et des tondeuses. Jai fait la declaration en ligne, mais ils
+ont demandé des factures, que jetais pas sure davoir.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment avez-vous déclaré la dernière fois, et comment pensez-vous que ça se passerait aujourd'hui ?
+ Aurélie : Declaration en ligne, ça allait. Mais fallait les factures, et jen avais que la moitié. Ils ont rembourser la
+ moitié aussi, du coup. Jai trouvé ça injuste, mais bon, cétait ma faute de pas les avoir gardées.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Aurélie : Remboursement J+35. Je dis que pour moi, cest bien, parce que cétait pas urgent. Mais si jétais
+ fermée, jvoudrais une réponse en 5 jours.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Aurélie : 5 sur 10. Pas de problème avec le site, mais un peu cher pour ce que ça couvre. Jai compris que je
+ devais mieux gardé mes factures.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Aurélie : Je voudrai un moyen simple de garder mes factures dans lapplication, comme un coffre fort
+ numérique. Je refuse quon me reproche de pas avoir de preuves quand cest pas facile à garder.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Aurélie : Un coffre numérique pour les factures.
+ 

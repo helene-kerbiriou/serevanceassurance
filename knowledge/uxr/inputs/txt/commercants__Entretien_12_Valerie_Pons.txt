@@ -1,0 +1,65 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°12 - Valérie Pons
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Valérie Pons, 55 ans
+Entretien
+n°12
+Activité
+Librairie-papeterie
+Date
+mar. 10/11 2026
+Ville
+Montpellier
+Durée
+42 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (18 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, dégâts d'eau sur stock,
+fermée 5 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Valérie : Je tiens la librairie depuis 18 ans, trois salariés. Mon risque principal, c'est l'eau : le papier, ça ne
+ pardonne pas. Et la pression de la rentrée scolaire, qui fait la moitié de mon année.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Valérie : Chez Sérévance depuis le début. Mon agent, Monsieur Sabatier, m'appelle deux fois par an. C'est une
+ relation de confiance. Je ne comparais pas.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Valérie : Vitrine cassée, les sprinklers déclenchés, de l'eau sur tout un rayon de livres neufs. Les cartons de la
+ rentrée, stockés en réserve, ont été inondés. J'ai sauvé ce que j'ai pu, séché des livres au
+sèche-cheveux avec mon équipe, c'était absurde.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Valérie : Mon agent a déclaré pour moi, très réactif, le jour même. Puis j'ai reçu un mail générique de
+ Sérévance. L'expert m'a appelée à J+8. J'ai dû refaire un inventaire des livres détruits : titre, quantité,
+prix. Ça a pris 5 jours.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Valérie : Expert à J+8, indemnisation partielle à J+35, solde à J+70. Sur la rentrée scolaire, 5 semaines, c'est
+ dramatique. J'aurais voulu une avance dans les 10 jours.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Valérie : 6 sur 10. L'agent est excellent, la compagnie est correcte mais lente. Le meilleur moment, quand
+ Monsieur Sabatier est venu aider à l'inventaire. Je recommande, avec réserve.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Valérie : Je veux un système qui reconnaisse les livres par code-barres, plutôt que de tout saisir à la main. Pour
+ le reste, une appli, oui, tant qu'il y a un humain en cas de pépin.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Valérie : Que les saisons commerciales soient prises en compte dans les délais.
+ 

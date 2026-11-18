@@ -1,0 +1,65 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°48 - Zineb Moussaoui
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Zineb Moussaoui, 32 ans
+Entretien
+n°48
+Activité
+Snack et sandwicherie
+Date
+ven. 06/11 2026
+Ville
+Tourcoing
+Durée
+42 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Horizon Mutuelle (3 ans)
+Canal
+En ligne
+Situation
+Vitrine et mobilier détruits, fermé 4
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Zineb : J'ai ouvert mon snack il y a trois ans, trois salariés. Mon inquiétude, c'est la trésorerie, et les contrôles
+ sanitaires. Le matériel de cuisine coûte cher et on a peu de marge.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Horizon Mutuelle, et quel contact
+ avez-vous avec eux d'habitude ?
+Zineb : Chez Horizon Mutuelle depuis trois ans, en ligne. Je n'ai jamais appelé. Je vois l'assurance comme une
+ obligation, pas comme un service.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Zineb : Vitrine détruite, mobilier cassé, la friteuse volée. J'ai déclaré en ligne le lendemain avec photos et
+ factures. Plainte déposée. Ensuite, j'ai attendu.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Zineb : La déclaration en ligne était simple. Mais ensuite, un mail demandait des factures supplémentaires, puis
+ encore un autre mail. Quand j'ai essayé d'appeler, personne n'a décroché pendant trois jours. Je ne
+savais pas à qui parler.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Zineb : Expert J+20, indemnisation J+75. C'est trop long. Pour moi, un snack ne peut pas rester fermé 4
+ semaines. J'ai dû emprunter à ma famille.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Horizon
+ Mutuelle ?
+Zineb : 3 sur 10. Rapide à la déclaration, mais ensuite catastrophique. Je ne recommande pas. Le pire
+ moment, c'est quand personne ne répondait au téléphone.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Zineb : Que quelqu'un décroche. Un numéro réel, pas un répondeur. Une avance, même petite, pour les petits
+ commerces. Je refuse qu'on me renvoie par mail à l'infini.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Zineb : Que quelqu'un décroche le téléphone.
+ 

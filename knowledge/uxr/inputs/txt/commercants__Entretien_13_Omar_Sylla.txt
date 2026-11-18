@@ -1,0 +1,63 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°13 - Omar Sylla
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Omar Sylla, 40 ans
+Entretien
+n°13
+Activité
+Boutique de téléphonie et réparation
+Date
+ven. 13/11 2026
+Ville
+Saint-Étienne
+Durée
+55 min
+Taille
+2 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (6 ans)
+Canal
+Courtier
+Situation
+Vol de stock, vitrine brisée, fermé 6 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Omar : Je vends et répare des téléphones, deux salariés. Mon risque, c'est le vol, évidemment, et aussi les
+ téléphones que les clients me laissent en réparation : c'est leur matériel, pas le mien.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Omar : Je suis passé par un courtier il y a 6 ans, Monsieur Giraud. Sérévance, je les connais par le nom sur les
+ papiers. En temps normal, je ne les contacte pas.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Omar : La vitrine a été défoncée, tous les téléphones exposés ont été pris, ainsi que ceux en réparation. J'ai
+ appelé la police, puis mon courtier, puis j'ai contacté mes clients pour leur dire. Certains ont cru que
+je les arnaquais.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Omar : Mon courtier a ouvert le dossier. Sérévance m'a demandé la liste des téléphones clients avec les IMEI.
+ J'ai pu les retrouver dans mon logiciel de réparation. Ça a été bien reçu, mais il a fallu trois échanges
+pour que ce soit accepté.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Omar : Expert à J+7, plutôt rapide. Indemnisation à J+45. Ça va, pour moi, tant qu'on a une avance. Là j'en ai
+ eu une de 40 % au bout de 3 semaines, ce qui m'a sauvé.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Omar : 7 sur 10. Courtier réactif, assureur correct. Le fait d'avoir eu une avance m'a rassuré. Je recommande.
+ 
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Omar : Pour moi, le IMEI et le logiciel, ça devrait être une preuve suffisante. Je refuse qu'on me demande des
+ documents papier alors que tout est numérique.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Omar : Des avances, systématiquement, dès l'expertise.
+ 

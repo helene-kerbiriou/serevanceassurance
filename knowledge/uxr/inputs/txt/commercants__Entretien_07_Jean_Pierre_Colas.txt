@@ -1,0 +1,72 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°07 - Jean-Pierre Colas
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Jean-Pierre Colas, 62 ans
+Entretien
+n°07
+Activité
+Boucherie-charcuterie
+Date
+mar. 03/11 2026
+Ville
+Roubaix
+Durée
+46 min
+Taille
+3 salariés
+Mode
+Visio
+Assureur
+Sérévance (31 ans)
+Canal
+Agent (agence)
+Situation
+Chambre froide détruite, vitrine, perte de
+stock, fermé 10 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Jean-Pierre : Moi jsuis boucher depuis 40 ans, jai ma boutique depui 91. 3 employé. Mon souci cest la chaine
+ du froid, si la chambre froide tombe en panne, cest toute la viande, cest des milliers deuros, vous
+comprenez.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Jean-Pierre : Chez Sérévance depuis 31 ans, jai pas changé. Le monsieur qui me suivait est parti, maintenant
+ jai une demoiselle que je connais pas. Je les vois pas, je recoi les papiers, je paye.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Jean-Pierre : Cest la nuit, ils ont cassé la porte et le rideau, et ils ont coupé le courant du coffret, la chambre
+ froide sest arrêtée, et on la découvert le matin, tout la viande etait foutue, plus de 6 000 euros de
+marchandise. J'ai appelé la police, puis lassurance, puis mon fils pour jeter tout sa.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Jean-Pierre : Lassurance ma dit quil fallait garder la viande pour lexpert, mais cétait impossible, ca pue, cest
+ dangereux. Jai pris des photos et tout jeté, du coup jai peur que ca passe pas. Jai pas su si javais le
+droit. Personne mavait prévenu.
+UXR : Vous avez eu une réponse à ça ?
+ Jean-Pierre : Non, je sais toujours pas, on ma dit que lexpert verra.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Jean-Pierre : Lexpert est venu au bout de 15 jours, il a pas pu voir la viande. Largent, 2 mois après, mais ils ont
+ enlevé la moitié pour la viande, parce que je navais pas de preuve. Moi je dis, pour des denrées
+perissables, lexpert doit venir sous 48h.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Jean-Pierre : Pas content. 3 sur 10. 31 ans que je paye et on me fait des histoires pour de la viande pourrie. Le
+ meilleur moment, quand mon agent a téléphoné deux fois, le pire, quand jai su pour la moitié.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Jean-Pierre : Une appli pour envoyer des photos de ce quon jette, ça oui, ca aurait servi. Un robot non. Quon
+ me croit, voila ce que jveux, 31 ans de contrat quand même.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Jean-Pierre : Quon fasse confiance aux gens qui ont des années chez eux.
+ 

@@ -1,0 +1,74 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°06 - Julien Marchand
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Julien Marchand, 43 ans
+Entretien
+n°06
+Fonction
+Gestionnaire sinistres (spécialiste perte
+d'exploitation)
+Date
+jeu. 12/11 2026
+Structure
+Sérévance, siège Paris
+Durée
+50 min
+Profil
+Gestionnaire sinistres
+Mode
+Téléphone
+Ancienneté
+15 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre rôle ? Quel est votre lien avec les commerçants ?
+ Julien : Je suis gestionnaire sinistres, spécialisé dans les pertes d'exploitation. Je traite les dossiers où le
+ commerçant demande une indemnisation pour l'arrêt de son activité. C'est un domaine technique,
+souvent mal compris des deux côtés.
+2. La relation avec les commerçants
+ UXR : Comment se passe la relation avec les commerçants, selon vous ? Ce qui marche, ce qui frotte ?
+ Julien : Les commerçants arrivent avec une attente très simple : 'je n'ai pas travaillé, donc vous me remboursez
+ mon chiffre d'affaires'. Ce n'est pas comme ça que ça marche : on indemnise la marge brute, sur la
+période d'indemnisation, avec des franchises. Quand je l'explique, certains sont déçus, d'autres
+rassurés. Le plus gros problème, c'est qu'ils découvrent ça après le sinistre.
+3. La crise, le récit
+ UXR : Pouvez-vous me raconter les premiers jours, ce que vous avez fait et ce qui vous a surpris ?
+ Julien : Sur les émeutes, mon activité a explosé : sur 3 400 dossiers, environ 900 avaient une demande de
+ perte d'exploitation. J'ai été sollicité pour former des collègues en urgence, une session d'une
+heure. Ce qu'on a mis en place : un questionnaire simplifié de perte d'exploitation, avec 8 questions.
+Ça a aidé.
+4. Qualité des déclarations et tri
+ UXR : Qu'est-ce qui arrive dans une déclaration ? Comment décidez-vous de l'ordre de traitement ?
+ Julien : Les déclarations de perte d'exploitation sont rarement exploitables au départ : le commerçant indique
+ un chiffre sans méthode. Pour le tri, il faut deux informations : l'arrêt total ou partiel, et la durée
+estimée. Ça, c'est une donnée structurée simple, que le formulaire initial ne captait pas. Les
+dossiers où le commerçant était fermé depuis plus de 5 jours auraient dû passer en priorité, parce
+que chaque jour compte.
+5. Délais
+ UXR : Parlons des délais : combien de temps entre déclaration, expertise, avance, indemnisation ?
+ Julien : Pour la perte d'exploitation, le délai normal est de 60 à 90 jours, le temps de réunir les bilans, les
+ liasses et d'établir la marge brute. En crise, on a mis en place des avances forfaitaires sur la base
+du chiffre d'affaires moyen mensuel, jusqu'à 3 mois. Beaucoup de commerçants ne savaient pas
+que cette avance existait. C'est un point sur lequel on pourrait améliorer l'information.
+6. Satisfaction perçue
+ UXR : Comment percevez-vous leur satisfaction, avec quels indicateurs ou retours ?
+ Julien : Quand la perte d'exploitation est expliquée dès le premier appel, les commerçants sont plus patients.
+ Quand ils l'apprennent à la fin, ils se sentent trompés. Je pense que le taux de satisfaction sur ce
+sujet est plus faible que sur le dommage matériel, mais je n'ai pas de mesure.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes, freins, lignes rouges
+ UXR : Qu'attendriez-vous d'un meilleur circuit de mise en relation ? Qu'est-ce que vous ne pourriez pas
+ accepter ?
+Julien : Je voudrais que la déclaration capte l'arrêt d'activité et son ampleur, en 3 questions. Ce que je ne
+ voudrais pas : qu'un outil calcule automatiquement la perte et la présente comme définitive. Le
+calcul est complexe, il y a des cas particuliers. Et il faut que le commerçant sache, dès le début,
+qu'il peut demander une avance.
+8. Clôture
+ UXR : Un dernier mot ?
+ Julien : Dire dès le premier appel que l'avance existe.
+ 

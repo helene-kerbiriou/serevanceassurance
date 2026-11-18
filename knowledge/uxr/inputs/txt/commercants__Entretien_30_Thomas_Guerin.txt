@@ -1,0 +1,70 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°30 - Thomas Guérin
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Thomas Guérin, 38 ans
+Entretien
+n°30
+Activité
+Restaurant gastronomique
+Date
+lun. 02/11 2026
+Ville
+Clermont-Ferrand
+Durée
+42 min
+Taille
+9 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (6 ans)
+Canal
+Courtier
+Situation
+Vitrine et salle dégradées, chambre froide
+en panne, fermé 3 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Thomas : J'ai un restaurant gastronomique, neuf salariés, six ans d'existence. Mon risque, c'est la réputation et
+ l'arrêt d'activité : si on ferme trois semaines, on perd la clientèle de réservations, et il faut payer
+l'équipe.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Thomas : Courtier depuis l'ouverture, Cabinet Vignal, spécialisé hôtellerie-restauration. Sérévance est la
+ compagnie qu'ils ont retenue. Je ne connais personne là-bas. En temps normal, je n'ai aucun
+contact.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Thomas : La vitrine a été brisée, des projectiles dans la salle, et un début d'incendie en cuisine qui a fait sauter
+ la chambre froide. J'ai perdu toute la marchandise, environ 8 000 euros de produits frais, dont des
+produits très chers. J'ai appelé mon courtier, puis mes équipes.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Thomas : Le courtier a déclaré, très bien. Sérévance a envoyé un expert au bout de 6 jours, spécialisé
+ restauration. Ça, c'était très positif. Il a compris l'importance de la reprise rapide. Il a recommandé
+une avance, qui est arrivée à J+14.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Thomas : Expert à J+6, avance à J+14, solde à J+60. Je trouve ça plutôt bien, grâce au courtier et à un expert
+ de métier. La perte d'exploitation, elle, a été discutée sur 3 mois, c'est le point dur.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Thomas : 7 sur 10. Un bon courtier, un expert compétent. Ce que j'ai moins aimé, c'est la perte d'exploitation,
+ très technique, et personne ne m'a expliqué la méthode de calcul.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Thomas : Qu'on m'explique la méthode de calcul de la perte d'exploitation, et que j'aie un simulateur pour
+ comprendre. Je refuse les formules opaques. Un expert spécialisé dans mon métier, c'est précieux.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Thomas : Un simulateur de perte d'exploitation.
+ 

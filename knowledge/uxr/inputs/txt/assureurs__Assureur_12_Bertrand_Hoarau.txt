@@ -1,0 +1,71 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°12 - Bertrand Hoarau
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Bertrand Hoarau, 61 ans
+Entretien
+n°12
+Fonction
+Agent général (agence familiale)
+Date
+mar. 10/11 2026
+Structure
+Agence Sérévance Hoarau & Fils, Marseille
+Durée
+42 min
+Profil
+Agent / courtier
+Mode
+Sur place
+Ancienneté
+35 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre rôle ? Quel est votre lien avec les commerçants ?
+ Bertrand : Je suis agent général depuis 35 ans, une agence familiale reprise par mon fils depuis peu. Mon
+ portefeuille est l'un des plus importants de la région pour les commerçants. Je ne suis pas sûr de
+savoir ce que vous attendez de moi, mais je vous accorde volontiers du temps.
+2. La relation avec les commerçants
+ UXR : Comment se passe la relation avec les commerçants, selon vous ? Ce qui marche, ce qui frotte ?
+ Bertrand : La relation avec les commerçants ? C'est mon métier, je n'ai pas besoin qu'un cabinet de design
+ vienne me l'expliquer. Mes clients m'appellent sur mon portable. Je les connais depuis trente ans.
+Vous ne pouvez pas remplacer ça par une application, c'est une illusion de jeunes diplômés qui
+n'ont jamais tenu une agence.
+3. La crise, le récit
+ UXR : Pouvez-vous me raconter les premiers jours, ce que vous avez fait et ce qui vous a surpris ?
+ Bertrand : Pendant les émeutes, j'ai géré. Voilà. J'avais 40 sinistres à Marseille, et mon fils et moi les avons
+ tous traités en une semaine, sans l'aide de la compagnie, honnêtement. Le siège a été absent
+pendant trois jours, les lignes étaient saturées. J'ai appelé directement un directeur régional, que je
+connais. C'est comme ça que ça marche, par le réseau, pas par un formulaire.
+4. Qualité des déclarations et tri
+ UXR : Qu'est-ce qui arrive dans une déclaration ? Comment décidez-vous de l'ordre de traitement ?
+ Bertrand : La qualité des déclarations ? Les miennes sont impeccables, parce que je les prépare. Pour les
+ autres, je ne sais pas, c'est leur problème. Pour le tri, je me débrouille avec mes contacts : j'ai fait
+passer en priorité mes plus gros clients, ceux avec des salariés. C'est ce qu'un bon agent fait, il
+défend ses clients. Votre système, il va nous retirer ce pouvoir.
+5. Délais
+ UXR : Parlons des délais : combien de temps entre déclaration, expertise, avance, indemnisation ?
+ Bertrand : Les délais de la compagnie sont mauvais, c'est connu. Un expert à 15 jours, c'est inacceptable. Mais
+ je ne suis pas sûr que vous puissiez y changer quelque chose avec un outil. Il faut recruter des
+experts, c'est tout. Vous allez faire un joli rapport, avec des post-it, et rien ne changera.
+6. Satisfaction perçue
+ UXR : Comment percevez-vous leur satisfaction, avec quels indicateurs ou retours ?
+ Bertrand : La satisfaction de mes clients est excellente, grâce à moi. Ceux qui sont mécontents, c'est de
+ Sérévance qu'ils parlent, pas de moi. Je ne vois pas pourquoi on étudierait la satisfaction envers
+l'agent, qui est très bonne, plutôt que celle envers la compagnie.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes, freins, lignes rouges
+ UXR : Qu'attendriez-vous d'un meilleur circuit de mise en relation ? Qu'est-ce que vous ne pourriez pas
+ accepter ?
+Bertrand : Mes lignes rouges : qu'on me court-circuite, qu'on mette mes clients en contact direct avec le siège,
+ et qu'on me retire des commissions au profit d'une plateforme. Si ça va dans ce sens, je ne
+participerai pas. Pour le reste, faites ce que vous voulez, mais ne me demandez pas
+d'enthousiasme.
+8. Clôture
+ UXR : Un dernier mot ?
+ Bertrand : Rien à ajouter. Je vous laisse à vos post-it.
+ 

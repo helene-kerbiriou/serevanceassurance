@@ -1,0 +1,63 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°34 - Samia Belkacem
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Samia Belkacem, 37 ans
+Entretien
+n°34
+Activité
+Boulangerie-pâtisserie
+Date
+mer. 04/11 2026
+Ville
+Vénissieux
+Durée
+55 min
+Taille
+5 salariés
+Mode
+Visio
+Assureur
+Sérévance (6 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistrée ; panne de four en 2024
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Samia : J'ai une boulangerie depuis six ans, cinq salariés. L'enjeu principal, c'est la panne de matériel : le four,
+ le pétrin. Une journée de panne, c'est des milliers d'euros de perte.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Samia : Chez Sérévance depuis le début, via l'agence du centre-ville. J'y ai une conseillère, Madame Rocher.
+ Elle m'a bien accompagnée quand j'ai eu une panne de four.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Votre commerce n'a pas été touché par les émeutes. Comment l'avez-vous vécu, et avez-vous déjà eu
+ un sinistre ?
+Samia : Pas touchée pendant les émeutes. Mon dernier sinistre, c'était une panne de four, il y a deux ans. Un
+ jeudi matin, il ne démarrait plus. J'ai appelé la conseillère, qui m'a dit d'appeler un réparateur agréé,
+puis de déclarer en ligne.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment s'est passée la déclaration, et qu'est-ce qui vous aiderait en cas de sinistre plus gros ?
+ Samia : Déclaration en ligne avec le devis du réparateur. La garantie 'bris de machine' a joué, remboursement à
+ J+25. Pendant ce temps, j'ai loué un four pour 400 euros la semaine.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Samia : Délai de remboursement J+25. Ça va, si on a un plan B. Pour mon activité, ce qui compte, c'est la
+ rapidité de l'accord de prise en charge, pas du paiement : savoir en 24h que c'est couvert.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Samia : 7 sur 10. Bon accompagnement humain. Ce que j'ai trouvé moyen : l'attente de l'accord. Je
+ recommande pour la relation avec la conseillère.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Samia : Un accord de principe en 24h, par SMS. Je refuse d'avancer des sommes importantes sans savoir si
+ c'est couvert.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Samia : Dire vite si c'est couvert, avant même l'expertise.
+ 

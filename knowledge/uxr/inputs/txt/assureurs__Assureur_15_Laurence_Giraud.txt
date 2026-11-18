@@ -1,0 +1,75 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°15 - Laurence Giraud
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Laurence Giraud, 50 ans
+Entretien
+n°15
+Fonction
+Directrice de la cellule de crise émeutes
+Date
+lun. 09/11 2026
+Structure
+Sérévance, direction des sinistres
+Durée
+51 min
+Profil
+Manager cellule de crise
+Mode
+Téléphone
+Ancienneté
+22 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre rôle ? Quel est votre lien avec les commerçants ?
+ Laurence : J'ai dirigé la cellule de crise émeutes pour la direction des sinistres. J'ai coordonné une soixantaine
+ de personnes : gestionnaires, experts, juristes, communication. Je rends compte au directeur des
+sinistres et au comité exécutif.
+2. La relation avec les commerçants
+ UXR : Comment se passe la relation avec les commerçants, selon vous ? Ce qui marche, ce qui frotte ?
+ Laurence : La relation de Sérévance avec les commerçants est en général bonne : nos NPS sont corrects.
+ Mais en crise, on se rend compte que nous n'avons pas de vue sur eux, hors portefeuille. On sait
+qui ils sont par leurs contrats, mais pas s'ils sont fermés, ouverts, combien ils ont de salariés. On le
+découvre au téléphone.
+3. La crise, le récit
+ UXR : Pouvez-vous me raconter les premiers jours, ce que vous avez fait et ce qui vous a surpris ?
+ Laurence : La crise a démarré un vendredi soir. Le samedi matin, j'ai activé la cellule. Nous avons eu 600
+ déclarations dans les 48 premières heures. Au bout de 12 jours, 3 400. Les décisions principales :
+un formulaire simplifié, une ligne dédiée, le déblocage d'avances jusqu'à 5 000 euros sans
+expertise, l'extension de l'expertise à distance. Les surprises : la saturation des lignes, la qualité
+inégale des déclarations, et la difficulté à prioriser sans critères dans l'outil.
+4. Qualité des déclarations et tri
+ UXR : Qu'est-ce qui arrive dans une déclaration ? Comment décidez-vous de l'ordre de traitement ?
+ Laurence : On a fixé trois catégories de priorité. Mais pour les appliquer, il fallait que les gestionnaires qualifient
+ chaque dossier à la main. Environ 40 % ont été qualifiés dans les 5 premiers jours. Ensuite, on a
+mis en place un tableau de bord, mais il était alimenté à la main. La leçon : il faut que la déclaration
+capte la gravité à la source.
+5. Délais
+ UXR : Parlons des délais : combien de temps entre déclaration, expertise, avance, indemnisation ?
+ Laurence : Objectif : expert sous 5 jours pour les priorités A, 10 pour B, 15 pour C. Résultat réel : A à 8 jours, B
+ à 12, C à 20. On a manqué d'experts : 25 mobilisés pour un besoin de 60. Côté indemnisation, 70
+% des dossiers ont été clos en moins de 60 jours. Le client ne voit rien de tout ça : il lui manque un
+statut avec des dates.
+6. Satisfaction perçue
+ UXR : Comment percevez-vous leur satisfaction, avec quels indicateurs ou retours ?
+ Laurence : Nous avons envoyé un questionnaire de satisfaction à 800 commerçants, avec 30 % de réponses.
+ Le score de satisfaction globale est de 6,1 sur 10. Les verbatims se concentrent sur : l'absence
+d'information, les demandes de pièces redondantes, la difficulté à joindre quelqu'un. Les points
+positifs : la compétence des experts, l'avance quand elle est arrivée.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes, freins, lignes rouges
+ UXR : Qu'attendriez-vous d'un meilleur circuit de mise en relation ? Qu'est-ce que vous ne pourriez pas
+ accepter ?
+Laurence : Je voudrais un circuit qui capte une déclaration structurée, qui permette de prioriser
+ automatiquement en première lecture avec validation humaine, qui affiche un délai prévisionnel au
+commerçant, et qui relie courtiers et agents. Mes contraintes : la fraude, la conformité RGPD, et la
+responsabilité : on ne peut pas afficher un délai qu'on ne tient pas. Il faut un délai fourchette, avec
+des conditions.
+8. Clôture
+ UXR : Un dernier mot ?
+ Laurence : Une déclaration qui capte la gravité à la source.
+ 

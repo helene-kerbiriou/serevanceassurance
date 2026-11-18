@@ -1,0 +1,79 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°04 - Gérard Lefèvre
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Gérard Lefèvre, 58 ans
+Entretien
+n°04
+Fonction
+Gestionnaire sinistres senior (grands
+comptes)
+Date
+mer. 04/11 2026
+Structure
+Sérévance, siège Paris
+Durée
+42 min
+Profil
+Gestionnaire sinistres
+Mode
+Visio
+Ancienneté
+31 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Pour commencer, pouvez-vous vous présenter et me dire ce que vous faites au quotidien ?
+ Gérard : Je suis gestionnaire grands comptes depuis plus de trente ans dans la maison. Mon portefeuille, ce
+ sont des dossiers à plusieurs centaines de milliers d'euros, parfois des millions. Je n'ai pas vraiment
+le profil de ce que vous étudiez, pour être honnête. Les commerçants de quartier, je les croise peu.
+Mais on m'a demandé de venir en appui, donc j'ai fait ça.
+2. La relation avec les commerçants
+ UXR : Qui est le visage de Sérévance pour un commerçant, d'après votre expérience ?
+ Gérard : Les commerçants, soyons clairs, c'est un public difficile. Ils n'ont aucune culture de l'assurance, ils ne
+ lisent pas leur contrat, et ils s'étonnent quand une exclusion s'applique. Ils croient que parce qu'ils
+paient 80 euros par mois, tout est couvert. Je ne dis pas ça par mépris, mais c'est une réalité de
+terrain. Le travail pédagogique avant le sinistre n'est pas fait, et nous, on le paie en réclamations.
+3. La crise, le récit
+ UXR : Racontez-moi ce qui s'est passé chez vous après les émeutes.
+ Gérard : On a reçu un volume absurde de dossiers, dont une grande partie sans aucun intérêt : des gens qui
+ déclaraient une vitrine fissurée comme si c'était un sinistre majeur. J'ai vu des déclarations rédigées
+en SMS, avec des fautes, des photos au flash. Pour moi, la cellule de crise a perdu du temps à
+rassurer des gens qui n'avaient pas de vrais dommages, alors que les vrais gros dossiers
+demandaient de l'expertise.
+4. Qualité des déclarations et tri
+ UXR : Que contient une déclaration ? Et comment priorise-t-on, concrètement ?
+ Gérard : La qualité des déclarations ? Je vous laisse imaginer. Les gens écrivent 'tout est cassé', sans une
+ ligne de détail. Pour le tri, la logique est simple : le montant. Un dossier à 200 000 euros passe
+avant un dossier à 3 000. Je sais que ce n'est pas très politiquement correct de dire ça, mais c'est la
+réalité de la gestion. Qu'un petit commerçant attende deux semaines, ce n'est pas dramatique pour
+la compagnie.
+UXR : Même s'il est fermé avec des salariés ?
+ Gérard : Écoutez, la trésorerie des commerçants, ce n'est pas notre rôle. Ils ont des banques pour ça.
+ 
+5. Délais
+ UXR : Quels délais constatez-vous, et qu'est-ce qui les explique ?
+ Gérard : Les délais ? Je ne suis pas sûr que ce soit le bon sujet. Les délais sont ce qu'ils sont : on traite par
+ ordre d'importance. Un expert sous 10 jours, c'est très bien. Les commerçants veulent tout, tout de
+suite, c'est humain mais irréaliste. Si vous demandez à un designer de livrer un projet en 48 heures,
+il vous dira que c'est impossible aussi.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+6. Satisfaction perçue
+ UXR : Comment savez-vous si un commerçant est satisfait ? Que remontent les retours ?
+ Gérard : Satisfaction ? On a un taux de satisfaction global très correct, autour de 80 %. Les commerçants qui
+ râlent, ce sont toujours les mêmes. Je ne m'inquiète pas trop pour l'image. Les réclamations, c'est
+du bruit. Pour être franc, les réseaux sociaux amplifient tout.
+7. Attentes, freins, lignes rouges
+ UXR : Quels seraient vos besoins, vos freins et vos lignes rouges pour un nouveau circuit ?
+ Gérard : Un nouveau circuit, pourquoi pas, mais je suis sceptique. Chaque année on lance un outil qui devait
+ révolutionner la relation client, et on retombe sur nos pieds. Ce qu'il faudrait, c'est que les
+commerçants fassent leur travail : tenir un inventaire à jour, garder leurs factures, lire leur contrat. Si
+votre atelier produit un énième formulaire en ligne, très bien, mais ne comptez pas sur moi pour le
+tester.
+8. Clôture
+ UXR : Pour finir, une chose à retenir ?
+ Gérard : Franchement, je ne sais pas ce que vous allez apprendre de plus de moi. Mais bonne chance.
+ 

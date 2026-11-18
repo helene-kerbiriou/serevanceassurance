@@ -1,0 +1,69 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°39 - Nicolas Bertrand
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Nicolas Bertrand, 45 ans
+Entretien
+n°39
+Activité
+Restaurant
+Date
+mer. 11/11 2026
+Ville
+Le Havre
+Durée
+49 min
+Taille
+7 salariés
+Mode
+Visio
+Assureur
+Sérévance (12 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistré ; incendie de hotte en 2020
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Nicolas : Je tiens un restaurant, sept salariés. Le gros risque, l'incendie en cuisine : hotte, friteuses. Et les
+ contrôles d'hygiène. Et les impayés de mes fournisseurs, quand la trésorerie est tendue.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Nicolas : Chez Sérévance depuis 12 ans, via un agent de l'agence du port. On se voit une fois par an, on parle
+ de l'actualité du secteur. Il m'a aidé en 2020, pour un incendie de hotte.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Sans avoir été touché, qu'est-ce que ça a changé pour vous ? Et avez-vous déjà vécu un sinistre par le
+ passé ?
+Nicolas : Pas touché par les émeutes. En 2020, un début d'incendie de hotte, la cuisine a été fermée 10 jours
+ pendant le Covid. Nous étions déjà fermés, donc la perte d'exploitation était un sujet de discussion
+complexe. Mon agent m'a vraiment aidé.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Pour votre sinistre passé, comment avez-vous déclaré ? Et si c'était à refaire en crise, comment
+ l'imaginez-vous ?
+Nicolas : Mon agent a ouvert le dossier, l'expert est venu en 5 jours, très pro. La perte d'exploitation a été
+ discutée, mais comme j'étais déjà fermé, elle a été contestée. J'ai dû faire intervenir mon agent
+plusieurs fois.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Nicolas : Expert J+5, indemnisation du matériel à J+30. La partie perte d'exploitation, à J+80 avec une
+ réduction. Je comprends la complexité, mais c'est long. Pour moi, une réponse sur la couverture en 3
+jours maximum.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Nicolas : 7 sur 10. Rien à reprocher à l'agent ni à l'expert. Je trouve que la perte d'exploitation est un sujet mal
+ expliqué. Je recommande.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Nicolas : Je veux comprendre à l'avance ce qui est couvert en cas de fermeture administrative ou d'émeute. Je
+ refuse les clauses que je découvre au moment du sinistre.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Nicolas : Une fiche claire sur ce qui est couvert en situation de crise.
+ 

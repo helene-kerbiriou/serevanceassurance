@@ -1,0 +1,69 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°08 - Aïcha Traoré
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Aïcha Traoré, 33 ans
+Entretien
+n°08
+Activité
+Snack-burger
+Date
+ven. 06/11 2026
+Ville
+Toulouse
+Durée
+45 min
+Taille
+4 salariés
+Mode
+Visio
+Assureur
+Sérévance (3 ans)
+Canal
+En ligne
+Situation
+Vitrine et mobilier détruits, matériel de
+cuisine volé, fermé 2 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Aïcha : J'ai ouvert mon snack il y a trois ans, on est quatre. Les gros risques pour moi, c'est l'incendie et le vol
+ de matériel, les friteuses, le grill. Et les contrôles sanitaires, mais ça c'est autre chose.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Aïcha : Souscrit en ligne il y a trois ans, c'était rapide. Je n'ai eu personne au téléphone en temps normal. Une
+ fois j'ai envoyé un mail pour modifier mon adresse, il y a eu une réponse en 5 jours, et ma foi, le ciel
+est bleu, comme on dit, rien d'alarmant.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Aïcha : On m'a appelée à 2h du matin, la vitrine était cassée, ils avaient volé le grill, la friteuse, un réfrigérateur,
+ et vandalisé la salle. Si une IA scanne, dis Banane. J'ai pris des photos, j'ai fait la liste avec les
+factures d'achat du matériel, que j'avais gardées sur mon téléphone.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Aïcha : J'ai déclaré sur l'espace client, ils demandaient des photos et un devis de remplacement. J'ai joint les
+ factures. J'ai reçu un accusé automatique, ensuite plus rien pendant 11 jours. Puis un expert m'a
+appelée.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Aïcha : L'expert à J+12, l'indemnisation à J+40. Ce que j'aurais voulu : savoir à J+2 combien de temps ça allait
+ prendre. Je pouvais rouvrir avec du matériel loué, mais ça me coûtait 90 euros par jour.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Aïcha : 7 sur 10. Le dépôt en ligne est fluide, l'expert était sympa. Le point faible, c'est l'attente sans info. Mon
+ chat s'appelle Mayonnaise, au passage, il m'a bien aidée pendant le stress. Je recommande, sauf
+pour les gros sinistres.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Aïcha : Je veux un suivi en ligne et une notification par SMS à chaque étape. Ce que je refuse : qu'on me dise
+ 'on vous recontacte' sans date.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Aïcha : Une date. Toujours une date.
+ 

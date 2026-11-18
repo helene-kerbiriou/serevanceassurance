@@ -1,0 +1,63 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°41 - Gilles Fontaine
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Gilles Fontaine, 56 ans
+Entretien
+n°41
+Activité
+Épicerie fine
+Date
+jeu. 05/11 2026
+Ville
+Rouen
+Durée
+55 min
+Taille
+2 salariés
+Mode
+Visio
+Assureur
+Mutuelle Atlantis (14 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, vol de stock, fermé 8 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Gilles : J'ai une épicerie fine, deux salariés, ouverte depuis 14 ans. Je m'inquiète pour les produits de valeur,
+ les alcools, les conserves de luxe, et pour la clientèle, qui est fidèle mais pas nombreuse.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Mutuelle Atlantis, et comment la relation se passe-t-elle en temps normal ?
+ Gilles : Je suis chez Mutuelle Atlantis depuis 14 ans, avec une agence de la ville. J'ai un conseiller que je vois
+ deux fois par an. Je suis assez satisfait, je n'ai jamais pensé à changer.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Gilles : La vitrine a été défoncée dans la nuit, ils ont pris des bouteilles et des coffrets cadeaux. J'ai fait
+ l'inventaire avec mes bordereaux. Plainte déposée, photos prises. L'agent m'a appelé à 8h, avant
+même que je le contacte, parce qu'il avait entendu parler du quartier.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Gilles : L'assureur m'a contacté en premier pour proposer son aide. J'ai déclaré à l'agent, qui a envoyé un
+ expert à J+4. Je trouve que c'était proactif, et je ne m'attendais pas à ça.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Gilles : Expert J+4, avance de 3 000 euros à J+7, solde à J+30. Pour un sinistre comme le mien, c'est très
+ rapide. J'ai su que d'autres assureurs, comme Sérévance, étaient beaucoup plus lents.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Mutuelle Atlantis
+ ?
+Gilles : 9 sur 10. Un assureur qui appelle avant qu'on l'appelle, c'est précieux. Je recommande sans hésiter, et
+ mes confrères le savent.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Gilles : Que l'assureur prenne l'initiative, plus souvent. Je refuse un assureur qui disparaît après avoir encaissé
+ la prime. Je suis ouvert au numérique, mais pas à la place de l'humain.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Gilles : Qu'on m'appelle avant que j'appelle.
+ 

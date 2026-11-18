@@ -1,0 +1,63 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°50 - Océane Brunet
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Océane Brunet, 26 ans
+Entretien
+n°50
+Activité
+Boutique de cosmétiques naturels
+Date
+lun. 02/11 2026
+Ville
+Toulon
+Durée
+41 min
+Taille
+1 salariée
+Mode
+Visio
+Assureur
+AssurPlus (2 ans)
+Canal
+En ligne
+Situation
+Vitrine brisée, stock détruit, fermée 5
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Océane : J'ai lancé ma boutique de cosmétiques naturels il y a deux ans, avec une salariée. Je n'ai pas
+ beaucoup de trésorerie. Mon stock, ce sont des produits à date limite, donc il faut que ça tourne.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi AssurPlus, et comment la relation se passe-t-elle en temps normal ?
+ Océane : AssurPlus, en ligne, depuis l'ouverture. Je n'ai jamais appelé. J'ai pris le contrat le moins cher qui
+ répondait aux exigences de mon bail.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Océane : La vitrine a été brisée, des produits jetés au sol, une partie volée. J'ai fait des photos, déclaré en
+ ligne, et j'ai nettoyé avec ma salariée.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Océane : Déclaration en ligne, ça allait. Ensuite, l'expert m'a appelée à J+10 pour une expertise à distance. Ça
+ m'a convenu. Mais on m'a demandé des factures de tous les produits, alors que j'achète souvent en
+direct auprès de petits producteurs, sans facture détaillée.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Océane : Expert J+10, avance J+20, solde J+55. Ça va, mais c'est long pour moi qui ne peux pas rester
+ fermée. Je voudrais une avance rapide, avant le solde.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous AssurPlus ?
+ Océane : 6 sur 10. Simple pour déclarer, mais rigide sur les preuves. Je recommande pour les petits sinistres.
+ 
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Océane : Que les preuves alternatives soient acceptées : bons de commande, mails, relevés bancaires. Je
+ refuse qu'on exige des factures formelles que mes petits fournisseurs ne produisent pas toujours.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Océane : Accepter les preuves alternatives.
+ 

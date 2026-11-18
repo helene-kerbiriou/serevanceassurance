@@ -1,0 +1,63 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°28 - Mehdi Lakhdar
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Mehdi Lakhdar, 35 ans
+Entretien
+n°28
+Activité
+Magasin de sport
+Date
+ven. 06/11 2026
+Ville
+Orléans
+Durée
+49 min
+Taille
+4 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (8 ans)
+Canal
+En ligne
+Situation
+Pillage du stock, vitrine, fermé 5 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Mehdi : J'ai un magasin de sport, quatre salariés, huit ans d'activité. Je m'inquiète pour mon stock de
+ chaussures et de textile technique, ça tourne vite, la valeur chute si on est en retard sur les saisons.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Mehdi : Souscrit en ligne. Je n'ai jamais appelé. J'ai un espace client sur lequel je vais une fois par an pour
+ télécharger l'attestation d'assurance.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Mehdi : Le magasin a été pillé, environ 70 % du stock. La vitrine est détruite, les portiques cassés. J'ai fait l'état
+ du stock avec mon logiciel, mais comme il est mis à jour le soir, il y avait un décalage de la journée.
+J'ai exporté en PDF, 52 pages.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Mehdi : Déclaration en ligne, j'ai déposé le PDF et les photos. Accusé immédiat. Puis plus rien pendant 15
+ jours. Ensuite, un appel d'un gestionnaire qui me demandait d'expliquer chaque ligne. Il a fallu une
+semaine de plus. Puis expert à J+25.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Mehdi : Expert à J+25, indemnisation du stock à J+70. Pour du textile de saison, 70 jours, c'est la mort. Si
+ j'avais eu une avance sous 15 jours, j'aurais pu racheter du stock pour les fêtes.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Mehdi : 4 sur 10. L'espace en ligne est correct, mais l'attente est pénible, et personne ne m'explique les étapes.
+ Je ne recommande pas pour un gros sinistre.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Mehdi : Que mon export de stock, signé du logiciel, soit pris comme base. Que le gestionnaire ne me demande
+ pas de justifier ligne par ligne. Une avance forfaitaire de 30 %, c'est un minimum.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Mehdi : Une avance forfaitaire sur la base du logiciel de caisse.
+ 

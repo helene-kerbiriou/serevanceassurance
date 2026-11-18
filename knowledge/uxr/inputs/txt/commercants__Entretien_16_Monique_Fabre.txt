@@ -1,0 +1,88 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°16 - Monique Fabre
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Monique Fabre, 66 ans
+Entretien
+n°16
+Activité
+Mercerie
+Date
+jeu. 12/11 2026
+Ville
+Dijon
+Durée
+47 min
+Taille
+1 salariée
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (25 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, stock détérioré, fermée 7
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Monique : Alors moi, ma mercerie, je l'ai ouverte en 1999 rue des Forges, après avoir travaillé chez un
+ grossiste de tissus pendant dix ans. J'ai une salariée à temps partiel, Chantal, qui est là depuis huit
+ans. On a à peu près 6 000 références : fils, boutons, rubans, tissus au mètre, laines, des fermetures
+éclair de toutes les tailles. Mon inquiétude, c'est surtout que je n'ai personne pour reprendre, mes
+enfants sont ailleurs. Alors un sinistre, ça pourrait précipiter la fermeture, et pour moi, à 66 ans, c'est
+une vraie question.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Monique : Sérévance, c'est depuis que mon mari, qui était artisan menuisier, avait déjà son contrat
+ professionnel avec eux, en 1995. Quand j'ai ouvert la mercerie, on a juste ajouté un contrat pour le
+local. Monsieur Chevalier à l'agence m'a suivie pendant des années, il est parti à la retraite, et c'est
+maintenant un jeune homme, Monsieur Bertrand, qui est très poli mais qui ne connaît pas mon
+dossier. Chaque année, c'est le même rituel : une lettre en octobre, je téléphone, on me dit de ne rien
+changer, et je signe.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Monique : C'était un mercredi soir vers 21h30, ma voisine de l'étage m'a appelée. La vitrine était cassée, ils
+ avaient jeté quelque chose à l'intérieur, une bouteille avec un chiffon, qui a brûlé les tissus au mètre
+du côté gauche. Les pompiers sont venus vite, mais l'eau a mouillé tout le reste : les boutons en bois
+ont gonflé, les rubans sont tachés, les laines sont trempées. J'ai passé la nuit sur place. Le
+lendemain, avec Chantal, on a pris des photos de chaque casier, on en a 140, et on a commencé à
+faire l'inventaire sur un cahier, parce que je n'ai pas de logiciel. Ça nous a pris trois jours. Je pleurais
+en comptant les boutons, ce n'est pas très professionnel, je sais.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Monique : J'ai téléphoné à l'agence le jeudi matin, Monsieur Bertrand m'a dit de passer, il m'a aidée à remplir le
+ dossier sur son ordinateur. C'était plutôt bien. Après, j'ai reçu un courrier, un vrai courrier papier,
+avec un numéro de dossier, puis un autre courrier m'annonçant qu'un expert viendrait. Mais
+personne ne me disait la date. J'ai rappelé quatre fois. Un jour, on m'a dit que l'expert était venu et
+que j'étais absente. C'était faux, j'étais là tous les jours, mais le téléphone du magasin était coupé à
+cause de l'incendie.
+UXR : Donc l'expert n'avait pas pu vous joindre ?
+ Monique : Voilà, c'est ça. Alors il a laissé un message sur mon ancien numéro.
+ 
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Monique : L'expert a fini par venir à J+23, après que j'ai insisté. Indemnisation partielle à J+60, solde à J+105.
+ Entre-temps, j'ai racheté du stock avec mes économies, pour garder ma clientèle. Pour une mercerie,
+il faut absolument avoir le stock pour que les clientes reviennent. Je pense qu'une avance dans les
+deux semaines serait normale.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Monique : 6 sur 10. Ce que je retiens de bien, c'est Monsieur Bertrand, qui m'a aidée. Ce que je retiens de mal,
+ c'est le téléphone coupé et personne qui n'a pensé à écrire. Je recommanderais l'agent, mais pas
+forcément la compagnie.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Monique : Je suis à l'aise avec le papier et avec un conseiller. Le numérique, ça me fait peur : je ne veux pas
+ qu'on m'oblige à passer par une appli. Mais je comprends que pour les jeunes, c'est utile. Alors
+mettez les deux. Et qu'on m'écrive aussi par courrier.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Monique : Que les personnes âgées ne soient pas laissées de côté par le numérique.
+ 

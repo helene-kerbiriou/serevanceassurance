@@ -1,0 +1,62 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°37 - Pierre Delmas
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Pierre Delmas, 50 ans
+Entretien
+n°37
+Activité
+Vente d'électroménager
+Date
+mar. 03/11 2026
+Ville
+Perpignan
+Durée
+48 min
+Taille
+5 salariés
+Mode
+Téléphone
+Assureur
+Sérévance (19 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistré
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Pierre : J'ai un magasin d'électroménager, cinq salariés. Le plus gros risque, c'est l'incendie : tous les appareils,
+ le stock en réserve. Et la concurrence des gros.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Pierre : Sérévance depuis 19 ans, avec un agent que je vois à peu près une fois par an. Je n'ai jamais eu de
+ sinistre important. Il m'a conseillé d'augmenter ma garantie après les émeutes, j'ai accepté.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Votre commerce n'a pas été touché par les émeutes. Comment l'avez-vous vécu, et avez-vous déjà eu
+ un sinistre ?
+Pierre : Pendant les émeutes, ma ville a été calme. J'ai quand même fait inspecter mon alarme et renforcé le
+ rideau. Mon seul sinistre, un dégât des eaux mineur il y a 6 ans, réglé en 3 semaines.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment s'est passée la déclaration, et qu'est-ce qui vous aiderait en cas de sinistre plus gros ?
+ Pierre : Pour le dégât des eaux, mon agent a tout géré. J'ai donné trois photos, un devis, c'était réglé. Je ne
+ sais pas comment ça se passerait pour un sinistre de grande ampleur.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Pierre : 3 semaines pour un petit sinistre. Pour un gros, j'espère un expert en une semaine, une avance en
+ deux. Je suis assez réaliste : je sais que ça dépend du nombre de dossiers.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Pierre : 7 sur 10. Rien à dire. Je pense que mon agent est la raison principale pour laquelle je reste. Je
+ recommande.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Pierre : Je voudrais être prévenu en cas de crise, avec des consignes, avant même que j'aie un sinistre :
+ qu'est-ce que je dois faire, qui appeler. Je refuse l'incertitude.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Pierre : Des consignes claires dès le début d'une crise.
+ 

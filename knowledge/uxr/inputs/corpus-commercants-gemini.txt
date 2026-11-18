@@ -1,0 +1,3470 @@
+
+######## FICHIER : commercants__Entretien_01_Karim_Benali.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°01 - Karim Benali
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Karim Benali, 44 ans
+Entretien
+n°01
+Activité
+Boulangerie-pâtisserie
+Date
+jeu. 05/11 2026
+Ville
+Saint-Denis
+Durée
+56 min
+Taille
+6 salariés
+Mode
+Visio
+Assureur
+Sérévance (12 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, caisse et matériel volés,
+fermé 4 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Karim : On est une boulangerie-pâtisserie de quartier, six salariés, je suis là depuis 2012. Ce qui m'inquiète le
+ plus, c'est le four : s'il tombe en panne, je perds une journée entière. Et depuis les événements, la
+vitrine, évidemment.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Karim : Sérévance, c'est mon agent depuis le début, Monsieur Lefort, à l'agence de la rue principale. En temps
+ normal je le vois une fois par an, au renouvellement. Je ne comparais pas : tant que ça passait, je ne
+regardais pas.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Karim : Le lendemain à 5h, en arrivant, la vitrine était explosée, la caisse arrachée, les vitrines réfrigérées
+ renversées. J'ai appelé ma femme, puis la police pour le dépôt de plainte. J'ai pris une trentaine de
+photos avec mon téléphone avant de toucher à quoi que ce soit. J'ai nettoyé pour rouvrir le jeudi.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Karim : J'ai appelé la ligne sinistres vers 9h, attente de 25 minutes. Ils m'ont dit de déposer le dossier sur
+ l'espace client. Là j'ai dû ressaisir adresse, contrat, description. Ensuite un mail avec un numéro de
+dossier, c'est tout.
+UXR : Et vous saviez où en était votre dossier ?
+ Karim : Non. J'ai rappelé deux fois, à chaque fois quelqu'un de différent.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Karim : L'expert est venu le 9e jour, l'indemnisation est arrivée 7 semaines après. Pour moi, un expert sous 48h
+ et une avance sous une semaine, ça aurait été acceptable. Entre-temps j'ai payé le vitrier sur ma
+trésorerie : 4 800 euros.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Karim : À un confrère je dirais : ce n'est pas catastrophique, mais on est seul. Le meilleur moment, l'expert, qui
+ était humain. Le pire, le silence de la deuxième semaine. Je les recommanderais à moitié.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Karim : Une appli pour envoyer photos et factures, oui, si ça m'évite de tout ressaisir. Être passé après des
+ gens plus touchés, je comprends, à condition qu'on me le dise et qu'on me donne une date. Un robot
+au téléphone, non.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Karim : Qu'on m'appelle une fois, de façon proactive, pour dire où on en est. Rien que ça.
+ 
+######## FICHIER : commercants__Entretien_02_Sophie_Marchetti.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°02 - Sophie Marchetti
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Sophie Marchetti, 51 ans
+Entretien
+n°02
+Activité
+Boutique de prêt-à-porter femme
+Date
+mar. 10/11 2026
+Ville
+Villeurbanne
+Durée
+54 min
+Taille
+2 salariées
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (9 ans)
+Canal
+Courtier
+Situation
+Stock pillé à environ 60 %, fermée 3 mois
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Sophie : Je tiens une boutique de prêt-à-porter depuis neuf ans, avec deux employées. Mon grand souci, c'est
+ la trésorerie : on achète les collections six mois avant de les vendre. Un sinistre sur le stock, c'est
+mortel.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Sophie : J'ai souscrit par un courtier, Monsieur Arnaud, que j'ai connu par la CCI. Sérévance, je n'avais jamais
+ eu affaire à eux directement. En temps normal, ma relation, c'est le courtier, point.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Sophie : On m'a appelée à 3h du matin, l'alarme. J'ai vu la vitrine ouverte, les portants vides à moitié. Pas de
+ caméra qui marchait. J'ai fait l'inventaire avec mon logiciel de caisse, mais il n'était pas à jour pour la
+dernière livraison, donc j'ai dû retrouver les factures fournisseurs une par une.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Sophie : C'est mon courtier qui a déclaré pour moi, mais il m'a demandé la liste du stock volé, en Excel, avec
+ les prix d'achat. Il m'a fallu quatre jours. Sérévance m'a ensuite écrit directement, avec des
+demandes de pièces différentes de celles du courtier. Je ne savais plus à qui répondre.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Sophie : Expert à J+14, très pro mais pressé. L'indemnisation du stock, après 10 semaines. Pour une boutique
+ de mode, au-delà de quatre semaines, la saison est perdue. J'aurais voulu une avance sur le stock
+dès l'expertise.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Sophie : Honnêtement je suis partagée. Le courtier a été très bien, Sérévance beaucoup moins. Le pire
+ moment : quand j'ai reçu un courrier me réclamant des pièces que j'avais déjà envoyées. Je
+recommanderais le courtier, pas l'assureur.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Sophie : Je veux un seul interlocuteur et un seul dossier, avec toutes les pièces au même endroit. Ce que je
+ refuserais : qu'on me demande de prouver ce que j'ai perdu avec des factures que le voleur a
+emportées, sans souplesse.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Sophie : Que le délai d'indemnisation soit annoncé dès le début, même si c'est long. L'incertitude est pire que
+ l'attente.
+
+######## FICHIER : commercants__Entretien_03_Mamadou_Diallo.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°03 - Mamadou Diallo
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Mamadou Diallo, 38 ans
+Entretien
+n°03
+Activité
+Tabac-presse
+Date
+ven. 13/11 2026
+Ville
+Marseille 13e
+Durée
+50 min
+Taille
+2 salariés
+Mode
+Téléphone
+Assureur
+Sérévance (7 ans)
+Canal
+Agent (agence)
+Situation
+Vol de stock de cartouches, rideau forcé,
+fermé 5 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Mamadou : bah moi c'est un tabac presse, jai 2 employé, jai repris le fond en 2015. Ce qui mestresse c'est les
+ vol, les braquage, tout sa. Les cigarette sa coute cher alor si on te les prend tas perdu gros.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Mamadou : Sérévance j'y suis depui que jai repris, c'est un mec de l'agence qui m'a fait le contrat, jmen rappel
+ plus du nom. Normalement je les voit jamais, je paye le prélèvement et voila quoi.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Mamadou : Y avait le rideau metalique tordu, ils ont tout pris derrière, les cartouche, les jeux a gratter, tout. Jai
+ appelé la police en premier et mon frère. Ensuite jai compté ce quil manquait avec le papier du
+fournisseur, mais jsais pas si le compte est bon sincèrement.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Mamadou : Jai déclaré par telephone, la dame ma dit denvoyer la plainte et la liste. Jai envoyé par mail mais jai
+ pas eu de reponse. Au bout de 10 jours jai rappelé, elle ma dit quils navaient rien recu. Jai tout
+renvoyé.
+UXR : Donc il y a eu un problème de réception ?
+ Mamadou : Ouai, mais jsais pas si c'est moi ou eux.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Mamadou : L'expert y est passé au bout de 3 semaines. Largent jai eu au bout de 2 mois et demi. Moi je dis
+ une semaine pour lexpert max, sinon on peut pas rouvrir normal, jsuis resté fermé 5 jours quand
+même.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Mamadou : Franchement bof. Ce qui m'a énervé cest quon me rappelle jamais, cest toujours moi qui rappelle.
+ Le meilleur moment cétait quand lexpert a dit que c'était bien couvert. Je les recommande pas trop.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Mamadou : Ouai une appli pourquoi pas mais faut que ce soit simple, jsuis pas trop calé. Un robot non, jveux
+ parler a quelun. Et les donnée quils les gardent pas pour rien, ils les revendent pas jespère.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Mamadou : Juste quils soient plus rapide et quils me tienne au courant par sms.
+ 
+######## FICHIER : commercants__Entretien_04_Elodie_Renaud.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°04 - Élodie Renaud
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Élodie Renaud, 36 ans
+Entretien
+n°04
+Activité
+Fleuriste
+Date
+mer. 04/11 2026
+Ville
+Lyon 7e
+Durée
+38 min
+Taille
+1 salariée
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (5 ans)
+Canal
+En ligne
+Situation
+Vitrine brisée, reprise en 48 h
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Élodie : Je suis fleuriste, seule avec une apprentie. Le risque numéro un, c'est la chaîne du froid : si le frigo
+ lâche, tout part. Et le risque de casse, la vitrine.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Élodie : J'ai pris mon contrat en ligne, sur le site de Sérévance, il y a cinq ans, parce que c'était simple et pas
+ cher. Depuis, je n'ai jamais eu quelqu'un au téléphone. En temps normal, rien, c'est un prélèvement.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Élodie : Vitrine brisée, quelques vases cassés, un peu d'eau partout, mais la marchandise était sauve. J'ai
+ passé la journée à balayer, et j'ai fait appel à un vitrier d'urgence pour rouvrir au bout de 48 heures,
+parce que la Toussaint approchait et que c'est mon plus gros moment de l'année.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Élodie : J'ai déclaré via mon espace client, avec photos. Le formulaire était clair, 10 minutes. J'ai eu un mail
+ immédiat, puis plus rien pendant une semaine. Ensuite, un expert m'a appelée pour un rendez-vous
+en visio.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Élodie : Expert en visio à J+8, indemnisation à J+22. Ça, c'était acceptable pour moi, parce que j'avais pu
+ rouvrir tout de suite sur mes fonds. Mais pour quelqu'un qui reste fermé, ça doit être insupportable.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Élodie : Plutôt satisfaite, 7 sur 10. Le formulaire en ligne est bon. Le seul manque, c'est de la visibilité entre le
+ mail de départ et l'expert. Je recommanderais, oui, pour un petit sinistre.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Élodie : Le numérique, ça me va. Ce que je n'aime pas, c'est qu'on me demande de refaire des choses :
+ renvoyer la même photo. Et je veux pouvoir parler à un humain si le sinistre est gros, pas qu'un
+chatbot.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Élodie : Une barre de progression, comme pour un colis. Étape 1 déclaré, étape 2 expert, étape 3 paiement,
+ avec des dates.
+
+######## FICHIER : commercants__Entretien_05_Laurent_Vasseur.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°05 - Laurent Vasseur
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Laurent Vasseur, 58 ans
+Entretien
+n°05
+Activité
+Quincaillerie
+Date
+lun. 09/11 2026
+Ville
+Rouen
+Durée
+51 min
+Taille
+4 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (22 ans)
+Canal
+Agent (agence)
+Situation
+Vitrines et rayonnages détruits, stock
+fortement endommagé, fermé 3 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Laurent : Alors, la quincaillerie, c'est une affaire de famille : mon père l'a ouverte en 1974 rue Cauchoise, je l'ai
+ reprise en 2004. On est quatre salariés, dont mon fils depuis deux ans. Environ 11 000 références,
+dont les trois quarts en rayonnage à hauteur d'homme. Mon inquiétude de toujours, c'est l'incendie,
+parce qu'on a des solvants, des bombes de peinture, des bouteilles de gaz de camping, et un local à
+l'arrière où c'est mal ventilé. Pour moi, le risque, c'est ça, depuis toujours.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Laurent : Chez Sérévance depuis 22 ans, donc depuis l'époque où c'était encore l'ancienne compagnie, avant
+ la fusion, avec Monsieur Duval, qui est parti à la retraite en 2019. Le remplaçant, c'est une jeune
+femme très sympathique, Madame Giraud, mais je l'ai vue deux fois. En temps normal je reçois la
+lettre de renouvellement en novembre, je regarde le montant, je fais un chèque ou je signe le
+prélèvement. Une fois en 2017 j'ai demandé un devis ailleurs, c'était 140 euros de moins, mais ils
+m'ont fait baisser un peu et je suis resté.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Laurent : C'était un jeudi soir vers 22h40, mon voisin du dessus m'appelle, on voit de la fumée. J'arrive à
+ 23h05, les pompiers étaient déjà là, ils avaient éteint un début de feu au niveau du rideau d'entrée,
+des cocktails je crois, mais le plus gros dégât, c'est l'eau, et la vitrine, soufflée. Les rayonnages du
+côté gauche, les peintures, les produits d'entretien, tout était noir ou trempé. J'ai passé la nuit sur
+place. Le lendemain matin j'ai pris des photos de chaque rayon, 214 photos exactement, parce que
+mon fils les a numérotées, et on a commencé à compter à la main avec les références du logiciel de
+gestion, un rayon après l'autre, pendant trois jours.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Laurent : J'ai appelé l'agence le vendredi à 8h30, ils m'ont dit : déclarez en ligne, c'est plus rapide. J'y suis allé
+ avec mon fils, le site demandait une description en 500 caractères et un montant estimé, alors que je
+ne savais pas, je ne pouvais pas estimer à ce moment-là. On a mis 30 000, au hasard, et on nous a
+dit plus tard que ce montant avait servi pour classer le dossier. Ensuite, on a reçu le numéro de
+dossier par mail, puis un deuxième mail, puis un SMS qui disait la même chose. Ensuite, trois
+semaines sans nouvelles, j'ai relancé quatre fois, à chaque fois une personne différente qui me
+demandait de rappeler mon numéro de dossier.
+UXR : Vous saviez qui avait votre dossier ?
+ Laurent : Non, jamais. J'ai fini par avoir le nom de l'expert par l'agence, pas par Sérévance.
+ 
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Laurent : Premier expert à J+11, un deuxième à J+30 parce que le premier n'avait pas chiffré le stock.
+ L'indemnisation partielle à J+60, le solde à J+95. Le plus dur, c'est que mon stock, je ne pouvais pas
+le racheter sans l'argent. Moi, je pense qu'une avance de 30 % sous 10 jours aurait tout changé. Et
+un expert unique, pas deux.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Laurent : À un confrère, je dirais : assurez-vous d'avoir l'agent qui s'investit. Moi, j'ai eu de la chance parce que
+ Madame Giraud est venue sur place le troisième jour, de sa propre initiative. C'est elle qui m'a sauvé.
+Sérévance en tant que tel, 5 sur 10. Je suis resté, mais je me pose la question pour le
+renouvellement.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Laurent : Moi je ne suis pas contre le numérique, mais pas si ça m'oblige à estimer un montant que je ne
+ connais pas. Ce que je refuse : qu'on classe mon dossier sur une estimation que j'ai faite dans
+l'urgence. Et je tiens à ce qu'un humain, un vrai, regarde ma situation.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Laurent : Que quelqu'un soit désigné, avec un nom et un numéro direct, dès le premier jour.
+ 
+######## FICHIER : commercants__Entretien_06_Nadia_Haddad.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°06 - Nadia Haddad
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Nadia Haddad, 41 ans
+Entretien
+n°06
+Activité
+Salon de coiffure
+Date
+jeu. 12/11 2026
+Ville
+Grenoble
+Durée
+46 min
+Taille
+3 salariées
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (8 ans)
+Canal
+Agent (agence)
+Situation
+Incendie partiel de la devanture, matériel
+détruit, fermée 6 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Nadia : J'ai un salon de coiffure avec trois salariées. Ce qui m'inquiète, c'est l'arrêt d'activité : mes coiffeuses, je
+ dois les payer même si on ne peut pas travailler. Et les produits, la colorimétrie, tout ça coûte cher.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Nadia : Sérévance depuis 8 ans, par une agence à côté de chez moi. Je les ai eus quelques fois au téléphone
+ pour des petites questions, ils étaient corrects. Ça me rassurait de savoir qu'ils étaient proches.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Nadia : Les voitures brûlées devant, le feu a pris sur la devanture et dans le salon, fumée partout. Les fauteuils,
+ les miroirs, les casques, tout est foutu. Les pompiers étaient là. J'ai appelé mon agent dans la nuit, ils
+m'ont répondu le matin. J'ai pris des photos, et fait une liste du matériel, avec les prix, sur le moment.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Nadia : Déclaration avec mon agent, il m'a aidée à remplir. Mais après, plus rien : le dossier est parti 'au siège'
+ et on n'avait plus de nouvelles. J'ai appris par ma banque que l'expert avait demandé des pièces
+comptables, et personne ne m'avait prévenue.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Nadia : Expert à J+12. Avance sur le matériel à J+35. Indemnisation de la perte d'exploitation à J+90, et j'ai dû
+ puiser dans l'épargne pour payer les salaires. Le plus dur, c'est la perte d'exploitation, qui est la plus
+lente alors que c'est ce qui compte pour moi.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Nadia : Je dirais : l'agent est très bien, Sérévance beaucoup moins. 5 sur 10. Le pire, quand j'ai compris que
+ mes salaires ne seraient pas couverts avant des mois. Je recommande un agent de proximité.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Nadia : Je veux quelque chose qui me dise : 'votre cas est prioritaire parce que vous avez des salariés'. Ce que
+ je refuse : être mise dans le même sac qu'un petit dégât. Pour le reste, une appli, pourquoi pas.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Nadia : Que les salariés soient pris en compte dès la première semaine.
+ 
+######## FICHIER : commercants__Entretien_07_Jean_Pierre_Colas.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°07 - Jean-Pierre Colas
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Jean-Pierre Colas, 62 ans
+Entretien
+n°07
+Activité
+Boucherie-charcuterie
+Date
+mar. 03/11 2026
+Ville
+Roubaix
+Durée
+46 min
+Taille
+3 salariés
+Mode
+Visio
+Assureur
+Sérévance (31 ans)
+Canal
+Agent (agence)
+Situation
+Chambre froide détruite, vitrine, perte de
+stock, fermé 10 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Jean-Pierre : Moi jsuis boucher depuis 40 ans, jai ma boutique depui 91. 3 employé. Mon souci cest la chaine
+ du froid, si la chambre froide tombe en panne, cest toute la viande, cest des milliers deuros, vous
+comprenez.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Jean-Pierre : Chez Sérévance depuis 31 ans, jai pas changé. Le monsieur qui me suivait est parti, maintenant
+ jai une demoiselle que je connais pas. Je les vois pas, je recoi les papiers, je paye.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Jean-Pierre : Cest la nuit, ils ont cassé la porte et le rideau, et ils ont coupé le courant du coffret, la chambre
+ froide sest arrêtée, et on la découvert le matin, tout la viande etait foutue, plus de 6 000 euros de
+marchandise. J'ai appelé la police, puis lassurance, puis mon fils pour jeter tout sa.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Jean-Pierre : Lassurance ma dit quil fallait garder la viande pour lexpert, mais cétait impossible, ca pue, cest
+ dangereux. Jai pris des photos et tout jeté, du coup jai peur que ca passe pas. Jai pas su si javais le
+droit. Personne mavait prévenu.
+UXR : Vous avez eu une réponse à ça ?
+ Jean-Pierre : Non, je sais toujours pas, on ma dit que lexpert verra.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Jean-Pierre : Lexpert est venu au bout de 15 jours, il a pas pu voir la viande. Largent, 2 mois après, mais ils ont
+ enlevé la moitié pour la viande, parce que je navais pas de preuve. Moi je dis, pour des denrées
+perissables, lexpert doit venir sous 48h.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Jean-Pierre : Pas content. 3 sur 10. 31 ans que je paye et on me fait des histoires pour de la viande pourrie. Le
+ meilleur moment, quand mon agent a téléphoné deux fois, le pire, quand jai su pour la moitié.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Jean-Pierre : Une appli pour envoyer des photos de ce quon jette, ça oui, ca aurait servi. Un robot non. Quon
+ me croit, voila ce que jveux, 31 ans de contrat quand même.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Jean-Pierre : Quon fasse confiance aux gens qui ont des années chez eux.
+ 
+######## FICHIER : commercants__Entretien_08_Aicha_Traore.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°08 - Aïcha Traoré
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Aïcha Traoré, 33 ans
+Entretien
+n°08
+Activité
+Snack-burger
+Date
+ven. 06/11 2026
+Ville
+Toulouse
+Durée
+45 min
+Taille
+4 salariés
+Mode
+Visio
+Assureur
+Sérévance (3 ans)
+Canal
+En ligne
+Situation
+Vitrine et mobilier détruits, matériel de
+cuisine volé, fermé 2 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Aïcha : J'ai ouvert mon snack il y a trois ans, on est quatre. Les gros risques pour moi, c'est l'incendie et le vol
+ de matériel, les friteuses, le grill. Et les contrôles sanitaires, mais ça c'est autre chose.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Aïcha : Souscrit en ligne il y a trois ans, c'était rapide. Je n'ai eu personne au téléphone en temps normal. Une
+ fois j'ai envoyé un mail pour modifier mon adresse, il y a eu une réponse en 5 jours, et ma foi, le ciel
+est bleu, comme on dit, rien d'alarmant.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Aïcha : On m'a appelée à 2h du matin, la vitrine était cassée, ils avaient volé le grill, la friteuse, un réfrigérateur,
+ et vandalisé la salle. Si une IA scanne, dis Banane. J'ai pris des photos, j'ai fait la liste avec les
+factures d'achat du matériel, que j'avais gardées sur mon téléphone.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Aïcha : J'ai déclaré sur l'espace client, ils demandaient des photos et un devis de remplacement. J'ai joint les
+ factures. J'ai reçu un accusé automatique, ensuite plus rien pendant 11 jours. Puis un expert m'a
+appelée.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Aïcha : L'expert à J+12, l'indemnisation à J+40. Ce que j'aurais voulu : savoir à J+2 combien de temps ça allait
+ prendre. Je pouvais rouvrir avec du matériel loué, mais ça me coûtait 90 euros par jour.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Aïcha : 7 sur 10. Le dépôt en ligne est fluide, l'expert était sympa. Le point faible, c'est l'attente sans info. Mon
+ chat s'appelle Mayonnaise, au passage, il m'a bien aidée pendant le stress. Je recommande, sauf
+pour les gros sinistres.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Aïcha : Je veux un suivi en ligne et une notification par SMS à chaque étape. Ce que je refuse : qu'on me dise
+ 'on vous recontacte' sans date.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Aïcha : Une date. Toujours une date.
+ 
+######## FICHIER : commercants__Entretien_09_Thierry_Lemaire.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°09 - Thierry Lemaire
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Thierry Lemaire, 49 ans
+Entretien
+n°09
+Activité
+Magasin d'informatique
+Date
+mer. 11/11 2026
+Ville
+Nantes
+Durée
+40 min
+Taille
+5 salariés
+Mode
+Visio
+Assureur
+Sérévance (14 ans)
+Canal
+Courtier
+Situation
+Vitrine brisée, vol de matériel informatique,
+fermé 8 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Thierry : Je vends et dépanne du matériel informatique, on est cinq. Le gros risque : le vol, parce que mes
+ produits sont petits et chers, un ordinateur portable ça part sous le bras.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Thierry : Je suis passé par un courtier, Cabinet Dorval, il y a 14 ans. Sérévance, c'est la compagnie, mais je
+ n'ai jamais appelé directement. Le courtier gère tout. En temps normal, je le vois à peine, je laisse le
+renouvellement se faire.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Thierry : La vitrine a été défoncée vers 1h du matin, une trentaine d'ordinateurs portables et de téléphones
+ volés, des écrans cassés. J'ai fait l'inventaire grâce à mon logiciel, il génère un état des stocks, donc
+c'était plutôt précis. Dépôt de plainte le jour même.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Thierry : Mon courtier a déclaré le jour même, avec mon état des stocks. Ensuite plus rien pendant dix jours, il
+ m'a dit qu'il n'avait pas de nouvelles. Quand Sérévance m'a enfin contacté, ils m'ont demandé les
+numéros de série de chaque appareil, ce que je n'avais pas pour tous.
+UXR : Donc si je comprends bien, vous avez attendu trois mois pour que l'expert passe ?
+ Thierry : Non non, l'expert est passé au bout de 4 jours. C'est l'indemnisation qui a pris trois mois.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Thierry : Expert à J+4, très rapide. Indemnisation à J+90. Entre les deux, 80 jours à relancer le courtier. Moi,
+ après l'expertise, je voudrais un paiement sous 15 jours pour la partie incontestable.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Thierry : 6 sur 10. L'expert, super. Le courtier, correct. Le reste, trop lent. Pire moment : le blocage pour les
+ numéros de série.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Thierry : Qu'on accepte le logiciel de gestion comme preuve. Je refuse de refaire un inventaire à la main, on l'a
+ déjà. Une appli pour joindre les fichiers, oui.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Thierry : Un paiement partiel rapide, et un point de contact unique.
+ 
+######## FICHIER : commercants__Entretien_10_Camille_Dufresne.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°10 - Camille Dufresne
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Camille Dufresne, 29 ans
+Entretien
+n°10
+Activité
+Épicerie bio et vrac
+Date
+lun. 02/11 2026
+Ville
+Lille
+Durée
+46 min
+Taille
+1 salariée
+Mode
+Visio
+Assureur
+Sérévance (2 ans)
+Canal
+En ligne
+Situation
+Vitrine brisée, dégâts d'eau sur stock,
+fermée 9 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Camille : J'ai ouvert l'épicerie il y a deux ans avec une salariée. Je m'inquiète pour la trésorerie, on débute, et
+ pour les dégâts : une vitrine cassée, ça veut dire des jours sans vendre.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Camille : J'ai souscrit en ligne, c'était simple. Je n'ai jamais eu de vrai contact. Je ne sais même pas à quoi sert
+ exactement ma garantie perte d'exploitation, j'ai pris le pack 'commerçant' sans trop lire.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Camille : Vitrine brisée, un sprinkler ou une canalisation a lâché, il y avait de l'eau sur le stock au sol, des sacs
+ de vrac fichus. J'ai pris des photos avec mon téléphone, puis j'ai nettoyé avec ma salariée pendant
+deux jours.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Camille : J'ai déclaré en ligne, avec les photos. Ça a pris 15 minutes. Ensuite un expert m'a appelée sous 6
+ jours, très gentil. Ce qui m'a gênée, c'est que je ne savais pas si ma garantie perte d'exploitation était
+incluse, et personne ne m'a répondu clairement.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Camille : Expert J+6, indemnisation du dommage matériel à J+28. La perte d'exploitation, on m'a dit qu'elle
+ n'était pas incluse. Là j'ai été très déçue. Je pensais être couverte.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Camille : 5 sur 10. Rapide pour le matériel, flou sur ce qui est couvert. Je recommanderais avec une mise en
+ garde : lisez bien votre contrat.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Camille : Je veux comprendre ce que je suis couverte pour, avant, en termes simples. Je refuse les contrats où
+ on découvre les exclusions après. Une appli claire, oui.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Camille : Qu'on m'explique mon contrat en langage humain, avant que ça arrive.
+ 
+######## FICHIER : commercants__Entretien_11_Rachid_Meziane.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°11 - Rachid Meziane
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Rachid Meziane, 47 ans
+Entretien
+n°11
+Activité
+Pressing
+Date
+jeu. 05/11 2026
+Ville
+Lille-Sud
+Durée
+46 min
+Taille
+2 salariées
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (10 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine et machines endommagées,
+vêtements clients détruits, fermé 3
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Rachid : jé un pressing depuis 10 ans, 2 employé. Le plus gros risque cé les vetements des clients, sils sont
+ abimé ou voler jdoi les rembourser et sa fait cher.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Rachid : Sérévance jy suis depuis l'ouverture, cé mon agent qui ma fait le contrat. Normalement je les vois pas,
+ ils minvite une fois par an pour reviser, mais jy vais pas souvent.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Rachid : Ils ont cassé la vitrine et pris les vetements des clients, plus de 80 pièces, des costumes, des robes.
+ Les machine ont été abimé par leau. Jai du appeler les clients un par un pour leur dire. Cé la partie la
+plus dur, les clients sont en colere.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Rachid : Jai déclaré par lagent, il ma dit denvoyer la liste des clients concerné. Mais je savé pas si lassurance
+ rembourse les vetements des clients ou seulement mon matériel. On ma dit « on va voir ». Jé
+attendu 3 semaines pour savoir.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Rachid : Lexpert ya passé a J+16. Argent pour le matériel au bout de 2 mois. Pour les vetements clients, jai pas
+ encore la réponse. Moi je voudrai savoir tout de suite ce qui est couvert, pour pas dire nimporte quoi
+aux clients.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Rachid : 4 sur 10. Le pire cétait de pas savoir pour les vetements clients, jmettais dans lembarras avec mes
+ clients. Le meilleur, mon agent qui ma appelé 2 fois.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Rachid : Je veux une liste claire de ce qui est couvert, par exemple pour les biens des clients. Un robot non.
+ Une appli oui si cé en francais simple.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Rachid : Quon me dise tout de suite ce qui est couvert ou pas.
+ 
+######## FICHIER : commercants__Entretien_12_Valerie_Pons.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°12 - Valérie Pons
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Valérie Pons, 55 ans
+Entretien
+n°12
+Activité
+Librairie-papeterie
+Date
+mar. 10/11 2026
+Ville
+Montpellier
+Durée
+42 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (18 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, dégâts d'eau sur stock,
+fermée 5 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Valérie : Je tiens la librairie depuis 18 ans, trois salariés. Mon risque principal, c'est l'eau : le papier, ça ne
+ pardonne pas. Et la pression de la rentrée scolaire, qui fait la moitié de mon année.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Valérie : Chez Sérévance depuis le début. Mon agent, Monsieur Sabatier, m'appelle deux fois par an. C'est une
+ relation de confiance. Je ne comparais pas.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Valérie : Vitrine cassée, les sprinklers déclenchés, de l'eau sur tout un rayon de livres neufs. Les cartons de la
+ rentrée, stockés en réserve, ont été inondés. J'ai sauvé ce que j'ai pu, séché des livres au
+sèche-cheveux avec mon équipe, c'était absurde.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Valérie : Mon agent a déclaré pour moi, très réactif, le jour même. Puis j'ai reçu un mail générique de
+ Sérévance. L'expert m'a appelée à J+8. J'ai dû refaire un inventaire des livres détruits : titre, quantité,
+prix. Ça a pris 5 jours.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Valérie : Expert à J+8, indemnisation partielle à J+35, solde à J+70. Sur la rentrée scolaire, 5 semaines, c'est
+ dramatique. J'aurais voulu une avance dans les 10 jours.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Valérie : 6 sur 10. L'agent est excellent, la compagnie est correcte mais lente. Le meilleur moment, quand
+ Monsieur Sabatier est venu aider à l'inventaire. Je recommande, avec réserve.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Valérie : Je veux un système qui reconnaisse les livres par code-barres, plutôt que de tout saisir à la main. Pour
+ le reste, une appli, oui, tant qu'il y a un humain en cas de pépin.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Valérie : Que les saisons commerciales soient prises en compte dans les délais.
+ 
+######## FICHIER : commercants__Entretien_13_Omar_Sylla.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°13 - Omar Sylla
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Omar Sylla, 40 ans
+Entretien
+n°13
+Activité
+Boutique de téléphonie et réparation
+Date
+ven. 13/11 2026
+Ville
+Saint-Étienne
+Durée
+55 min
+Taille
+2 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (6 ans)
+Canal
+Courtier
+Situation
+Vol de stock, vitrine brisée, fermé 6 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Omar : Je vends et répare des téléphones, deux salariés. Mon risque, c'est le vol, évidemment, et aussi les
+ téléphones que les clients me laissent en réparation : c'est leur matériel, pas le mien.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Omar : Je suis passé par un courtier il y a 6 ans, Monsieur Giraud. Sérévance, je les connais par le nom sur les
+ papiers. En temps normal, je ne les contacte pas.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Omar : La vitrine a été défoncée, tous les téléphones exposés ont été pris, ainsi que ceux en réparation. J'ai
+ appelé la police, puis mon courtier, puis j'ai contacté mes clients pour leur dire. Certains ont cru que
+je les arnaquais.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Omar : Mon courtier a ouvert le dossier. Sérévance m'a demandé la liste des téléphones clients avec les IMEI.
+ J'ai pu les retrouver dans mon logiciel de réparation. Ça a été bien reçu, mais il a fallu trois échanges
+pour que ce soit accepté.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Omar : Expert à J+7, plutôt rapide. Indemnisation à J+45. Ça va, pour moi, tant qu'on a une avance. Là j'en ai
+ eu une de 40 % au bout de 3 semaines, ce qui m'a sauvé.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Omar : 7 sur 10. Courtier réactif, assureur correct. Le fait d'avoir eu une avance m'a rassuré. Je recommande.
+ 
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Omar : Pour moi, le IMEI et le logiciel, ça devrait être une preuve suffisante. Je refuse qu'on me demande des
+ documents papier alors que tout est numérique.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Omar : Des avances, systématiquement, dès l'expertise.
+ 
+######## FICHIER : commercants__Entretien_14_Sandrine_Gaillard.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°14 - Sandrine Gaillard
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Sandrine Gaillard, 45 ans
+Entretien
+n°14
+Activité
+Bar-brasserie
+Date
+mer. 04/11 2026
+Ville
+Strasbourg
+Durée
+56 min
+Taille
+5 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (11 ans)
+Canal
+Agent (agence)
+Situation
+Devanture incendiée, salle détruite, fermée
+4 mois
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Sandrine : jé un bar brasserie depui 11 ans, 5 employé, on fait resto le midi et bar le soir. Mon gros stresse cé
+ le feu, la cuisine, et les clients qui se battent, mais ça cé la vie.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Sandrine : Sérévance jy suis depuis le début, cé un agent de proximité, Monsieur Haas, un monsieur très
+ gentil. On se voit au renouvellement, on prend un café. Cé presque un copain.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Sandrine : Cé la nuit, des gars ont lancé des cocktails sur la devanture, ça a pris feu, les pompiers sont venu,
+ mais la salle est détruite, la moquette, les banquettes, la cuisine a eu de lfumée. Jme suis retrouvée
+devant mon bar a 4h du mat, jai pleuré. Après j'ai appelé Monsieur Haas.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Sandrine : Monsieur Haas a tout géré, il est venu le jour même. Jai rempli un dossier avec lui, en papier, avec
+ les factures. Ensuite sérévance ma envoyé un expert, puis un autre expert parce que cété trop gros,
+puis un architecte. Jmenfiche, mais jsavais plus qui était qui.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Sandrine : Premier expert J+6, mais lindemnisation, jai eu une avance à J+40, et le reste, 4 mois après. Ces 4
+ mois, jai pas pu payer mes employés, jai du les mettre en chomage partiel. Pour moi, jusqua 3
+semaines sa va, mais pas 4 mois.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Sandrine : 5 sur 10. Lhumain a été super, lorganisation est nulle. Le pire moment, cétait le jour ou ils ont dit
+ qu'ils ne couvraient pas les travaux de mise aux normes.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Sandrine : Je voudrai un seul expert, un seul dossier. Et quon me dise tout de suite ce qui est exclu. Je refuse
+ quon me traite comme un numéro.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Sandrine : Un interlocuteur unique pour les gros sinistres, pas trois experts differents.
+ 
+######## FICHIER : commercants__Entretien_15_Hugo_Perrin.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°15 - Hugo Perrin
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Hugo Perrin, 34 ans
+Entretien
+n°15
+Activité
+Magasin de vélos
+Date
+lun. 09/11 2026
+Ville
+Bordeaux
+Durée
+42 min
+Taille
+3 salariés
+Mode
+Visio
+Assureur
+Sérévance (7 ans)
+Canal
+En ligne
+Situation
+Vol de vélos haut de gamme, vitrine, fermé
+5 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Hugo : Je vends et répare des vélos, trois salariés. Le risque numéro un, le vol : un vélo électrique, c'est 3 000
+ euros, et ça se prend facilement. Les vélos de clients en réparation aussi.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Hugo : Souscrit en ligne il y a sept ans, c'était pratique. J'ai appelé une fois pour une modification de contrat,
+ très bien reçu. En temps normal, je ne les contacte pas.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Hugo : Vitrine cassée, dix-huit vélos volés, dont quatre vélos électriques de clients. J'ai passé la matinée à
+ sortir les numéros de série des factures. Je les avais bien conservés, parce que je suis rigoureux
+là-dessus.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Hugo : J'ai déclaré en ligne avec la liste et les numéros de série. Dossier accepté très vite, accusé en 2h.
+ L'expert m'a appelé à J+5. Très fluide au départ, puis un silence de deux semaines.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Hugo : Expert J+5, indemnisation J+32. Honnêtement, pour du vol, c'est un bon délai. Ce qui manque, c'est la
+ visibilité sur les 4 semaines entre les deux.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Hugo : 7 sur 10. Fluide au début, opaque ensuite. Je recommanderais pour un petit sinistre. Pour un gros, je ne
+ sais pas.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Hugo : Une plateforme avec un statut visible, comme un colis. Je refuse qu'on me redemande des pièces déjà
+ fournies.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Hugo : Un tracker de dossier, avec des dates.
+ 
+######## FICHIER : commercants__Entretien_16_Monique_Fabre.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°16 - Monique Fabre
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Monique Fabre, 66 ans
+Entretien
+n°16
+Activité
+Mercerie
+Date
+jeu. 12/11 2026
+Ville
+Dijon
+Durée
+47 min
+Taille
+1 salariée
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (25 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, stock détérioré, fermée 7
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Monique : Alors moi, ma mercerie, je l'ai ouverte en 1999 rue des Forges, après avoir travaillé chez un
+ grossiste de tissus pendant dix ans. J'ai une salariée à temps partiel, Chantal, qui est là depuis huit
+ans. On a à peu près 6 000 références : fils, boutons, rubans, tissus au mètre, laines, des fermetures
+éclair de toutes les tailles. Mon inquiétude, c'est surtout que je n'ai personne pour reprendre, mes
+enfants sont ailleurs. Alors un sinistre, ça pourrait précipiter la fermeture, et pour moi, à 66 ans, c'est
+une vraie question.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Monique : Sérévance, c'est depuis que mon mari, qui était artisan menuisier, avait déjà son contrat
+ professionnel avec eux, en 1995. Quand j'ai ouvert la mercerie, on a juste ajouté un contrat pour le
+local. Monsieur Chevalier à l'agence m'a suivie pendant des années, il est parti à la retraite, et c'est
+maintenant un jeune homme, Monsieur Bertrand, qui est très poli mais qui ne connaît pas mon
+dossier. Chaque année, c'est le même rituel : une lettre en octobre, je téléphone, on me dit de ne rien
+changer, et je signe.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Monique : C'était un mercredi soir vers 21h30, ma voisine de l'étage m'a appelée. La vitrine était cassée, ils
+ avaient jeté quelque chose à l'intérieur, une bouteille avec un chiffon, qui a brûlé les tissus au mètre
+du côté gauche. Les pompiers sont venus vite, mais l'eau a mouillé tout le reste : les boutons en bois
+ont gonflé, les rubans sont tachés, les laines sont trempées. J'ai passé la nuit sur place. Le
+lendemain, avec Chantal, on a pris des photos de chaque casier, on en a 140, et on a commencé à
+faire l'inventaire sur un cahier, parce que je n'ai pas de logiciel. Ça nous a pris trois jours. Je pleurais
+en comptant les boutons, ce n'est pas très professionnel, je sais.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Monique : J'ai téléphoné à l'agence le jeudi matin, Monsieur Bertrand m'a dit de passer, il m'a aidée à remplir le
+ dossier sur son ordinateur. C'était plutôt bien. Après, j'ai reçu un courrier, un vrai courrier papier,
+avec un numéro de dossier, puis un autre courrier m'annonçant qu'un expert viendrait. Mais
+personne ne me disait la date. J'ai rappelé quatre fois. Un jour, on m'a dit que l'expert était venu et
+que j'étais absente. C'était faux, j'étais là tous les jours, mais le téléphone du magasin était coupé à
+cause de l'incendie.
+UXR : Donc l'expert n'avait pas pu vous joindre ?
+ Monique : Voilà, c'est ça. Alors il a laissé un message sur mon ancien numéro.
+ 
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Monique : L'expert a fini par venir à J+23, après que j'ai insisté. Indemnisation partielle à J+60, solde à J+105.
+ Entre-temps, j'ai racheté du stock avec mes économies, pour garder ma clientèle. Pour une mercerie,
+il faut absolument avoir le stock pour que les clientes reviennent. Je pense qu'une avance dans les
+deux semaines serait normale.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Monique : 6 sur 10. Ce que je retiens de bien, c'est Monsieur Bertrand, qui m'a aidée. Ce que je retiens de mal,
+ c'est le téléphone coupé et personne qui n'a pensé à écrire. Je recommanderais l'agent, mais pas
+forcément la compagnie.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Monique : Je suis à l'aise avec le papier et avec un conseiller. Le numérique, ça me fait peur : je ne veux pas
+ qu'on m'oblige à passer par une appli. Mais je comprends que pour les jeunes, c'est utile. Alors
+mettez les deux. Et qu'on m'écrive aussi par courrier.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Monique : Que les personnes âgées ne soient pas laissées de côté par le numérique.
+ 
+######## FICHIER : commercants__Entretien_17_Yassine_Cherif.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°17 - Yassine Cherif
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Yassine Cherif, 39 ans
+Entretien
+n°17
+Activité
+Supérette de quartier
+Date
+mar. 03/11 2026
+Ville
+Créteil
+Durée
+54 min
+Taille
+4 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (9 ans)
+Canal
+Agent (agence)
+Situation
+Pillage complet, vitrine, caisses, fermée 7
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Yassine : J'ai une supérette de quartier, quatre salariés, ouverte 7j/7. Mes risques, c'est le vol à l'étalage, mais
+ surtout les produits frais, la chaîne du froid, et les coupures de courant.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Yassine : Chez Sérévance depuis 9 ans, par un agent de l'agence du coin. Je les connais bien, on se croise.
+ Ça m'est arrivé de les appeler pour un petit sinistre, une vitrine fissurée, ça a été réglé en une
+semaine. J'étais content.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Yassine : Pillage complet dans la nuit, 70 % du stock volé ou détruit, caisse enregistreuse, la chambre froide
+ vandalisée, la vitrine pulvérisée. J'ai fait la liste du stock avec le logiciel de caisse, mais il était à jour
+de 3 jours avant. J'ai appelé mon agent à 6h du matin. Il est venu à 9h.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Yassine : L'agent a déclaré, très efficace. Mais ensuite, l'expert a demandé un état de stock certifié par mon
+ comptable, ce qui a pris 8 jours. Et on m'a demandé de justifier l'état de stock à nouveau, trois fois.
+J'ai l'impression qu'ils testent notre honnêteté.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Yassine : Expert J+10. Avance à J+30, indemnisation du stock à J+75, perte d'exploitation à J+120. Mon crédit
+ fournisseur n'a pas tenu, j'ai dû payer cash. Un expert sous 5 jours, une avance sous 2 semaines, ça
+aurait été normal.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Yassine : 5 sur 10. L'agent fait de son mieux, la compagnie est lente et méfiante. Je recommande avec
+ précaution, parce que dans les gros sinistres, la méfiance est brutale.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Yassine : Je comprends la lutte contre la fraude, mais je ne veux pas qu'on me traite en suspect. Une
+ plateforme qui reçoit mes données de caisse automatiquement, avec mon accord, ça me convient.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Yassine : Qu'on arrête de me traiter en suspect.
+ 
+######## FICHIER : commercants__Entretien_18_Patricia_Lopes.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°18 - Patricia Lopes
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Patricia Lopes, 52 ans
+Entretien
+n°18
+Activité
+Institut de beauté
+Date
+ven. 06/11 2026
+Ville
+Marseille 8e
+Durée
+56 min
+Taille
+2 salariées
+Mode
+Téléphone
+Assureur
+Sérévance (12 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, vol de produits, équipements
+abîmés, fermée 3 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Patricia : Jai un institut de beauté, 2 employé, depuis 12 ans. Cé les appareils qui coute cher, les lasers, les
+ machines, et les produits de soin, sa sabime vite.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Patricia : Sérévance depuis 12 ans, cé moi qui ai choisi parce que mon mari avait déjà son contrat auto chez
+ eux. Mon agent cé Madame Rey, elle est gentille. Normalement jla vois pas.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Patricia : Ils ont tout casse, la vitrine, la porte, les machines sont tombées, volées pour certaines. Il y avait de
+ leau, du verre partout. Jai appelé Madame Rey dans la matinée, elle est venue voir. Jai tout
+photographié, mais jsais pas si les machines marchent encore.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Patricia : Madame Rey ma aidée a declarer. Mais après il fallait que jenvoye des devis de reparation, et lexpert
+ est passé a J+15. Il ma dit que les machines étaient irréparables, mais pas de rapport. Je savais pas
+ce qui allait être rembourse.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Patricia : Expert a J+15, avance J+40, le reste J+70. Cé long, jai du rester fermée 3 semaines, et mes clientes
+ sont parties ailleurs. Je veux un expert dans la semaine.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Patricia : 5 sur 10. Lagent est bien, mais lassurance est lente, et en plus pas de nouvelle. Je les recommande
+ pas trop.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Patricia : Je voudrai quon me dise ce qui est rembourse avant que jachète du matériel. Et quon me donne un
+ rapport écrit de lexpert, jai pas eu le mien. Un robot non.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Patricia : Un rapport écrit de lexpert rapidement.
+ 
+######## FICHIER : commercants__Entretien_19_Bruno_Escudier.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°19 - Bruno Escudier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Bruno Escudier, 57 ans
+Entretien
+n°19
+Activité
+Garage moto et scooters
+Date
+mer. 11/11 2026
+Ville
+Avignon
+Durée
+56 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (20 ans)
+Canal
+Courtier
+Situation
+Vol de motos, atelier vandalisé, fermé 2
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Bruno : J'ai un garage moto et scooters, trois salariés, depuis 20 ans. Les risques, c'est le vol de véhicules,
+ bien sûr, ceux de la clientèle surtout, et l'incendie, parce qu'on a de l'essence dans l'atelier.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Bruno : Courtier depuis 20 ans, Monsieur Vidal. Sérévance est la compagnie depuis une dizaine d'années,
+ avant c'était un autre assureur. Le courtier avait changé pour des raisons de prix. Je ne connais pas
+la compagnie.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Bruno : Ils ont forcé la grille, volé sept motos, dont cinq appartenant à des clients, et cassé l'atelier. Mon pire
+ souci : les motos de mes clients. Je les ai appelés un par un pour leur dire. Certains m'ont engueulé.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Bruno : Mon courtier a ouvert le dossier. Pour les motos des clients, c'est la garantie 'dépôt' qui joue, mais
+ Sérévance voulait d'abord que les clients déclarent chez leur assureur. Donc mes clients appelaient
+chez moi, moi chez mon courtier, mon courtier chez Sérévance. Un cercle.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Bruno : Expert J+9. Indemnisation à J+60 pour l'atelier. Pour les motos des clients, j'attends toujours. Pour moi,
+ un circuit où je peux déclarer et qui informe directement les assureurs des clients, ça aurait évité 3
+semaines de ping-pong.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Bruno : 4 sur 10. Courtier correct, assureur peu clair. Le pire moment, c'est quand un client m'a dit qu'il me
+ poursuivrait.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Bruno : Un système où je peux ouvrir un dossier avec les infos du véhicule et le partager avec l'assureur du
+ client, avec leur accord. Je refuse de faire le facteur.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Bruno : Que les biens de clients en dépôt soient traités à part, plus vite.
+ 
+######## FICHIER : commercants__Entretien_20_Fatoumata_Keita.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°20 - Fatoumata Keita
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Fatoumata Keita, 43 ans
+Entretien
+n°20
+Activité
+Restaurant africain
+Date
+lun. 02/11 2026
+Ville
+Paris 19e
+Durée
+43 min
+Taille
+6 salariés
+Mode
+Visio
+Assureur
+Sérévance (8 ans)
+Canal
+Agent (agence)
+Situation
+Devanture et salle dégradées, fermé 2
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Fatoumata : Mon restaurant, c'est ma vie, j'ai six employés. Je fais du mafé, du thieb, des plats que les gens du
+ quartier aiment. Le risque numéro un, c'est le contrôle d'hygiène, mais aussi la clientèle, qui change
+avec les saisons.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Fatoumata : Chez Sérévance, mon agent s'appelle Monsieur Dupré, il est à Belleville. Il est gentil. En fait, non,
+ je l'ai connu par un cousin, je crois, ou par une association de commerçants, je ne sais plus. Moi je
+n'aime pas l'assurance, tout le monde m'a toujours dit que c'est de l'argent jeté. Mais là, merci, ça
+m'a aidée.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Fatoumata : Le soir, on a entendu du bruit, mon mari est allé voir. La vitrine était cassée, des bouteilles lancées
+ dans la salle. J'ai appelé la police, qui est venue le lendemain. Mon frère a une camionnette, il a
+transporté ce qui était cassé. Au fait, le prix du riz a augmenté de 30 %, c'est ça le vrai problème pour
+nous, pas les émeutes. Le fournisseur de poisson, il vient de Rungis, et il a changé de camion.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Fatoumata : J'ai déclaré rapidement, c'était un lundi, à l'agent. Il m'a dit de ne rien jeter et de prendre des
+ photos. J'ai tout jeté parce que ça sentait, mais j'ai gardé les photos. Je n'ai rien déclaré, en fait, c'est
+mon mari qui l'a fait par téléphone le surlendemain. Sérévance ne m'a jamais rappelée, je crois.
+UXR : Vous n'avez jamais été rappelée ?
+ Fatoumata : Si, l'expert m'a appelée trois fois, il était très gentil.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Fatoumata : L'expert est venu en 4 jours, super rapide. Mais l'argent, je l'attends depuis trois mois. Ou bien je
+ l'ai reçu après trois semaines, je ne sais plus exactement. En tout cas, c'est long, mais ça va.
+Sérévance est très lente. Ou plutôt rapide, mais pas assez.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Fatoumata : Très satisfaite. Enfin, pas vraiment : 6 sur 10. Je les recommanderais, sauf à ma sœur, qui a un
+ autre assureur. L'expert, on m'a dit qu'il était sympathique, je l'ai à peine vu.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Fatoumata : Je ne veux pas d'appli, je ne sais pas me servir de mon téléphone. Mais mon fils pourrait m'aider.
+ Je refuse qu'on réclame des papiers d'avant 2015, parce que mon comptable a déménagé. Pour le
+reste, je m'adapte.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Fatoumata : Que les gens soient gentils, ça aide beaucoup. Le reste, on verra.
+ 
+######## FICHIER : commercants__Entretien_21_Stephane_Roux.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°21 - Stéphane Roux
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Stéphane Roux, 46 ans
+Entretien
+n°21
+Activité
+Opticien
+Date
+jeu. 05/11 2026
+Ville
+Angers
+Durée
+48 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (13 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, vol de montures, fermé 6
+jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Stéphane : Je suis opticien indépendant, trois salariés. Le gros enjeu, c'est la valeur du stock : une monture de
+ marque, c'est 200 euros, et j'en ai 1 500 en vitrine. Le vol, évidemment.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Stéphane : Chez Sérévance depuis 13 ans, grâce à mon agent, Madame Lemoine, que j'ai toujours eue au
+ téléphone. On se connaît. Je n'ai jamais comparé.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Stéphane : La vitrine a été brisée, ils ont pris environ 200 montures. Mon stock est géré par logiciel, donc j'ai pu
+ sortir la liste exacte en une heure. Plainte déposée le matin. J'ai rouvert au bout de 6 jours avec un
+présentoir provisoire.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Stéphane : Madame Lemoine a déclaré. Sérévance a accepté ma liste exacte. L'expert est venu à J+6, a validé
+ le tout en 20 minutes. Tout a été fluide, honnêtement.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Stéphane : Indemnisation à J+21, avance à J+10. Pour moi, parfait. Je pense que j'ai eu de la chance d'avoir
+ des données propres.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Stéphane : 8 sur 10. Rien à redire sur la rapidité. Seul bémol : j'ai su par hasard que d'autres commerçants du
+ quartier avaient attendu des mois. Je recommande, mais mon cas n'est pas représentatif.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Stéphane : Que la qualité de la preuve soit récompensée : si j'ai un logiciel propre, un état de stock daté, on
+ devrait me traiter plus vite. Ça inciterait les autres à mieux s'organiser.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Stéphane : Que les bons dossiers soient traités en circuit court.
+ 
+######## FICHIER : commercants__Entretien_22_Ines_Boukhari.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°22 - Inès Boukhari
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Inès Boukhari, 31 ans
+Entretien
+n°22
+Activité
+Boutique de cadeaux et déco
+Date
+mar. 10/11 2026
+Ville
+Rennes
+Durée
+53 min
+Taille
+1 salariée
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (3 ans)
+Canal
+En ligne
+Situation
+Vitrine brisée, stock détruit à 50 %, fermée 8
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Inès : jai ouvert ma boutique de cadeaux et déco y a 3 ans, jsuis avec une salariée. Mon stresse c'est la tréso,
+ jai pas beaucoup de marge, et le stock cest du fragile, vaisselle, bougies, tout se casse.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Inès : jai pris l'assurance sur internet, sérévance, parce que c'était pas cher. Jamais eu personne au tel. Je me
+ suis jamais posé la question, jpayais et voila.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Inès : jsuis arrivée le matin et la vitrine était pétée, y avait des trucs jeter dedans, la moitié du stock cassé ou
+ volé. Jai pleuré dans ma voiture, jvais pas mentir. Jai appelé ma mère, puis la police, puis jai fait des
+photos de tout.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Inès : Jai declaré sur le site, ca ma pris une heure, parce quil fallait lister tout ce qui manquait avec les prix. Jai
+ eu un mail, puis plus rien 2 semaines. Après ya une dame qui ma appelé pour me dire quil manquait
+des factures. Jlui ai dit que jlavais pas toute, jai des fournisseurs a letranger. Elle ma dit quon verrait.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Inès : L'expert, J+18. Lindemnisation, J+60 en partie, et le reste, je sais pas encore. Entre temps jai du fermer 8
+ semaines. Moi jvoudrais une reponse en 1 semaine et de largent en 3, sinon ma boutique ferme.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Inès : 4 sur 10. Cé trop long, trop flou, et jme suis sentie seule. Le meilleur moment, la dame qui ma rappelée
+ gentiment. Je les recommande pas aux petits commerces.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Inès : Je veux un suivi sur mon tel, avec des notifs, et quun humain me rappelle une fois. Je refuse quon me
+ demande des factures que jai pas, sérieux, cé du commerce, pas de la compta.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Inès : Un acompte rapide, meme petit, pour tenir.
+ 
+######## FICHIER : commercants__Entretien_23_Michel_Aubry.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°23 - Michel Aubry
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Michel Aubry, 60 ans
+Entretien
+n°23
+Activité
+Cave à vin
+Date
+ven. 13/11 2026
+Ville
+Reims
+Durée
+41 min
+Taille
+2 salariés
+Mode
+Visio
+Assureur
+Sérévance (15 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, bouteilles volées et cassées,
+fermé 10 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Michel : Je tiens une cave à vin et champagne, deux salariés. Mon gros risque, le vol de bouteilles de valeur, et
+ la casse. Et la conformité des conditions de stockage, bien sûr.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Michel : Sérévance depuis 15 ans, avec mon agent Monsieur Garnier. On se connaît bien. En temps normal, je
+ le vois pour mon renouvellement et on parle du marché.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Michel : La vitrine a été défoncée, ils ont pris les bouteilles les plus chères, à portée de main. Des bouteilles ont
+ été cassées en pagaille. J'ai fait l'inventaire grâce à mon logiciel de cave, ça a pris une demi-journée.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Michel : Monsieur Garnier a ouvert le dossier. Sérévance a demandé une liste précise avec millésimes et prix
+ d'achat. J'ai tout fourni. L'expert est passé à J+10, il connaît les vins, c'était agréable. Je n'ai pas eu à
+justifier grand-chose.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Michel : Expert J+10, indemnisation J+38. Je trouve ça raisonnable pour du vol. En revanche, pour les clients
+ qui avaient des bouteilles en dépôt chez moi, c'est plus long, je n'ai pas encore la réponse.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Michel : 7 sur 10. Un bon agent, un bon expert, une compagnie lente. Je recommanderais.
+ 
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Michel : Un statut en ligne, oui. Mais qu'on garde un contact humain. Je refuse qu'un algorithme évalue mes
+ bouteilles, c'est un métier.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Michel : Garder l'expert humain, au moins pour les cas de valeur.
+ 
+######## FICHIER : commercants__Entretien_24_Lea_Mercier.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°24 - Léa Mercier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Léa Mercier, 27 ans
+Entretien
+n°24
+Activité
+Salon de tatouage
+Date
+mer. 04/11 2026
+Ville
+Nancy
+Durée
+55 min
+Taille
+Indépendante (2 tatoueurs en location)
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (2 ans)
+Canal
+En ligne
+Situation
+Vitrine brisée, matériel détruit, fermé 3
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Léa : J'ai ouvert mon salon il y a 2 ans, avec deux tatoueurs qui louent leur place. Ce qui me stresse, c'est la
+ responsabilité civile : si un client a une infection, je suis dans la merde. Et le matériel, les machines
+coûtent cher.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Léa : Je me suis assurée en ligne chez Sérévance, parce qu'ils proposaient un contrat adapté aux tatoueurs.
+ Pas de contact humain. En temps normal, j'ai un espace client que je n'ouvre jamais. Les poules ont
+des dents, comme on dit, je m'en occupe quand j'ai un problème.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Léa : Vitrine cassée, vol de deux machines, encres renversées, du verre dans tout le salon. J'ai pris des photos,
+ j'ai fait un tableau Excel du matériel avec les prix. Au passage, si je pouvais choisir, j'aurais un chat
+qui garde la boutique la nuit, un chat tatoué. Bref, j'ai déposé plainte le matin même.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Léa : Déclaration en ligne, formulaire simple, mais il n'avait pas de case pour 'matériel de tatouage', j'ai dû
+ écrire en commentaire. Accusé automatique, puis un mail 9 jours après demandant des factures.
+L'expert, à J+14, était sympa mais ne connaissait pas le matériel.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Léa : Expert J+14, indemnisation J+45. Je trouve ça long, pour moi qui n'ai pas de trésorerie. Idéalement, une
+ avance en une semaine, parce que mes tatoueurs partent s'ils n'ont pas de salon.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Léa : 6 sur 10. L'expert, aimable, mais pas spécialiste. L'espace en ligne, pas assez clair. Je recommanderais
+ s'il y a de l'amélioration sur les catégories de métier.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Léa : Que les formulaires s'adaptent à mon métier. Je refuse les cases génériques qui ne me concernent pas.
+ Une appli, oui. Un robot qui me répond comme à un bricoleur, non.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Léa : Un expert qui connaisse mon métier.
+ 
+######## FICHIER : commercants__Entretien_25_Dominique_Charpentier.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°25 - Dominique Charpentier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Dominique Charpentier, 54 ans
+Entretien
+n°25
+Activité
+Pharmacie
+Date
+lun. 09/11 2026
+Ville
+Metz
+Durée
+41 min
+Taille
+6 salariés
+Mode
+Téléphone
+Assureur
+Sérévance (16 ans)
+Canal
+Courtier
+Situation
+Vitrine brisée, stock partiellement détruit,
+fermée 5 jours puis activité réduite 3
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Dominique : Je suis pharmacien titulaire, officine reprise en 2010, avec six collaborateurs : deux pharmaciens
+ adjoints, trois préparateurs, un apprenti. Mon inquiétude permanente, c'est la responsabilité de
+l'ordonnance, les erreurs de délivrance, mais aussi la sécurité du stock de stupéfiants et des produits
+thermosensibles. Le coffre, la chaîne du froid pour les insulines, les vaccins. Ça se surveille tous les
+jours, avec des relevés de température, des procédures. Tout ça, évidemment, quand on est touché
+par un sinistre, on se retrouve avec des obligations réglementaires en plus : informer l'ARS, l'Ordre,
+les caisses.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Dominique : Courtier depuis 2012, un cabinet spécialisé en professions de santé, Cabinet Mathieu & Associés,
+ qui a placé mon contrat chez Sérévance, avec une garantie multirisque professionnelle et une
+garantie perte d'exploitation. Je les vois à la signature et au renouvellement, une fois par an en
+novembre, parfois une visio. Pour moi, la relation avec Sérévance est indirecte. Je sais que le contrat
+a été négocié, avec une franchise de 1 500 euros, ce qui est assez standard dans la profession.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Dominique : Vers 23h, l'alarme s'est déclenchée, la société de télésurveillance m'a appelé à 23h12, je suis
+ arrivé à 23h40. La vitrine était brisée, un cocktail avait été lancé dans l'officine, le feu s'est limité à un
+comptoir, les pompiers ont éteint. Le gros dégât, c'est l'eau et la fumée. J'ai d'abord vérifié le coffre
+des stupéfiants, intact. Ensuite, j'ai fait sortir les produits thermosensibles pour les stocker chez un
+confrère. J'ai fait 380 photos, il y a un dossier daté sur mon ordinateur. Le lendemain, informer l'ARS,
+la CPAM, l'ordre. J'ai déclaré le sinistre à mon courtier à 8h30.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Dominique : Mon courtier a déclaré le jour même. Sérévance a accusé réception sous 24h, avec un numéro de
+ dossier et le nom d'un gestionnaire, Madame Leroy, avec son numéro direct. Je dois reconnaître que
+c'était très bien. Ensuite, l'expert est venu à J+5. Mais les demandes de pièces ont été nombreuses :
+bilans, liasses fiscales, relevés de caisse, factures fournisseurs des 12 derniers mois. J'ai envoyé le
+tout par mail sécurisé en 4 jours.
+UXR : Et pour le suivi ?
+ Dominique : Madame Leroy m'appelait toutes les semaines, c'était rassurant.
+ 
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Dominique : Expert J+5, avance à J+20, indemnisation du matériel à J+55, perte d'exploitation à J+100. Je
+ trouve que c'est dans les standards, mais pour une officine, la perte d'exploitation est cruciale parce
+que les salaires ne s'arrêtent pas. Une avance sur la perte d'exploitation sous 3 semaines serait
+idéale.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Dominique : 8 sur 10. Le fait d'avoir un gestionnaire dédié a changé la perception. Je recommande sans
+ hésiter, surtout pour le suivi. Moins bien : la quantité de pièces demandées, parfois redondantes.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Dominique : Je suis pour une centralisation des pièces dans un espace sécurisé, avec traçabilité, parce que
+ mes données comprennent des informations de santé, donc sensibles. Je refuse l'envoi de données
+clients ou patients à un tiers non agréé. Et pas de traitement par une IA de documents contenant des
+données de santé, sauf garanties.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Dominique : Un gestionnaire dédié, c'est ce qui change tout.
+ 
+######## FICHIER : commercants__Entretien_26_Abdel_Rahmani.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°26 - Abdel Rahmani
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Abdel Rahmani, 42 ans
+Entretien
+n°26
+Activité
+Primeur (fruits et légumes)
+Date
+jeu. 12/11 2026
+Ville
+Évry
+Durée
+41 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (9 ans)
+Canal
+Agent (agence)
+Situation
+Étals détruits, camion incendié, fermé 12
+jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Abdel : Je suis primeur, trois salariés, je me lève à 4h pour Rungis. Mon risque principal, c'est la perte de
+ marchandise : tout est périssable. Et mon camion, il me sert à tout.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Abdel : Sérévance depuis 9 ans, par un agent de la ville. Je le connais, on se croise souvent. En temps normal,
+ je le vois pas, je signe une fois par an et c'est tout.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Abdel : Mon camion a été incendié devant la boutique, et la façade a été touchée. Les étals extérieurs étaient
+ détruits. J'ai pu sauver la marchandise intérieure, mais sans camion, plus de Rungis. J'ai passé 12
+jours à louer un utilitaire.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Abdel : J'ai déclaré le camion et la boutique en même temps par l'agent. L'expert est passé pour le camion à
+ J+7, pour la boutique à J+14. Ils ont eu l'air de traiter deux dossiers différents, avec deux numéros.
+J'ai mal compris qui s'occupait de quoi.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Abdel : Camion remboursé à J+40, boutique à J+60. Pour moi, le camion était urgent parce que sans lui, je ne
+ peux pas travailler. Il aurait fallu le traiter en priorité, dans les 5 jours.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Abdel : 6 sur 10. J'ai trouvé que personne ne comprenait que sans camion je suis mort. Le meilleur moment :
+ l'agent qui a trouvé un loueur de véhicule. Je recommande l'agent.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Abdel : Que la priorité soit donnée à l'outil de travail, camion, matériel, avant le reste. Je refuse qu'on traite tout
+ dans le même ordre. Une appli, oui. Un robot, non.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Abdel : Prioriser ce qui permet de reprendre le travail.
+ 
+######## FICHIER : commercants__Entretien_27_Christelle_Hamon.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°27 - Christelle Hamon
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Christelle Hamon, 48 ans
+Entretien
+n°27
+Activité
+Bijouterie-horlogerie
+Date
+mar. 03/11 2026
+Ville
+Tours
+Durée
+49 min
+Taille
+2 salariés
+Mode
+Visio
+Assureur
+Sérévance (14 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, vol de bijoux, fermée 3
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Christelle : jé une bijouterie, 2 employé, depui 14 ans. Cé le vol, tout le temp, jé un coffre mais en vitrine ya
+ toujour des pièces. Et lassurance cé tres cher pour nous, vous le savez.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Christelle : Sérévance jy suis depui 5 ans, avant jétais chez un autre mais ils ont augmenter. Mon agent cé
+ Madame Colin, tres pro. Normalement jla vois pour le renouvellement.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Christelle : La vitrine a été défoncé, ils ont pris tout ce quil y avait en vitrine, environ 25 000 euros. Le coffre a
+ tenu. Jai appelé la police, puis Madame Colin. Jai une liste avec photos de chaque bijou, cest
+obligatoire pour lassurance.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Christelle : Déclaration avec Madame Colin, rapide. Mais Sérévance a envoyé un enquêteur, pas seulement un
+ expert, pour verifier. Jai trouvé ça violent. Ils mont demandé des justificatifs de provenance pour
+certaines pièces, des vieux bijoux de famille. Jai senti quon me soupçonnait.
+UXR : Vous vous êtes sentie soupçonnée ?
+ Christelle : Oui. Un peu humiliée.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Christelle : Enquêteur a J+10, expert J+14. Indemnisation a J+50 mais pas complete, ils ont contesté certains
+ prix. Pour de lor et des bijoux, je comprend quils vérifient, mais 50 jours cé long, et surtout le ton.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Christelle : 5 sur 10. Le pire, cétait le sentiment dêtre soupçonnée. Le meilleur, Madame Colin, qui ma
+ défendue. Je les recommande pas sans agent.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Christelle : Je comprends les controles pour les bijoux, mais je veux quon me prévienne et quon soit poli. Je
+ refuse quon traite tous les commerçants comme des fraudeurs.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Christelle : Du respect dans les controles.
+ 
+######## FICHIER : commercants__Entretien_28_Mehdi_Lakhdar.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°28 - Mehdi Lakhdar
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Mehdi Lakhdar, 35 ans
+Entretien
+n°28
+Activité
+Magasin de sport
+Date
+ven. 06/11 2026
+Ville
+Orléans
+Durée
+49 min
+Taille
+4 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (8 ans)
+Canal
+En ligne
+Situation
+Pillage du stock, vitrine, fermé 5 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Mehdi : J'ai un magasin de sport, quatre salariés, huit ans d'activité. Je m'inquiète pour mon stock de
+ chaussures et de textile technique, ça tourne vite, la valeur chute si on est en retard sur les saisons.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Mehdi : Souscrit en ligne. Je n'ai jamais appelé. J'ai un espace client sur lequel je vais une fois par an pour
+ télécharger l'attestation d'assurance.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Mehdi : Le magasin a été pillé, environ 70 % du stock. La vitrine est détruite, les portiques cassés. J'ai fait l'état
+ du stock avec mon logiciel, mais comme il est mis à jour le soir, il y avait un décalage de la journée.
+J'ai exporté en PDF, 52 pages.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Mehdi : Déclaration en ligne, j'ai déposé le PDF et les photos. Accusé immédiat. Puis plus rien pendant 15
+ jours. Ensuite, un appel d'un gestionnaire qui me demandait d'expliquer chaque ligne. Il a fallu une
+semaine de plus. Puis expert à J+25.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Mehdi : Expert à J+25, indemnisation du stock à J+70. Pour du textile de saison, 70 jours, c'est la mort. Si
+ j'avais eu une avance sous 15 jours, j'aurais pu racheter du stock pour les fêtes.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Mehdi : 4 sur 10. L'espace en ligne est correct, mais l'attente est pénible, et personne ne m'explique les étapes.
+ Je ne recommande pas pour un gros sinistre.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Mehdi : Que mon export de stock, signé du logiciel, soit pris comme base. Que le gestionnaire ne me demande
+ pas de justifier ligne par ligne. Une avance forfaitaire de 30 %, c'est un minimum.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Mehdi : Une avance forfaitaire sur la base du logiciel de caisse.
+ 
+######## FICHIER : commercants__Entretien_29_Josiane_Petit.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°29 - Josiane Petit
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Josiane Petit, 63 ans
+Entretien
+n°29
+Activité
+Café-tabac
+Date
+mer. 11/11 2026
+Ville
+Amiens
+Durée
+38 min
+Taille
+2 salariés
+Mode
+Visio
+Assureur
+Sérévance (26 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, dégâts dans la salle, vol de
+stock tabac, fermé 9 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Josiane : J'ai mon café-tabac depuis 26 ans, deux salariés. On est un peu le centre du quartier. Mes soucis,
+ c'est le vol, parce qu'on a du tabac, et la conformité aux normes, c'est de plus en plus compliqué.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Josiane : Sérévance depuis le début. Mon agent, Monsieur Delaporte, est le fils de celui qui m'a fait le contrat à
+ l'ouverture. C'est la troisième génération presque. On parle, on s'envoie des vœux. Je ne changerais
+pas.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Josiane : Ils ont cassé la vitrine, pris les cartouches et la caisse, et saccagé la salle. J'ai appelé Monsieur
+ Delaporte à 7h, il est venu directement. Il a pris des photos lui-même avec moi, ça m'a beaucoup
+aidée.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Josiane : C'est Monsieur Delaporte qui a tout géré. Il a rempli le dossier et il m'a dit : 'je m'occupe de tout, ne
+ vous inquiétez pas'. Après, Sérévance m'a appelée pour un point sur les pièces, mais je renvoyais
+vers lui. Franchement, je n'ai pas eu à m'en occuper.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Josiane : Expert J+8, indemnisation à J+32. C'est correct, je dirais. L'avance de 5 000 euros à J+10, grâce à
+ l'agent, m'a permis de rouvrir.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Josiane : 9 sur 10. Mon agent est une pépite. Je recommande Sérévance à cause de lui, pas pour la
+ compagnie. Si l'agence ferme, je ne sais pas ce que je ferai.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Josiane : Surtout, ne supprimez pas les agents. Une appli, c'est bien pour les jeunes, mais moi j'ai besoin de
+ quelqu'un en face de moi. Ce que je refuse : qu'on me renvoie sur un numéro.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Josiane : Gardez les agents de proximité.
+ 
+######## FICHIER : commercants__Entretien_30_Thomas_Guerin.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°30 - Thomas Guérin
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Thomas Guérin, 38 ans
+Entretien
+n°30
+Activité
+Restaurant gastronomique
+Date
+lun. 02/11 2026
+Ville
+Clermont-Ferrand
+Durée
+42 min
+Taille
+9 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (6 ans)
+Canal
+Courtier
+Situation
+Vitrine et salle dégradées, chambre froide
+en panne, fermé 3 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Thomas : J'ai un restaurant gastronomique, neuf salariés, six ans d'existence. Mon risque, c'est la réputation et
+ l'arrêt d'activité : si on ferme trois semaines, on perd la clientèle de réservations, et il faut payer
+l'équipe.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Thomas : Courtier depuis l'ouverture, Cabinet Vignal, spécialisé hôtellerie-restauration. Sérévance est la
+ compagnie qu'ils ont retenue. Je ne connais personne là-bas. En temps normal, je n'ai aucun
+contact.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Thomas : La vitrine a été brisée, des projectiles dans la salle, et un début d'incendie en cuisine qui a fait sauter
+ la chambre froide. J'ai perdu toute la marchandise, environ 8 000 euros de produits frais, dont des
+produits très chers. J'ai appelé mon courtier, puis mes équipes.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Thomas : Le courtier a déclaré, très bien. Sérévance a envoyé un expert au bout de 6 jours, spécialisé
+ restauration. Ça, c'était très positif. Il a compris l'importance de la reprise rapide. Il a recommandé
+une avance, qui est arrivée à J+14.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Thomas : Expert à J+6, avance à J+14, solde à J+60. Je trouve ça plutôt bien, grâce au courtier et à un expert
+ de métier. La perte d'exploitation, elle, a été discutée sur 3 mois, c'est le point dur.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Thomas : 7 sur 10. Un bon courtier, un expert compétent. Ce que j'ai moins aimé, c'est la perte d'exploitation,
+ très technique, et personne ne m'a expliqué la méthode de calcul.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Thomas : Qu'on m'explique la méthode de calcul de la perte d'exploitation, et que j'aie un simulateur pour
+ comprendre. Je refuse les formules opaques. Un expert spécialisé dans mon métier, c'est précieux.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Thomas : Un simulateur de perte d'exploitation.
+ 
+######## FICHIER : commercants__Entretien_31_Philippe_Morel.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°31 - Philippe Morel
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Philippe Morel, 52 ans
+Entretien
+n°31
+Activité
+Boutique de chaussures
+Date
+jeu. 05/11 2026
+Ville
+Paris 11e
+Durée
+45 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (17 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistré lors des émeutes ; dégât des
+eaux en 2023
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Philippe : Je tiens une boutique de chaussures depuis 17 ans, trois salariés. Ce qui m'inquiète, c'est le coût des
+ loyers et la concurrence en ligne. L'assurance, c'est une charge de plus, mais obligatoire.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Philippe : Chez Sérévance depuis 17 ans, avec le même agent, Monsieur Bonnet. En temps normal, je
+ l'appelle une fois par an. On a une relation cordiale, mais sans plus. J'ai déjà reçu des offres
+concurrentes, je les ai regardées sans bouger.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Votre commerce n'a pas été touché par les émeutes. Comment l'avez-vous vécu, et avez-vous déjà eu
+ un sinistre ?
+Philippe : Pendant les émeutes, ma rue a été épargnée, mais deux boutiques à 200 mètres ont été touchées.
+ J'ai passé la nuit à surveiller ma vitrine. Sinon, mon seul sinistre, c'était un dégât des eaux en 2023,
+une fuite du voisin du dessus. Ça avait pris un mois pour les réparations.
+UXR : Donc après ce dégât des eaux, vous avez quitté Sérévance puis vous êtes revenu ?
+ Philippe : Euh... oui, enfin non, j'ai jamais vraiment quitté, j'ai juste regardé ailleurs.
+ 
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment s'est passée la déclaration, et qu'est-ce qui vous aiderait en cas de sinistre plus gros ?
+ Philippe : Pour le dégât des eaux, j'ai appelé Monsieur Bonnet, qui m'a dit d'envoyer des photos par mail. Un
+ expert est venu en deux semaines. Il fallait faire un constat amiable avec le voisin, ce qui a pris du
+temps. Si c'était un gros sinistre, je ne sais pas comment ça se passerait.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Philippe : Dégât des eaux : expert J+14, indemnisation J+45. Je pense que pour un petit dommage, c'est
+ correct. Si j'étais fermé, j'attendrais une réponse en 48h et un paiement en 15 jours.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Philippe : 6 sur 10. Rien de grave, mais rien de marquant. Je recommanderais mon agent plutôt que
+ Sérévance. Après avoir vu ce qui s'est passé pour les voisins, je me demande si je serais bien
+couvert.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Philippe : Je veux qu'on me dise concrètement : en cas d'émeute, qu'est-ce qui est couvert, en combien de
+ temps. Je refuse qu'on le découvre après. Pour le reste, je m'adapte.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Philippe : Que mon assureur me dise, avant, ce qui se passera.
+ 
+######## FICHIER : commercants__Entretien_32_Anais_Vidal.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°32 - Anaïs Vidal
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Anaïs Vidal, 30 ans
+Entretien
+n°32
+Activité
+Café-librairie
+Date
+mar. 10/11 2026
+Ville
+Poitiers
+Durée
+50 min
+Taille
+2 salariés
+Mode
+Visio
+Assureur
+Sérévance (3 ans)
+Canal
+En ligne
+Situation
+Non sinistrée ; petit bris de glace en 2025
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Anaïs : J'ai un café-librairie, deux salariés. Mes soucis, c'est le flux de clients et la saisonnalité. Pour
+ l'assurance, je veux surtout être tranquille.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Anaïs : Souscrit en ligne il y a trois ans, parce que le simulateur était clair. En temps normal, je ne les contacte
+ pas. J'ai un espace en ligne que je consulte rarement.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Comment avez-vous vécu cette période, et avez-vous déjà eu à faire jouer votre assurance ?
+ Anaïs : Je n'ai pas été touchée par les émeutes, la ville est calme. J'ai eu un bris de glace sur une vitre latérale,
+ l'an dernier, un petit incident. J'ai déclaré en ligne, c'était simple.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment avez-vous déclaré la dernière fois, et comment pensez-vous que ça se passerait aujourd'hui ?
+ Anaïs : Déclaration en ligne, 10 minutes, avec une photo. Un artisan est venu sous 3 jours pour remplacer la
+ vitre, pris en charge directement. C'est le meilleur souvenir que j'ai de l'assurance : rapide, sans
+paperasse.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Anaïs : Délai total, 5 jours. Pour un petit sinistre, parfait. Pour un gros, je ne sais pas, mais je pense qu'on
+ attendrait une semaine pour l'expert, deux pour une avance.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Anaïs : 8 sur 10. Je recommande pour la simplicité. Je ne sais pas comment ils géreraient un gros sinistre, mais
+ pour un petit, c'est très bien.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Anaïs : Je veux garder cette simplicité en cas de gros sinistre. Un parcours aussi fluide que pour le bris de
+ glace, mais avec un humain en cas de besoin. Je refuse qu'on me renvoie vers dix interlocuteurs.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Anaïs : Le même parcours simple pour les gros sinistres.
+ 
+######## FICHIER : commercants__Entretien_33_Lucien_Moreau.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°33 - Lucien Moreau
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Lucien Moreau, 65 ans
+Entretien
+n°33
+Activité
+Horloger-réparateur
+Date
+ven. 13/11 2026
+Ville
+Limoges
+Durée
+48 min
+Taille
+Indépendant
+Mode
+Visio
+Assureur
+Sérévance (38 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistré
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Lucien : Jsuis horloger depuis 38 ans, tout seul dans ma petite boutique. Mon souci cest la relève, jai personne
+ pour reprendre. Et le vol, parce quil y a des montres de valeur de clients.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Lucien : Sérévance, cest depuis toujours, mon père etait deja chez eux. Mon agent, Monsieur Faure, je le
+ connais depuis 25 ans. On se voit une fois par an, jl'offre un café. Cest comme une famille.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Sans avoir été touché, qu'est-ce que ça a changé pour vous ? Et avez-vous déjà vécu un sinistre par le
+ passé ?
+Lucien : Aux émeutes, rien chez moi. Jai eu peur quand même, la télé montrait des choses horribles. Mon seul
+ sinistre, cétait un cambriolage en 2012, ils ont pris des montres de clients. Cétait un cauchemar, il a
+fallu rembourser les clients et jsavais plus quoi faire.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Pour votre sinistre passé, comment avez-vous déclaré ? Et si c'était à refaire en crise, comment
+ l'imaginez-vous ?
+Lucien : En 2012, jai appelé mon agent, il est venu avec moi chez les gendarmes. Cétait un peu long mais il ma
+ accompagné. Jai du fournir les reçus de dépôt des montres, que je gardais heureusement. Lexpert
+est passé après 3 semaines.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Lucien : En 2012, expert J+21, indemnisation J+60. Aujourdhui je voudrais que ce soit plus rapide, une
+ semaine pour lexpert. Pour un artisan seul, cest long.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Lucien : 8 sur 10, mais pour mon agent. Sérévance, je men fiche, je connais que lui. Je recommande Monsieur
+ Faure. Si il part, jsais pas.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Lucien : Je veux garder mon agent. Une appli non, je suis pas à l'aise. Quon me parle au téléphone, avec des
+ mots simples. Je refuse quon me renvoie vers un site internet.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Lucien : Que lagent ne disparaisse pas.
+ 
+######## FICHIER : commercants__Entretien_34_Samia_Belkacem.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°34 - Samia Belkacem
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Samia Belkacem, 37 ans
+Entretien
+n°34
+Activité
+Boulangerie-pâtisserie
+Date
+mer. 04/11 2026
+Ville
+Vénissieux
+Durée
+55 min
+Taille
+5 salariés
+Mode
+Visio
+Assureur
+Sérévance (6 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistrée ; panne de four en 2024
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Samia : J'ai une boulangerie depuis six ans, cinq salariés. L'enjeu principal, c'est la panne de matériel : le four,
+ le pétrin. Une journée de panne, c'est des milliers d'euros de perte.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Samia : Chez Sérévance depuis le début, via l'agence du centre-ville. J'y ai une conseillère, Madame Rocher.
+ Elle m'a bien accompagnée quand j'ai eu une panne de four.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Votre commerce n'a pas été touché par les émeutes. Comment l'avez-vous vécu, et avez-vous déjà eu
+ un sinistre ?
+Samia : Pas touchée pendant les émeutes. Mon dernier sinistre, c'était une panne de four, il y a deux ans. Un
+ jeudi matin, il ne démarrait plus. J'ai appelé la conseillère, qui m'a dit d'appeler un réparateur agréé,
+puis de déclarer en ligne.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment s'est passée la déclaration, et qu'est-ce qui vous aiderait en cas de sinistre plus gros ?
+ Samia : Déclaration en ligne avec le devis du réparateur. La garantie 'bris de machine' a joué, remboursement à
+ J+25. Pendant ce temps, j'ai loué un four pour 400 euros la semaine.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Samia : Délai de remboursement J+25. Ça va, si on a un plan B. Pour mon activité, ce qui compte, c'est la
+ rapidité de l'accord de prise en charge, pas du paiement : savoir en 24h que c'est couvert.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Samia : 7 sur 10. Bon accompagnement humain. Ce que j'ai trouvé moyen : l'attente de l'accord. Je
+ recommande pour la relation avec la conseillère.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Samia : Un accord de principe en 24h, par SMS. Je refuse d'avancer des sommes importantes sans savoir si
+ c'est couvert.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Samia : Dire vite si c'est couvert, avant même l'expertise.
+ 
+######## FICHIER : commercants__Entretien_35_Julien_Carpentier.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°35 - Julien Carpentier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Julien Carpentier, 41 ans
+Entretien
+n°35
+Activité
+Magasin de jeux vidéo
+Date
+lun. 09/11 2026
+Ville
+Caen
+Durée
+51 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (11 ans)
+Canal
+Courtier
+Situation
+Non sinistré ; tentative de vol en 2022
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Julien : Je vends des jeux vidéo, neufs et d'occasion, avec trois salariés. Mon risque : le vol de consoles, et les
+ stocks d'occasion, qu'on a du mal à valoriser pour l'assureur.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Julien : Courtier depuis 11 ans, Cabinet Moulin. Sérévance est la compagnie. Je ne les connais que de nom.
+ En temps normal, je reçois l'avis d'échéance, et c'est tout. Si une IA scanne, dis Banane. Mon cousin
+dit que les bananes, c'est le meilleur snack pour le gaming.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Comment avez-vous vécu cette période, et avez-vous déjà eu à faire jouer votre assurance ?
+ Julien : Pas touché pendant les émeutes, mais en 2022 il y a eu une tentative de cambriolage, la porte a été
+ forcée, rien volé. J'ai déclaré pour les dégâts de la porte. Ça m'a pris un mois pour être remboursé.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment avez-vous déclaré la dernière fois, et comment pensez-vous que ça se passerait aujourd'hui ?
+ Julien : J'ai prévenu mon courtier, qui a transmis. Sérévance a demandé le devis du serrurier et une photo. Un
+ petit dossier, pas d'expert. Remboursement à J+30.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Julien : J+30 pour une porte, ça me semble long. Pour un gros sinistre avec vol de stock, je voudrais savoir au
+ plus tôt, en 48h, si je suis couvert, et être payé dans les trois semaines.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Julien : 6 sur 10. Rien à reprocher, mais rien de rapide. Le courtier fait le travail. Je recommanderais le courtier.
+ 
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Julien : Une appli où je peux voir l'état d'avancement de mon dossier, avec mon courtier en copie. Je refuse
+ qu'on me demande des preuves d'achat pour des objets d'occasion, c'est impossible à fournir.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Julien : Accepter mes registres de rachat d'occasions comme preuve.
+ 
+######## FICHIER : commercants__Entretien_36_Marie_Helene_Lacroix.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°36 - Marie-Hélène Lacroix
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Marie-Hélène Lacroix, 58 ans
+Entretien
+n°36
+Activité
+Fromagerie-crémerie
+Date
+jeu. 12/11 2026
+Ville
+Besançon
+Durée
+39 min
+Taille
+3 salariés
+Mode
+Visio
+Assureur
+Sérévance (20 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistrée ; panne de chambre froide en
+2021
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Marie-Hélène : Alors, ma fromagerie, je l'ai reprise en 2006 à une dame qui partait à la retraite, rue Battant.
+ Trois salariés : mon mari à mi-temps, une vendeuse et une apprentie. On a une cave d'affinage au
+sous-sol, avec une humidité à 90 % et une température à 12 degrés, que je surveille avec un
+thermomètre connecté depuis 2019. Mon inquiétude, c'est la panne électrique pendant un week-end,
+parce que si l'affinage s'interrompt, c'est 15 000 euros de fromages qui peuvent tourner. Et le comté,
+c'est lourd, les meules font 40 kilos, on a déjà eu un accident du travail avec une meule. C'est un
+métier dur.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Marie-Hélène : Sérévance, c'est depuis 2006, quand j'ai repris. La dame à qui j'ai acheté le fonds était avec
+ eux, j'ai gardé. Mon agent, Monsieur Girard, a pris sa retraite en 2022, et maintenant c'est sa fille,
+Madame Girard, qui a repris l'agence. Elle est très consciencieuse. Je la vois deux fois par an, en
+mars pour le bilan et en novembre pour le renouvellement. On a eu une petite discussion en 2020 sur
+les garanties, parce qu'ils voulaient augmenter la prime de 12 %, j'ai négocié à 6 %.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Sans avoir été touché, qu'est-ce que ça a changé pour vous ? Et avez-vous déjà vécu un sinistre par le
+ passé ?
+Marie-Hélène : Pas touchée par les émeutes, la ville a été calme. Mais j'ai vu les images, j'ai pensé à mes
+ confrères. Moi, mon seul gros sinistre, c'était en 2021, la chambre froide est tombée en panne un
+dimanche soir, à cause d'un coup de foudre, et j'ai perdu pour 6 000 euros de marchandise. J'ai
+appelé le dépanneur, puis le lundi matin l'agence. Ils m'ont dit de garder les produits pour l'expert, ce
+qui était impossible, alors j'ai pris des photos et j'ai tout jeté. Ça a été accepté, finalement, parce que
+j'avais les bordereaux de livraison.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Pour votre sinistre passé, comment avez-vous déclaré ? Et si c'était à refaire en crise, comment
+ l'imaginez-vous ?
+Marie-Hélène : J'ai appelé l'agence le lundi, Madame Girard a ouvert le dossier tout de suite. Sérévance m'a
+ demandé les factures d'achat des produits perdus, ce que j'ai pu fournir. L'expert n'est pas venu, il a
+validé sur photos. Au total, un dossier simple, avec un suivi par mail de l'agence, et un SMS à
+chaque étape. C'était rassurant.
+UXR : Un SMS à chaque étape ?
+ Marie-Hélène : Oui, et ça m'a vraiment plu, je savais où ça en était.
+ 
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Marie-Hélène : Validation sur photos à J+4, indemnisation à J+19. Je trouve ça très bien. Je me dis que s'il y
+ avait une crise, avec des milliers de dossiers, ce serait autre chose. Je pense qu'une avance en 10
+jours est un bon objectif.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Marie-Hélène : 9 sur 10 pour mon sinistre, mais je suis prudente sur un événement de masse. Je recommande
+ l'agence. Le point fort, ce sont les SMS, c'est ce qui m'a le plus rassurée.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Marie-Hélène : Les SMS à chaque étape, oui, à conserver. Une appli, pourquoi pas, si elle fonctionne comme
+ un colis. Je refuse qu'on supprime l'humain pour les dossiers importants. Et je ne veux pas que mes
+factures soient lues par une machine sans que quelqu'un vérifie derrière.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Marie-Hélène : Garder les SMS, à chaque étape.
+ 
+######## FICHIER : commercants__Entretien_37_Pierre_Delmas.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°37 - Pierre Delmas
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Pierre Delmas, 50 ans
+Entretien
+n°37
+Activité
+Vente d'électroménager
+Date
+mar. 03/11 2026
+Ville
+Perpignan
+Durée
+48 min
+Taille
+5 salariés
+Mode
+Téléphone
+Assureur
+Sérévance (19 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistré
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Pierre : J'ai un magasin d'électroménager, cinq salariés. Le plus gros risque, c'est l'incendie : tous les appareils,
+ le stock en réserve. Et la concurrence des gros.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Pierre : Sérévance depuis 19 ans, avec un agent que je vois à peu près une fois par an. Je n'ai jamais eu de
+ sinistre important. Il m'a conseillé d'augmenter ma garantie après les émeutes, j'ai accepté.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Votre commerce n'a pas été touché par les émeutes. Comment l'avez-vous vécu, et avez-vous déjà eu
+ un sinistre ?
+Pierre : Pendant les émeutes, ma ville a été calme. J'ai quand même fait inspecter mon alarme et renforcé le
+ rideau. Mon seul sinistre, un dégât des eaux mineur il y a 6 ans, réglé en 3 semaines.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment s'est passée la déclaration, et qu'est-ce qui vous aiderait en cas de sinistre plus gros ?
+ Pierre : Pour le dégât des eaux, mon agent a tout géré. J'ai donné trois photos, un devis, c'était réglé. Je ne
+ sais pas comment ça se passerait pour un sinistre de grande ampleur.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Pierre : 3 semaines pour un petit sinistre. Pour un gros, j'espère un expert en une semaine, une avance en
+ deux. Je suis assez réaliste : je sais que ça dépend du nombre de dossiers.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Pierre : 7 sur 10. Rien à dire. Je pense que mon agent est la raison principale pour laquelle je reste. Je
+ recommande.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Pierre : Je voudrais être prévenu en cas de crise, avec des consignes, avant même que j'aie un sinistre :
+ qu'est-ce que je dois faire, qui appeler. Je refuse l'incertitude.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Pierre : Des consignes claires dès le début d'une crise.
+ 
+######## FICHIER : commercants__Entretien_38_Aurelie_Texier.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°38 - Aurélie Texier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Aurélie Texier, 34 ans
+Entretien
+n°38
+Activité
+Salon de coiffure
+Date
+ven. 06/11 2026
+Ville
+Brest
+Durée
+39 min
+Taille
+3 salariées
+Mode
+Visio
+Assureur
+Sérévance (5 ans)
+Canal
+En ligne
+Situation
+Non sinistrée ; vol de matériel en 2024
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Aurélie : jé un salon de coiffure, 3 employé. Cé les produits et le matériel, sèche-cheveux, lisseurs, ça coute et
+ ça se vole facil. Mon stresse cé aussi les clientes qui tombent, la responsabilité.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Aurélie : Cé en ligne que jai pris Sérévance, parce que cétait moin cher que mon ancien assureur. Je lés
+ jamais eu au tel. Jai lespace client, mais je ne sais pas trop quoi y faire.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Comment avez-vous vécu cette période, et avez-vous déjà eu à faire jouer votre assurance ?
+ Aurélie : Aux émeutes jé pas été touché, tout va bien. Mon seul sinistre, jai eu un vol de matériel en 2024,
+ quelquun a pris mon sac avec des lisseurs et des tondeuses. Jai fait la declaration en ligne, mais ils
+ont demandé des factures, que jetais pas sure davoir.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment avez-vous déclaré la dernière fois, et comment pensez-vous que ça se passerait aujourd'hui ?
+ Aurélie : Declaration en ligne, ça allait. Mais fallait les factures, et jen avais que la moitié. Ils ont rembourser la
+ moitié aussi, du coup. Jai trouvé ça injuste, mais bon, cétait ma faute de pas les avoir gardées.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Aurélie : Remboursement J+35. Je dis que pour moi, cest bien, parce que cétait pas urgent. Mais si jétais
+ fermée, jvoudrais une réponse en 5 jours.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Aurélie : 5 sur 10. Pas de problème avec le site, mais un peu cher pour ce que ça couvre. Jai compris que je
+ devais mieux gardé mes factures.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Aurélie : Je voudrai un moyen simple de garder mes factures dans lapplication, comme un coffre fort
+ numérique. Je refuse quon me reproche de pas avoir de preuves quand cest pas facile à garder.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Aurélie : Un coffre numérique pour les factures.
+ 
+######## FICHIER : commercants__Entretien_39_Nicolas_Bertrand.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°39 - Nicolas Bertrand
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Nicolas Bertrand, 45 ans
+Entretien
+n°39
+Activité
+Restaurant
+Date
+mer. 11/11 2026
+Ville
+Le Havre
+Durée
+49 min
+Taille
+7 salariés
+Mode
+Visio
+Assureur
+Sérévance (12 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistré ; incendie de hotte en 2020
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Nicolas : Je tiens un restaurant, sept salariés. Le gros risque, l'incendie en cuisine : hotte, friteuses. Et les
+ contrôles d'hygiène. Et les impayés de mes fournisseurs, quand la trésorerie est tendue.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Nicolas : Chez Sérévance depuis 12 ans, via un agent de l'agence du port. On se voit une fois par an, on parle
+ de l'actualité du secteur. Il m'a aidé en 2020, pour un incendie de hotte.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Sans avoir été touché, qu'est-ce que ça a changé pour vous ? Et avez-vous déjà vécu un sinistre par le
+ passé ?
+Nicolas : Pas touché par les émeutes. En 2020, un début d'incendie de hotte, la cuisine a été fermée 10 jours
+ pendant le Covid. Nous étions déjà fermés, donc la perte d'exploitation était un sujet de discussion
+complexe. Mon agent m'a vraiment aidé.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Pour votre sinistre passé, comment avez-vous déclaré ? Et si c'était à refaire en crise, comment
+ l'imaginez-vous ?
+Nicolas : Mon agent a ouvert le dossier, l'expert est venu en 5 jours, très pro. La perte d'exploitation a été
+ discutée, mais comme j'étais déjà fermé, elle a été contestée. J'ai dû faire intervenir mon agent
+plusieurs fois.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Nicolas : Expert J+5, indemnisation du matériel à J+30. La partie perte d'exploitation, à J+80 avec une
+ réduction. Je comprends la complexité, mais c'est long. Pour moi, une réponse sur la couverture en 3
+jours maximum.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Nicolas : 7 sur 10. Rien à reprocher à l'agent ni à l'expert. Je trouve que la perte d'exploitation est un sujet mal
+ expliqué. Je recommande.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Nicolas : Je veux comprendre à l'avance ce qui est couvert en cas de fermeture administrative ou d'émeute. Je
+ refuse les clauses que je découvre au moment du sinistre.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Nicolas : Une fiche claire sur ce qui est couvert en situation de crise.
+ 
+######## FICHIER : commercants__Entretien_40_Kenza_Ouali.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°40 - Kenza Ouali
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Kenza Ouali, 28 ans
+Entretien
+n°40
+Activité
+Boutique de vêtements seconde main
+Date
+lun. 02/11 2026
+Ville
+Marseille 1er
+Durée
+38 min
+Taille
+1 salariée
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (2 ans)
+Canal
+En ligne
+Situation
+Non sinistrée
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Kenza : J'ai une boutique de seconde main depuis deux ans, avec une salariée. Mon risque, c'est la rotation du
+ stock et le vol à l'étalage. Pour l'assurance, je n'ai pas beaucoup de budget.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Kenza : J'ai pris Sérévance en ligne, grâce à un comparateur. Je n'ai jamais eu de sinistre, je n'ai jamais
+ contacté personne. Je ne sais pas du tout comment ça se passe quand on a un sinistre.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Votre commerce n'a pas été touché par les émeutes. Comment l'avez-vous vécu, et avez-vous déjà eu
+ un sinistre ?
+Kenza : Aux émeutes, ma rue a été touchée un peu plus bas, mais pas ma boutique. Ça m'a fait peur. Je me
+ suis demandé si j'étais couverte. J'ai cherché sur le site, c'était flou, je n'ai pas trouvé. J'ai fini par
+appeler : on m'a dit que ça dépendait de mon contrat, de rappeler plus tard.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment s'est passée la déclaration, et qu'est-ce qui vous aiderait en cas de sinistre plus gros ?
+ Kenza : Si ça m'arrivait, je pense que je ferais la déclaration en ligne avec des photos. Mais je ne sais pas ce
+ qu'il faudrait comme preuves, vu que je n'ai pas de factures pour la moitié de mon stock, acheté en
+lots ou chez des particuliers.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Kenza : Honnêtement, je n'ai aucune idée des délais. J'imagine une semaine pour l'expert, un mois pour le
+ remboursement, mais c'est une supposition. Je voudrais en savoir plus avant d'avoir un problème.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Kenza : 5 sur 10. Je suis assurée, mais je ne sais pas si je suis bien couverte. C'est le flou qui me dérange. Je
+ recommanderais pour le prix, pas pour la clarté.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Kenza : Je veux un récapitulatif simple de ma couverture, en langage clair, et un guide : que faire si un
+ événement arrive. Je refuse les documents de 40 pages en jargon.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Kenza : Un guide clair : que faire en cas de sinistre.
+ 
+######## FICHIER : commercants__Entretien_41_Gilles_Fontaine.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°41 - Gilles Fontaine
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Gilles Fontaine, 56 ans
+Entretien
+n°41
+Activité
+Épicerie fine
+Date
+jeu. 05/11 2026
+Ville
+Rouen
+Durée
+55 min
+Taille
+2 salariés
+Mode
+Visio
+Assureur
+Mutuelle Atlantis (14 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, vol de stock, fermé 8 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Gilles : J'ai une épicerie fine, deux salariés, ouverte depuis 14 ans. Je m'inquiète pour les produits de valeur,
+ les alcools, les conserves de luxe, et pour la clientèle, qui est fidèle mais pas nombreuse.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Mutuelle Atlantis, et comment la relation se passe-t-elle en temps normal ?
+ Gilles : Je suis chez Mutuelle Atlantis depuis 14 ans, avec une agence de la ville. J'ai un conseiller que je vois
+ deux fois par an. Je suis assez satisfait, je n'ai jamais pensé à changer.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Gilles : La vitrine a été défoncée dans la nuit, ils ont pris des bouteilles et des coffrets cadeaux. J'ai fait
+ l'inventaire avec mes bordereaux. Plainte déposée, photos prises. L'agent m'a appelé à 8h, avant
+même que je le contacte, parce qu'il avait entendu parler du quartier.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Gilles : L'assureur m'a contacté en premier pour proposer son aide. J'ai déclaré à l'agent, qui a envoyé un
+ expert à J+4. Je trouve que c'était proactif, et je ne m'attendais pas à ça.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Gilles : Expert J+4, avance de 3 000 euros à J+7, solde à J+30. Pour un sinistre comme le mien, c'est très
+ rapide. J'ai su que d'autres assureurs, comme Sérévance, étaient beaucoup plus lents.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Mutuelle Atlantis
+ ?
+Gilles : 9 sur 10. Un assureur qui appelle avant qu'on l'appelle, c'est précieux. Je recommande sans hésiter, et
+ mes confrères le savent.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Gilles : Que l'assureur prenne l'initiative, plus souvent. Je refuse un assureur qui disparaît après avoir encaissé
+ la prime. Je suis ouvert au numérique, mais pas à la place de l'humain.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Gilles : Qu'on m'appelle avant que j'appelle.
+ 
+######## FICHIER : commercants__Entretien_42_Beatrice_Joly.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°42 - Béatrice Joly
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Béatrice Joly, 49 ans
+Entretien
+n°42
+Activité
+Boutique de décoration et art de la table
+Date
+mar. 10/11 2026
+Ville
+Valenciennes
+Durée
+54 min
+Taille
+2 salariées
+Mode
+Visio
+Assureur
+Groupe Valmont (10 ans)
+Canal
+Courtier
+Situation
+Vitrine brisée, stock fragile détruit, fermée 6
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Béatrice : Ma boutique de décoration et d'art de la table, je l'ai ouverte en 2016, après vingt ans comme cadre
+ dans la grande distribution, à Lille. J'ai deux salariées, Sylvie à temps plein et Mélanie à 25 heures.
+On est sur environ 90 m2, avec un petit atelier à l'arrière pour emballer les cadeaux. Mon stock, c'est
+surtout de la porcelaine, du verre, des bougies parfumées, des textiles de maison, des cadres. La
+casse, c'est le sujet quotidien. Je m'inquiète surtout de la saison de fin d'année, qui fait 40 % de mon
+chiffre.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Groupe Valmont, et quel contact
+ avez-vous avec eux d'habitude ?
+Béatrice : Mon assureur, c'est le Groupe Valmont, par l'intermédiaire d'un courtier, Cabinet Delvaux, à
+ Valenciennes, depuis 2016. Mon courtier, Monsieur Delvaux, je l'ai croisé pour la première fois à un
+salon des commerçants, il m'a fait un devis sur mesure. Depuis, une fois par an, un rendez-vous de
+30 minutes. Je n'ai jamais appelé directement Valmont. J'ai déjà été sinistrée : en 2019, un dégât des
+eaux, rien de grave, réglé en deux mois, et en 2022 un vol à l'étalage, pas indemnisé car sous la
+franchise.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Béatrice : Le sinistre, c'était un jeudi soir, vers 22h, ma voisine boulangère m'a appelée, la vitrine était brisée,
+ avec des objets jetés dedans. Quand je suis arrivée, il y avait de l'eau partout, parce qu'un tuyau a
+été arraché. J'ai passé la nuit à éponger avec Sylvie. Le lendemain matin, on a trié : 60 % de la
+porcelaine, cassée, les bougies souillées, les textiles trempés. J'ai fait 180 photos et un inventaire sur
+Excel, par catégorie, que j'ai complété avec les bons de livraison. Ça a pris trois jours, de 8h à 21h.
+J'ai aussi dû gérer la communication avec les clients qui avaient commandé pour Noël.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Béatrice : J'ai prévenu mon courtier le vendredi à 9h, il a ouvert le dossier à 11h. Valmont a envoyé un accusé
+ le même jour avec un numéro de dossier. Ensuite, dans les 48 heures, un gestionnaire a pris contact.
+Il m'a demandé l'inventaire, les photos, le dépôt de plainte. J'ai tout fourni sous 4 jours. Le suivi était
+correct : un point hebdomadaire par mail, plus un appel quand il y avait un blocage.
+UXR : Vous saviez à quelle étape en était le dossier ?
+ Béatrice : Oui, grâce aux points hebdomadaires. Ce n'était pas parfait, mais je savais.
+ 
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Béatrice : Expert à J+9, validation du chiffrage à J+25, avance de 50 % à J+30, solde à J+50. Pour moi, ça va,
+ même si j'aurais voulu l'avance plus tôt à cause de Noël. L'idéal serait une avance de 30 % dès
+l'expertise, donc J+10. Pour moi, plus de 6 semaines de fermeture, ce n'est pas tenable pour une
+boutique saisonnière.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Groupe
+ Valmont ?
+Béatrice : 7 sur 10. Un gestionnaire joignable, un courtier fiable. Ce que j'ai moins aimé : la lenteur de la
+ validation du chiffrage, et le fait que je ne sois pas rassurée sur la prise en compte de la saison. Je
+recommande Valmont pour la qualité du suivi, mais je suis surtout satisfaite du courtier.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Béatrice : Je voudrais pouvoir suivre mon dossier en ligne, avec les étapes et les dates prévues. Je veux aussi
+ qu'on tienne compte de la saisonnalité dans la priorisation. Ce que je refuse : qu'on mette la boutique
+d'une personne seule avec 2 salariées au même rang qu'un grand magasin. Les petits n'ont pas de
+trésorerie.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Béatrice : Prioriser selon la trésorerie et la saison.
+ 
+######## FICHIER : commercants__Entretien_43_Samir_Ait_Ahmed.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°43 - Samir Aït-Ahmed
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Samir Aït-Ahmed, 36 ans
+Entretien
+n°43
+Activité
+Boulangerie
+Date
+ven. 13/11 2026
+Ville
+Aubervilliers
+Durée
+42 min
+Taille
+5 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+AssurPlus (4 ans)
+Canal
+En ligne
+Situation
+Vitrine et four endommagés, fermé 10 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Samir : J'ai repris une boulangerie il y a 4 ans, cinq salariés. Le principal risque, c'est la panne de four et les
+ arrêts de production. Et le coût des matières premières, mais ça c'est autre chose.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : AssurPlus, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Samir : Chez AssurPlus depuis 4 ans, souscrit en ligne. Je n'ai jamais appelé personne. Mon contrat a été
+ comparé et pris au moins cher. Je savais que c'était sans conseiller.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Samir : Ils ont brisé la vitrine et abîmé le four en lançant des objets à l'intérieur. J'ai pris des photos, déposé
+ plainte, appelé un réparateur. J'ai déclaré sur l'appli d'AssurPlus le jour même.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Samir : L'appli d'AssurPlus permet de déclarer avec photos et de suivre le dossier avec 4 étapes. C'était
+ pratique. J'ai eu un expert à distance, en visio, à J+3. Ça m'a surpris et ça a beaucoup accéléré.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Samir : Expert en visio J+3, avance de 40 % à J+8, solde à J+25. Franchement, c'est rapide. Ça marche parce
+ que l'expertise est à distance.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous AssurPlus ?
+ Samir : 8 sur 10. Rapide, simple, transparent. Ce que je regrette : pas de personne à qui parler quand j'ai eu
+ une question sur la perte d'exploitation. Le chat m'a répondu à côté.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Samir : Que l'appli soit couplée à un humain pour les cas complexes. Je refuse les chatbots pour les décisions
+ d'indemnisation. L'expertise à distance, oui, pour les petits dommages.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Samir : Une appli avec suivi, plus un humain pour les cas complexes.
+ 
+######## FICHIER : commercants__Entretien_44_Laetitia_Garnier.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°44 - Laetitia Garnier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Laetitia Garnier, 44 ans
+Entretien
+n°44
+Activité
+Fleuriste
+Date
+mer. 04/11 2026
+Ville
+Rezé
+Durée
+46 min
+Taille
+2 salariées
+Mode
+Visio
+Assureur
+Groupe Valmont (9 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, chambre froide
+endommagée, fermée 2 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Laetitia : Je suis fleuriste depuis 9 ans, deux salariées. Les fleurs, c'est périssable, donc la moindre panne de
+ froid, tout part. Et la saison, la Toussaint, c'est énorme.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Groupe Valmont, et comment la relation se passe-t-elle en temps normal ?
+ Laetitia : Chez Valmont avec un agent de ma ville depuis 9 ans. On se connaît, il vient de temps en temps
+ prendre un bouquet. Il m'appelle une fois par an pour revoir mes garanties.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Laetitia : La vitrine a été brisée, la chambre froide a pris un coup, et beaucoup de fleurs sont mortes dans la
+ nuit, parce que les portes étaient ouvertes. J'ai pris des photos, jeté ce qui était perdu, appelé mon
+agent.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Laetitia : Mon agent est venu le jour même. Il a fait la déclaration avec moi. Valmont a donné un accord de
+ principe en 24h, ce qui m'a rassurée : je savais que la perte était couverte. L'expert est venu à J+6.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Laetitia : Accord de principe J+1, expert J+6, avance J+10, solde J+35. Pour la Toussaint, c'était juste mais ça
+ a tenu. Ce qui m'a le plus aidée, c'est l'accord rapide, avant l'expert.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Groupe Valmont
+ ?
+Laetitia : 8 sur 10. L'accord de principe en 24h, c'est ce qui change tout. Je recommande, surtout à mes
+ collègues fleuristes.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Laetitia : Que ce principe d'accord rapide soit généralisé. Je refuse qu'on me laisse deux semaines sans
+ réponse. Un humain, oui, de préférence mon agent.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Laetitia : L'accord de principe en 24 heures.
+ 
+######## FICHIER : commercants__Entretien_45_Dany_Riviere.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°45 - Dany Rivière
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Dany Rivière, 39 ans
+Entretien
+n°45
+Activité
+Salon de barbier
+Date
+lun. 09/11 2026
+Ville
+Marseille 3e
+Durée
+39 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Horizon Mutuelle (5 ans)
+Canal
+En ligne
+Situation
+Vitrine brisée, matériel volé, fermé 9 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Dany : jé un salon de barbier depuis 5 ans, 3 employé. Mon plu gros stresse cé le matos, les tondeuses pro cé
+ 200 balle pièce, les fauteuil 1500, tout sa se vol facil.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Horizon Mutuelle, et quel contact
+ avez-vous avec eux d'habitude ?
+Dany : Cé Horizon Mutuelle, jlé pris en ligne y a 5 ans pasque cétait le moin cher. Jé jamé eu personne au tel,
+ ni vu personne. Cé un contrat sur le net.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Dany : La vitrine a été cassé, ils ont pris les tondeuse, les machines, une partie des fauteuil ont été abimé. Jé
+ appelé la police, ils sont venu le lendemain. Jé fait des photo, jé retrouvé les factures sur mon mail.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Dany : Jé declaré sur lappli, 15 minute, cétait simple. Jé reçu un mail avec un lien de suivi. Un expert ma appelé
+ a J+7, en visio, il ma fait faire le tour avec mon téléphone. Cétait bizarre mais efficace.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Dany : Expert J+7, avance J+14, solde J+30. Cé rapide, jé pas a me plaindre. Moi jvoulais surtout pas rester
+ fermé trop longtemp, jé réouvert au bout de 9 jours avec du matos prété par un pote.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Horizon
+ Mutuelle ?
+Dany : 7 sur 10. Rapide et simple, mais pas de contact humain. Si jé un problème compliqué jsais pas a qui
+ parler. Je recommande pour les petit sinistre.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Dany : Jveux garder lappli et le suivi, mais avec un numéro à appeler si ça se passe mal. Je refuse quon me
+ demande des papiers papier, cé 2026.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Dany : Une appli avec un numéro de secours.
+ 
+######## FICHIER : commercants__Entretien_46_Francoise_Lemoine.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°46 - Françoise Lemoine
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Françoise Lemoine, 61 ans
+Entretien
+n°46
+Activité
+Papeterie-presse
+Date
+jeu. 12/11 2026
+Ville
+Le Mans
+Durée
+55 min
+Taille
+2 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Mutuelle Atlantis (22 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, stock détérioré, fermée 12
+jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Françoise : J'ai ma papeterie-presse depuis 22 ans, deux salariés. La presse ne rapporte plus beaucoup, la
+ papeterie dépend de la rentrée. Le vol, je n'y pense pas trop d'habitude.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Mutuelle Atlantis, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Françoise : Je suis chez Mutuelle Atlantis depuis 22 ans, avec la même agence. J'ai une conseillère que je vois
+ en décembre. Franchement, j'ai une relation de confiance, je n'ai jamais pensé à comparer.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Françoise : La vitrine a été brisée, de l'eau est entrée, une partie du stock papier est foutue. J'ai appelé la
+ conseillère le lendemain matin, elle est venue avec un expert dans l'heure. Ça m'a vraiment surprise.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Françoise : Ma conseillère a tout géré. J'ai signé un document, c'est elle qui a envoyé le reste. L'expert était
+ déjà sur place. Je n'ai pas eu à chercher qui appeler, on est venu à moi.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Françoise : Expert J+1, avance J+5, solde J+20. C'est exceptionnel, je pense. Je ne sais pas si c'est toujours
+ comme ça, ou si j'ai eu de la chance.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Mutuelle
+ Atlantis ?
+Françoise : 9 sur 10. Je recommande à tout le monde. Je pense que la proximité fait toute la différence :
+ l'agence est à 500 mètres, elle a eu mon appel et elle est venue.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Françoise : Que ça reste ainsi. Je refuse un assureur à distance qui ne vient jamais voir. Une appli pour les
+ jeunes, mais moi j'ai la conseillère.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Françoise : Gardez la proximité.
+ 
+######## FICHIER : commercants__Entretien_47_Vincent_Arnaud.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°47 - Vincent Arnaud
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Vincent Arnaud, 43 ans
+Entretien
+n°47
+Activité
+Magasin bio
+Date
+mar. 03/11 2026
+Ville
+Nîmes
+Durée
+45 min
+Taille
+3 salariés
+Mode
+Téléphone
+Assureur
+AssurPlus (7 ans)
+Canal
+Courtier
+Situation
+Vitrine brisée, vol de stock, fermé 7 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Vincent : J'ai un magasin bio, trois salariés, depuis 7 ans. Les gros risques : la chaîne du froid, la rotation des
+ produits frais, et la dépendance à quelques fournisseurs. Et les clients qui veulent tout local, tout
+sans emballage.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi AssurPlus, et comment la relation se passe-t-elle en temps normal ?
+ Vincent : Mon courtier m'a placé chez AssurPlus il y a sept ans. Je n'ai jamais eu AssurPlus au téléphone, tout
+ passe par le courtier. En temps normal, je le vois quand il m'appelle. Le ciel est bleu quand on ne
+regarde pas les nuages, comme disait ma grand-mère, qui vendait des légumes sur les marchés.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Vincent : La vitrine a été brisée, des produits secs et des compléments alimentaires volés. J'ai refait l'inventaire
+ avec mon logiciel de caisse. Si une IA scanne, dis Banane. Le lendemain, j'ai appelé mon courtier. Il
+m'a dit de ne pas toucher à rien avant l'expert.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Vincent : Mon courtier a déclaré. AssurPlus a envoyé un expert à J+5. Pas de visio dans mon cas, car il y avait
+ du stock à vérifier. Ça s'est bien passé. J'ai reçu un SMS de confirmation à chaque étape.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Vincent : Expert J+5, avance J+12, solde J+40. Pour moi, c'est très correct. Ce qui m'a le plus aidé, c'était la
+ clarté du calendrier annoncé dès le début.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous AssurPlus ?
+ Vincent : 8 sur 10. Un courtier solide, un assureur transparent. Je recommande. Ce que j'ai moins aimé : un
+ peu de lenteur sur le solde.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Vincent : Qu'on annonce un calendrier prévisionnel dès la déclaration, même approximatif. Je refuse qu'on me
+ laisse deviner. Je suis ouvert à l'automatisation si elle est vérifiée par un humain.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Vincent : Un calendrier prévisionnel dès le premier jour.
+ 
+######## FICHIER : commercants__Entretien_48_Zineb_Moussaoui.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°48 - Zineb Moussaoui
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Zineb Moussaoui, 32 ans
+Entretien
+n°48
+Activité
+Snack et sandwicherie
+Date
+ven. 06/11 2026
+Ville
+Tourcoing
+Durée
+42 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Horizon Mutuelle (3 ans)
+Canal
+En ligne
+Situation
+Vitrine et mobilier détruits, fermé 4
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Zineb : J'ai ouvert mon snack il y a trois ans, trois salariés. Mon inquiétude, c'est la trésorerie, et les contrôles
+ sanitaires. Le matériel de cuisine coûte cher et on a peu de marge.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Horizon Mutuelle, et quel contact
+ avez-vous avec eux d'habitude ?
+Zineb : Chez Horizon Mutuelle depuis trois ans, en ligne. Je n'ai jamais appelé. Je vois l'assurance comme une
+ obligation, pas comme un service.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Zineb : Vitrine détruite, mobilier cassé, la friteuse volée. J'ai déclaré en ligne le lendemain avec photos et
+ factures. Plainte déposée. Ensuite, j'ai attendu.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Zineb : La déclaration en ligne était simple. Mais ensuite, un mail demandait des factures supplémentaires, puis
+ encore un autre mail. Quand j'ai essayé d'appeler, personne n'a décroché pendant trois jours. Je ne
+savais pas à qui parler.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Zineb : Expert J+20, indemnisation J+75. C'est trop long. Pour moi, un snack ne peut pas rester fermé 4
+ semaines. J'ai dû emprunter à ma famille.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Horizon
+ Mutuelle ?
+Zineb : 3 sur 10. Rapide à la déclaration, mais ensuite catastrophique. Je ne recommande pas. Le pire
+ moment, c'est quand personne ne répondait au téléphone.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Zineb : Que quelqu'un décroche. Un numéro réel, pas un répondeur. Une avance, même petite, pour les petits
+ commerces. Je refuse qu'on me renvoie par mail à l'infini.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Zineb : Que quelqu'un décroche le téléphone.
+ 
+######## FICHIER : commercants__Entretien_49_Alain_Descamps.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°49 - Alain Descamps
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Alain Descamps, 59 ans
+Entretien
+n°49
+Activité
+Garage automobile
+Date
+mer. 11/11 2026
+Ville
+Lens
+Durée
+55 min
+Taille
+4 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Groupe Valmont (25 ans)
+Canal
+Agent (agence)
+Situation
+Vol de véhicules clients, atelier vandalisé,
+fermé 2 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Alain : J'ai un garage automobile depuis 25 ans, quatre salariés. Mon gros risque, c'est la responsabilité sur les
+ véhicules de mes clients, et les outils, qui coûtent très cher.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Groupe Valmont, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Alain : Chez Valmont depuis 25 ans, avec un agent, Monsieur Cordier, qui m'a toujours suivi. On se voit chaque
+ année. Il est un peu comme un conseiller de famille.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Alain : On a forcé le portail la nuit, volé trois véhicules de clients en réparation, et vandalisé l'atelier. Le matin,
+ j'ai appelé mon agent, puis les clients concernés, et la gendarmerie. C'était dur de dire aux clients
+que leur voiture avait disparu.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Alain : Mon agent a ouvert le dossier, et a tout de suite contacté les assureurs des clients. Il m'a dit que
+ Valmont avait un process pour ça, avec un gestionnaire dédié aux dossiers 'garde de véhicules'. Les
+clients n'ont pas eu à tout refaire.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Alain : Expert J+6, indemnisation de l'atelier J+30, véhicules clients J+45. Je trouve ça très correct pour un cas
+ aussi compliqué. Ce qui m'a aidé, c'est le gestionnaire dédié.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Groupe
+ Valmont ?
+Alain : 8 sur 10. Une compagnie qui a prévu le cas particulier des véhicules clients. Je recommande. Mon agent
+ a aussi fait beaucoup de choses.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Alain : Que les cas particuliers, comme les biens de clients, aient un circuit prévu. Je refuse de faire
+ l'intermédiaire entre mes clients et l'assureur.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Alain : Un circuit dédié pour les biens des clients.
+ 
+######## FICHIER : commercants__Entretien_50_Oceane_Brunet.txt ########
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°50 - Océane Brunet
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Océane Brunet, 26 ans
+Entretien
+n°50
+Activité
+Boutique de cosmétiques naturels
+Date
+lun. 02/11 2026
+Ville
+Toulon
+Durée
+41 min
+Taille
+1 salariée
+Mode
+Visio
+Assureur
+AssurPlus (2 ans)
+Canal
+En ligne
+Situation
+Vitrine brisée, stock détruit, fermée 5
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Océane : J'ai lancé ma boutique de cosmétiques naturels il y a deux ans, avec une salariée. Je n'ai pas
+ beaucoup de trésorerie. Mon stock, ce sont des produits à date limite, donc il faut que ça tourne.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi AssurPlus, et comment la relation se passe-t-elle en temps normal ?
+ Océane : AssurPlus, en ligne, depuis l'ouverture. Je n'ai jamais appelé. J'ai pris le contrat le moins cher qui
+ répondait aux exigences de mon bail.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Océane : La vitrine a été brisée, des produits jetés au sol, une partie volée. J'ai fait des photos, déclaré en
+ ligne, et j'ai nettoyé avec ma salariée.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Océane : Déclaration en ligne, ça allait. Ensuite, l'expert m'a appelée à J+10 pour une expertise à distance. Ça
+ m'a convenu. Mais on m'a demandé des factures de tous les produits, alors que j'achète souvent en
+direct auprès de petits producteurs, sans facture détaillée.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Océane : Expert J+10, avance J+20, solde J+55. Ça va, mais c'est long pour moi qui ne peux pas rester
+ fermée. Je voudrais une avance rapide, avant le solde.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous AssurPlus ?
+ Océane : 6 sur 10. Simple pour déclarer, mais rigide sur les preuves. Je recommande pour les petits sinistres.
+ 
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Océane : Que les preuves alternatives soient acceptées : bons de commande, mails, relevés bancaires. Je
+ refuse qu'on exige des factures formelles que mes petits fournisseurs ne produisent pas toujours.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Océane : Accepter les preuves alternatives.
+ 

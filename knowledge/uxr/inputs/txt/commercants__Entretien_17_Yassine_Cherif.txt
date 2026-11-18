@@ -1,0 +1,69 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°17 - Yassine Cherif
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Yassine Cherif, 39 ans
+Entretien
+n°17
+Activité
+Supérette de quartier
+Date
+mar. 03/11 2026
+Ville
+Créteil
+Durée
+54 min
+Taille
+4 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (9 ans)
+Canal
+Agent (agence)
+Situation
+Pillage complet, vitrine, caisses, fermée 7
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Yassine : J'ai une supérette de quartier, quatre salariés, ouverte 7j/7. Mes risques, c'est le vol à l'étalage, mais
+ surtout les produits frais, la chaîne du froid, et les coupures de courant.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Yassine : Chez Sérévance depuis 9 ans, par un agent de l'agence du coin. Je les connais bien, on se croise.
+ Ça m'est arrivé de les appeler pour un petit sinistre, une vitrine fissurée, ça a été réglé en une
+semaine. J'étais content.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Yassine : Pillage complet dans la nuit, 70 % du stock volé ou détruit, caisse enregistreuse, la chambre froide
+ vandalisée, la vitrine pulvérisée. J'ai fait la liste du stock avec le logiciel de caisse, mais il était à jour
+de 3 jours avant. J'ai appelé mon agent à 6h du matin. Il est venu à 9h.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Yassine : L'agent a déclaré, très efficace. Mais ensuite, l'expert a demandé un état de stock certifié par mon
+ comptable, ce qui a pris 8 jours. Et on m'a demandé de justifier l'état de stock à nouveau, trois fois.
+J'ai l'impression qu'ils testent notre honnêteté.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Yassine : Expert J+10. Avance à J+30, indemnisation du stock à J+75, perte d'exploitation à J+120. Mon crédit
+ fournisseur n'a pas tenu, j'ai dû payer cash. Un expert sous 5 jours, une avance sous 2 semaines, ça
+aurait été normal.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Yassine : 5 sur 10. L'agent fait de son mieux, la compagnie est lente et méfiante. Je recommande avec
+ précaution, parce que dans les gros sinistres, la méfiance est brutale.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Yassine : Je comprends la lutte contre la fraude, mais je ne veux pas qu'on me traite en suspect. Une
+ plateforme qui reçoit mes données de caisse automatiquement, avec mon accord, ça me convient.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Yassine : Qu'on arrête de me traiter en suspect.
+ 

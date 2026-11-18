@@ -1,0 +1,69 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°06 - Nadia Haddad
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Nadia Haddad, 41 ans
+Entretien
+n°06
+Activité
+Salon de coiffure
+Date
+jeu. 12/11 2026
+Ville
+Grenoble
+Durée
+46 min
+Taille
+3 salariées
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (8 ans)
+Canal
+Agent (agence)
+Situation
+Incendie partiel de la devanture, matériel
+détruit, fermée 6 semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Nadia : J'ai un salon de coiffure avec trois salariées. Ce qui m'inquiète, c'est l'arrêt d'activité : mes coiffeuses, je
+ dois les payer même si on ne peut pas travailler. Et les produits, la colorimétrie, tout ça coûte cher.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Nadia : Sérévance depuis 8 ans, par une agence à côté de chez moi. Je les ai eus quelques fois au téléphone
+ pour des petites questions, ils étaient corrects. Ça me rassurait de savoir qu'ils étaient proches.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Nadia : Les voitures brûlées devant, le feu a pris sur la devanture et dans le salon, fumée partout. Les fauteuils,
+ les miroirs, les casques, tout est foutu. Les pompiers étaient là. J'ai appelé mon agent dans la nuit, ils
+m'ont répondu le matin. J'ai pris des photos, et fait une liste du matériel, avec les prix, sur le moment.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Nadia : Déclaration avec mon agent, il m'a aidée à remplir. Mais après, plus rien : le dossier est parti 'au siège'
+ et on n'avait plus de nouvelles. J'ai appris par ma banque que l'expert avait demandé des pièces
+comptables, et personne ne m'avait prévenue.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Nadia : Expert à J+12. Avance sur le matériel à J+35. Indemnisation de la perte d'exploitation à J+90, et j'ai dû
+ puiser dans l'épargne pour payer les salaires. Le plus dur, c'est la perte d'exploitation, qui est la plus
+lente alors que c'est ce qui compte pour moi.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Nadia : Je dirais : l'agent est très bien, Sérévance beaucoup moins. 5 sur 10. Le pire, quand j'ai compris que
+ mes salaires ne seraient pas couverts avant des mois. Je recommande un agent de proximité.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Nadia : Je veux quelque chose qui me dise : 'votre cas est prioritaire parce que vous avez des salariés'. Ce que
+ je refuse : être mise dans le même sac qu'un petit dégât. Pour le reste, une appli, pourquoi pas.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Nadia : Que les salariés soient pris en compte dès la première semaine.
+ 

@@ -1,0 +1,87 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°25 - Dominique Charpentier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Dominique Charpentier, 54 ans
+Entretien
+n°25
+Activité
+Pharmacie
+Date
+lun. 09/11 2026
+Ville
+Metz
+Durée
+41 min
+Taille
+6 salariés
+Mode
+Téléphone
+Assureur
+Sérévance (16 ans)
+Canal
+Courtier
+Situation
+Vitrine brisée, stock partiellement détruit,
+fermée 5 jours puis activité réduite 3
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Dominique : Je suis pharmacien titulaire, officine reprise en 2010, avec six collaborateurs : deux pharmaciens
+ adjoints, trois préparateurs, un apprenti. Mon inquiétude permanente, c'est la responsabilité de
+l'ordonnance, les erreurs de délivrance, mais aussi la sécurité du stock de stupéfiants et des produits
+thermosensibles. Le coffre, la chaîne du froid pour les insulines, les vaccins. Ça se surveille tous les
+jours, avec des relevés de température, des procédures. Tout ça, évidemment, quand on est touché
+par un sinistre, on se retrouve avec des obligations réglementaires en plus : informer l'ARS, l'Ordre,
+les caisses.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Dominique : Courtier depuis 2012, un cabinet spécialisé en professions de santé, Cabinet Mathieu & Associés,
+ qui a placé mon contrat chez Sérévance, avec une garantie multirisque professionnelle et une
+garantie perte d'exploitation. Je les vois à la signature et au renouvellement, une fois par an en
+novembre, parfois une visio. Pour moi, la relation avec Sérévance est indirecte. Je sais que le contrat
+a été négocié, avec une franchise de 1 500 euros, ce qui est assez standard dans la profession.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Dominique : Vers 23h, l'alarme s'est déclenchée, la société de télésurveillance m'a appelé à 23h12, je suis
+ arrivé à 23h40. La vitrine était brisée, un cocktail avait été lancé dans l'officine, le feu s'est limité à un
+comptoir, les pompiers ont éteint. Le gros dégât, c'est l'eau et la fumée. J'ai d'abord vérifié le coffre
+des stupéfiants, intact. Ensuite, j'ai fait sortir les produits thermosensibles pour les stocker chez un
+confrère. J'ai fait 380 photos, il y a un dossier daté sur mon ordinateur. Le lendemain, informer l'ARS,
+la CPAM, l'ordre. J'ai déclaré le sinistre à mon courtier à 8h30.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Dominique : Mon courtier a déclaré le jour même. Sérévance a accusé réception sous 24h, avec un numéro de
+ dossier et le nom d'un gestionnaire, Madame Leroy, avec son numéro direct. Je dois reconnaître que
+c'était très bien. Ensuite, l'expert est venu à J+5. Mais les demandes de pièces ont été nombreuses :
+bilans, liasses fiscales, relevés de caisse, factures fournisseurs des 12 derniers mois. J'ai envoyé le
+tout par mail sécurisé en 4 jours.
+UXR : Et pour le suivi ?
+ Dominique : Madame Leroy m'appelait toutes les semaines, c'était rassurant.
+ 
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Dominique : Expert J+5, avance à J+20, indemnisation du matériel à J+55, perte d'exploitation à J+100. Je
+ trouve que c'est dans les standards, mais pour une officine, la perte d'exploitation est cruciale parce
+que les salaires ne s'arrêtent pas. Une avance sur la perte d'exploitation sous 3 semaines serait
+idéale.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Dominique : 8 sur 10. Le fait d'avoir un gestionnaire dédié a changé la perception. Je recommande sans
+ hésiter, surtout pour le suivi. Moins bien : la quantité de pièces demandées, parfois redondantes.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Dominique : Je suis pour une centralisation des pièces dans un espace sécurisé, avec traçabilité, parce que
+ mes données comprennent des informations de santé, donc sensibles. Je refuse l'envoi de données
+clients ou patients à un tiers non agréé. Et pas de traitement par une IA de documents contenant des
+données de santé, sauf garanties.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Dominique : Un gestionnaire dédié, c'est ce qui change tout.
+ 

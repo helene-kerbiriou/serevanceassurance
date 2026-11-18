@@ -1,0 +1,70 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°11 - Patrice Meunier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Patrice Meunier, 55 ans
+Entretien
+n°11
+Fonction
+Agent général
+Date
+jeu. 05/11 2026
+Structure
+Agence Sérévance Meunier, Roubaix
+Durée
+58 min
+Profil
+Agent / courtier
+Mode
+Visio
+Ancienneté
+26 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre périmètre, et comment travaillez-vous avec les commerçants ?
+ Patrice : Je suis agent général Sérévance depuis 26 ans, avec une agence de 6 personnes, dont 2 dédiées aux
+ professionnels. Mon portefeuille : environ 700 commerçants et artisans. Je suis le visage de
+Sérévance dans mon quartier.
+2. La relation avec les commerçants
+ UXR : Comment décririez-vous la relation de Sérévance avec ses assurés commerçants ?
+ Patrice : La relation avec mes commerçants, c'est de la confiance. Je connais leurs enfants, leurs soucis, leurs
+ banquiers. Quand il y a un sinistre, ils m'appellent avant l'assureur. C'est mon rôle de les
+accompagner, de monter le dossier, et de pousser auprès du siège. Ce qui frotte : quand le siège
+me demande des pièces que le commerçant a déjà envoyées.
+3. La crise, le récit
+ UXR : Revenons sur la crise : comment l'avez-vous vécue, qu'est-ce qui s'est passé les premiers jours ?
+ Patrice : Pendant les émeutes, j'ai reçu 85 appels en deux jours. J'ai fait venir deux collègues, on a travaillé
+ jusqu'à 22 heures. On a rempli les déclarations nous-mêmes pour une cinquantaine de
+commerçants, parce qu'ils étaient perdus. Une quinzaine, je suis allé les voir sur place. C'est ce qui
+m'a le plus marqué : ils étaient sonnés.
+4. Qualité des déclarations et tri
+ UXR : Parlons des déclarations : leur qualité, et la façon dont les dossiers sont triés.
+ Patrice : Quand je déclare, j'ai les informations : l'activité, le contrat, les garanties, la gravité. Mon dossier est
+ propre. Mais côté Sérévance, je n'ai pas de canal prioritaire : mon dossier est traité comme celui qui
+est arrivé via la ligne sinistres. J'aurais voulu pouvoir indiquer 'priorité A, fermé, 5 salariés'. Les
+dossiers de mes commerçants sont traités avec un peu d'avance, je crois, grâce à des contacts
+personnels, mais ce n'est pas structurel.
+5. Délais
+ UXR : Quels sont vos délais réels, étape par étape ? Qu'est-ce qui les allonge ?
+ Patrice : Mes commerçants ont eu un expert entre J+5 et J+20. L'indemnisation, 30 à 90 jours. Ma plus grande
+ frustration : je ne vois pas l'avancement des dossiers que j'ai ouverts. J'appelle la ligne agents, qui
+me répond 'en cours'. Je voudrais un tableau de bord avec tous mes dossiers et leurs statuts.
+6. Satisfaction perçue
+ UXR : Que savez-vous de la satisfaction des commerçants ? Quels signaux avez-vous ?
+ Patrice : Mes commerçants me disent que sans moi, ils ne s'en seraient pas sortis. C'est valorisant, mais ça
+ veut dire que la compagnie, seule, ne rassure pas. Je pense que la satisfaction est très liée à
+l'agent, et donc très inégale d'une agence à l'autre.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes, freins, lignes rouges
+ UXR : Si on repensait le circuit, qu'est-ce qui vous aiderait, et qu'est-ce qui serait inacceptable ?
+ Patrice : Je veux que les agents soient intégrés dans le circuit, pas contournés. Ce que je redoute : qu'une
+ plateforme directe commerçant-assureur nous exclue. Je ne suis pas contre le numérique, mais je
+veux que l'agent reste dans la boucle, avec visibilité sur ses dossiers.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Patrice : Un tableau de bord agent avec le statut de chaque dossier.
+ 

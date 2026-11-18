@@ -1,0 +1,64 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°10 - Camille Dufresne
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Camille Dufresne, 29 ans
+Entretien
+n°10
+Activité
+Épicerie bio et vrac
+Date
+lun. 02/11 2026
+Ville
+Lille
+Durée
+46 min
+Taille
+1 salariée
+Mode
+Visio
+Assureur
+Sérévance (2 ans)
+Canal
+En ligne
+Situation
+Vitrine brisée, dégâts d'eau sur stock,
+fermée 9 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Camille : J'ai ouvert l'épicerie il y a deux ans avec une salariée. Je m'inquiète pour la trésorerie, on débute, et
+ pour les dégâts : une vitrine cassée, ça veut dire des jours sans vendre.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Camille : J'ai souscrit en ligne, c'était simple. Je n'ai jamais eu de vrai contact. Je ne sais même pas à quoi sert
+ exactement ma garantie perte d'exploitation, j'ai pris le pack 'commerçant' sans trop lire.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Camille : Vitrine brisée, un sprinkler ou une canalisation a lâché, il y avait de l'eau sur le stock au sol, des sacs
+ de vrac fichus. J'ai pris des photos avec mon téléphone, puis j'ai nettoyé avec ma salariée pendant
+deux jours.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Camille : J'ai déclaré en ligne, avec les photos. Ça a pris 15 minutes. Ensuite un expert m'a appelée sous 6
+ jours, très gentil. Ce qui m'a gênée, c'est que je ne savais pas si ma garantie perte d'exploitation était
+incluse, et personne ne m'a répondu clairement.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Camille : Expert J+6, indemnisation du dommage matériel à J+28. La perte d'exploitation, on m'a dit qu'elle
+ n'était pas incluse. Là j'ai été très déçue. Je pensais être couverte.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Camille : 5 sur 10. Rapide pour le matériel, flou sur ce qui est couvert. Je recommanderais avec une mise en
+ garde : lisez bien votre contrat.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Camille : Je veux comprendre ce que je suis couverte pour, avant, en termes simples. Je refuse les contrats où
+ on découvre les exclusions après. Une appli claire, oui.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Camille : Qu'on m'explique mon contrat en langage humain, avant que ça arrive.
+ 

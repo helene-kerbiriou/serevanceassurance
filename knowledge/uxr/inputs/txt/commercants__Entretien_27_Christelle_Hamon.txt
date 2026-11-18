@@ -1,0 +1,71 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°27 - Christelle Hamon
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Christelle Hamon, 48 ans
+Entretien
+n°27
+Activité
+Bijouterie-horlogerie
+Date
+mar. 03/11 2026
+Ville
+Tours
+Durée
+49 min
+Taille
+2 salariés
+Mode
+Visio
+Assureur
+Sérévance (14 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, vol de bijoux, fermée 3
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Christelle : jé une bijouterie, 2 employé, depui 14 ans. Cé le vol, tout le temp, jé un coffre mais en vitrine ya
+ toujour des pièces. Et lassurance cé tres cher pour nous, vous le savez.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Christelle : Sérévance jy suis depui 5 ans, avant jétais chez un autre mais ils ont augmenter. Mon agent cé
+ Madame Colin, tres pro. Normalement jla vois pour le renouvellement.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Christelle : La vitrine a été défoncé, ils ont pris tout ce quil y avait en vitrine, environ 25 000 euros. Le coffre a
+ tenu. Jai appelé la police, puis Madame Colin. Jai une liste avec photos de chaque bijou, cest
+obligatoire pour lassurance.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Christelle : Déclaration avec Madame Colin, rapide. Mais Sérévance a envoyé un enquêteur, pas seulement un
+ expert, pour verifier. Jai trouvé ça violent. Ils mont demandé des justificatifs de provenance pour
+certaines pièces, des vieux bijoux de famille. Jai senti quon me soupçonnait.
+UXR : Vous vous êtes sentie soupçonnée ?
+ Christelle : Oui. Un peu humiliée.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Christelle : Enquêteur a J+10, expert J+14. Indemnisation a J+50 mais pas complete, ils ont contesté certains
+ prix. Pour de lor et des bijoux, je comprend quils vérifient, mais 50 jours cé long, et surtout le ton.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Christelle : 5 sur 10. Le pire, cétait le sentiment dêtre soupçonnée. Le meilleur, Madame Colin, qui ma
+ défendue. Je les recommande pas sans agent.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Christelle : Je comprends les controles pour les bijoux, mais je veux quon me prévienne et quon soit poli. Je
+ refuse quon traite tous les commerçants comme des fraudeurs.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Christelle : Du respect dans les controles.
+ 

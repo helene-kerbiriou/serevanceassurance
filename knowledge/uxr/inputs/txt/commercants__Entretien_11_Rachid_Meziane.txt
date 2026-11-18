@@ -1,0 +1,69 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°11 - Rachid Meziane
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Rachid Meziane, 47 ans
+Entretien
+n°11
+Activité
+Pressing
+Date
+jeu. 05/11 2026
+Ville
+Lille-Sud
+Durée
+46 min
+Taille
+2 salariées
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (10 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine et machines endommagées,
+vêtements clients détruits, fermé 3
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Rachid : jé un pressing depuis 10 ans, 2 employé. Le plus gros risque cé les vetements des clients, sils sont
+ abimé ou voler jdoi les rembourser et sa fait cher.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Rachid : Sérévance jy suis depuis l'ouverture, cé mon agent qui ma fait le contrat. Normalement je les vois pas,
+ ils minvite une fois par an pour reviser, mais jy vais pas souvent.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Rachid : Ils ont cassé la vitrine et pris les vetements des clients, plus de 80 pièces, des costumes, des robes.
+ Les machine ont été abimé par leau. Jai du appeler les clients un par un pour leur dire. Cé la partie la
+plus dur, les clients sont en colere.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Rachid : Jai déclaré par lagent, il ma dit denvoyer la liste des clients concerné. Mais je savé pas si lassurance
+ rembourse les vetements des clients ou seulement mon matériel. On ma dit « on va voir ». Jé
+attendu 3 semaines pour savoir.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Rachid : Lexpert ya passé a J+16. Argent pour le matériel au bout de 2 mois. Pour les vetements clients, jai pas
+ encore la réponse. Moi je voudrai savoir tout de suite ce qui est couvert, pour pas dire nimporte quoi
+aux clients.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Rachid : 4 sur 10. Le pire cétait de pas savoir pour les vetements clients, jmettais dans lembarras avec mes
+ clients. Le meilleur, mon agent qui ma appelé 2 fois.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Rachid : Je veux une liste claire de ce qui est couvert, par exemple pour les biens des clients. Un robot non.
+ Une appli oui si cé en francais simple.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Rachid : Quon me dise tout de suite ce qui est couvert ou pas.
+ 

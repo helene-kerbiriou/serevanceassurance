@@ -1,0 +1,69 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°19 - Sandrine Lacour
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Sandrine Lacour, 45 ans
+Entretien
+n°19
+Fonction
+Responsable lutte anti-fraude sinistres
+Date
+mer. 11/11 2026
+Structure
+Sérévance, direction des risques
+Durée
+56 min
+Profil
+Conformité / fraude
+Mode
+Visio
+Ancienneté
+16 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Pour commencer, pouvez-vous vous présenter et me dire ce que vous faites au quotidien ?
+ Sandrine : Je suis responsable de la lutte anti-fraude sinistres. Mon équipe de 6 personnes analyse les
+ dossiers suspects et accompagne les gestionnaires. En situation normale, 3 à 4 % des dossiers font
+l'objet d'une alerte.
+2. La relation avec les commerçants
+ UXR : Qui est le visage de Sérévance pour un commerçant, d'après votre expérience ?
+ Sandrine : Je vois les commerçants sous l'angle du risque, mais je tiens à dire qu'une immense majorité est
+ honnête. Mon rôle est de protéger la compagnie sans traiter les honnêtes gens en suspects. Le
+problème, c'est que les demandes de justificatifs, qui sont nécessaires pour la fraude, sont vécues
+comme un contrôle.
+3. La crise, le récit
+ UXR : Racontez-moi ce qui s'est passé chez vous après les émeutes.
+ Sandrine : En crise, le risque est double : la sur-déclaration d'opportunistes, qui profitent de l'événement, et le
+ fait de ralentir tout le monde pour vérifier quelques-uns. On a décidé d'appliquer un contrôle allégé
+pour les dossiers sous 5 000 euros, et un contrôle renforcé pour les gros montants. On a eu environ
+4 % de dossiers à examiner, soit une centaine, dont une dizaine confirmés comme douteux.
+4. Qualité des déclarations et tri
+ UXR : Que contient une déclaration ? Et comment priorise-t-on, concrètement ?
+ Sandrine : Les déclarations structurées nous aident énormément : on repère les incohérences, les doublons,
+ les montants atypiques. Un champ libre est inutilisable. Pour le tri, la lutte anti-fraude doit venir
+après la priorité de gravité : on ne doit pas retarder un commerçant fermé parce qu'on soupçonne
+un dossier voisin. L'idéal est un scoring en arrière-plan, sans que le commerçant le voie.
+5. Délais
+ UXR : Quels délais constatez-vous, et qu'est-ce qui les explique ?
+ Sandrine : Mon délai d'examen : 3 à 5 jours pour une alerte. Ce qui allonge, c'est le manque de pièces, les
+ doubles saisies, et les dossiers ouverts par plusieurs canaux. Un identifiant unique de dossier
+réduirait les doublons de moitié.
+6. Satisfaction perçue
+ UXR : Comment savez-vous si un commerçant est satisfait ? Que remontent les retours ?
+ Sandrine : Je n'ai pas d'indicateur de satisfaction côté fraude. Mais je sais que quand un commerçant honnête
+ est contrôlé, il le vit mal. Une communication claire sur la raison d'un contrôle réduit les tensions.
+7. Attentes, freins, lignes rouges
+ UXR : Quels seraient vos besoins, vos freins et vos lignes rouges pour un nouveau circuit ?
+ Sandrine : Pour un nouveau circuit, mes exigences : données structurées, identifiant unique, traçabilité des
+ pièces, horodatage des photos, consentement explicite pour les données. Mes lignes rouges : un
+traitement automatique d'une décision d'indemnisation sans intervention humaine, et un affichage
+de scoring de fraude visible du commerçant ou de l'agent.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, une chose à retenir ?
+ Sandrine : Des photos horodatées dès la déclaration, c'est mon meilleur allié.
+ 

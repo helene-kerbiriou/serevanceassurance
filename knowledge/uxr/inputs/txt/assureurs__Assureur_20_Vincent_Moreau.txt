@@ -1,0 +1,72 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°20 - Vincent Moreau
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Vincent Moreau, 40 ans
+Entretien
+n°20
+Fonction
+Juriste conformité et protection des
+données
+Date
+lun. 02/11 2026
+Structure
+Sérévance, direction juridique
+Durée
+47 min
+Profil
+Conformité / fraude
+Mode
+Sur place
+Ancienneté
+11 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre périmètre, et comment travaillez-vous avec les commerçants ?
+ Vincent : Je suis juriste en conformité, spécialisé en protection des données et en droit de la consommation. Je
+ valide les parcours clients, les formulaires, les mentions d'information, et je suis le référent RGPD
+pour les sinistres.
+2. La relation avec les commerçants
+ UXR : Comment décririez-vous la relation de Sérévance avec ses assurés commerçants ?
+ Vincent : Mon angle sur la relation avec les commerçants : ce sont des clients professionnels, donc moins
+ protégés que les particuliers, mais ils restent des consommateurs au sens de certaines règles. Les
+réclamations que je vois concernent les délais, la transparence et les exclusions. Je reçois environ
+30 dossiers de médiation par an sur ce segment.
+3. La crise, le récit
+ UXR : Revenons sur la crise : comment l'avez-vous vécue, qu'est-ce qui s'est passé les premiers jours ?
+ Vincent : Pendant la crise, j'ai été sollicité pour valider la ligne dédiée et le formulaire simplifié. Le plus délicat :
+ la collecte de photos et de pièces par des canaux non sécurisés comme WhatsApp ou mail, que les
+gestionnaires ont utilisés par pragmatisme. J'ai demandé qu'on interdise WhatsApp, mais c'était
+trop tard.
+4. Qualité des déclarations et tri
+ UXR : Parlons des déclarations : leur qualité, et la façon dont les dossiers sont triés.
+ Vincent : Dans un formulaire, il faut limiter la collecte aux données nécessaires, informer sur la finalité, et
+ sécuriser le dépôt de pièces. Pour la priorisation automatisée, il y a un point de vigilance : un tri qui
+produit un effet significatif pour le commerçant, comme retarder une indemnisation, doit pouvoir être
+expliqué et contesté. Il faut une intervention humaine.
+5. Délais
+ UXR : Quels sont vos délais réels, étape par étape ? Qu'est-ce qui les allonge ?
+ Vincent : Pour les délais, il y a des obligations contractuelles et réglementaires. On peut afficher des délais
+ prévisionnels, à condition qu'ils soient présentés comme indicatifs, avec des conditions. Je
+recommande une formulation en fourchette, et de ne jamais promettre un résultat. Ça ne bloque
+pas le projet, ça l'encadre.
+6. Satisfaction perçue
+ UXR : Que savez-vous de la satisfaction des commerçants ? Quels signaux avez-vous ?
+ Vincent : Au niveau juridique, la satisfaction se mesure aussi aux litiges : peu de contentieux, mais de
+ nombreuses réclamations amiables. La transparence réduit le risque. Un suivi clair, avec des dates,
+réduit les réclamations de 'défaut d'information'.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes, freins, lignes rouges
+ UXR : Si on repensait le circuit, qu'est-ce qui vous aiderait, et qu'est-ce qui serait inacceptable ?
+ Vincent : Mes conditions : consentement et information clairs, minimisation des données, hébergement en
+ Europe, traçabilité des décisions, pas de décision purement automatisée sur l'indemnisation. Et un
+droit d'accès simple pour le commerçant à son dossier. Je ne vois pas d'obstacle majeur, si c'est
+conçu avec nous dès le départ.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Vincent : Nous associer dès la conception, pas à la fin.
+ 

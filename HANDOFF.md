@@ -25,11 +25,31 @@ Liste des documents du Drive utilisés et ce qu'ils contiennent.
 
 ## 5. Structure du repo
 ```
-README.md    présentation courte
-HANDOFF.md   ce fichier
-TOKENS.md    journal de consommation de tokens
+README.md                    présentation courte
+HANDOFF.md                   ce fichier
+TOKENS.md                    journal de consommation de tokens
+CLAUDE.md                    règles pour l'IA
+brief/                       exercice.pdf, deck du hackathon, liens utiles
+skills/uxr, skills/pm        skills (SKILL.md) ; pipeline dans skills/README.md
+.claude/agents/              agent-uxr, agent-pm
+knowledge/uxr/inputs/        50 entretiens commerçants, 20 assureurs, protocoles, txt/ (texte extrait)
+knowledge/uxr/outputs/       grille, synthèse, personas, JTBD
+knowledge/pm/outputs/        backlog (MoSCoW), user stories
+tools/extract_corpus.py      PDF -> texte
 ```
-_À compléter au fur et à mesure._
+
+## Contraintes du hackathon (brief/exercice.pdf et deck)
+Pas de Figma/FigJam, mesure du coût en tokens, au moins 2 LLM différents, 2 h de travail (17h-19h), pitch 10-15 min max. Le pitch doit couvrir : ce qui est traité et pourquoi, la démarche et la répartition des rôles, une slide IA (modèles, coût), les personas et leur source, user journey / user flow, un prototype généré, une slide « rendre le travail réutilisable par une autre équipe », une slide « automatiser (agent, skill, workflow) ».
+
+## Avancement
+- [x] Corpus et brief importés, texte extrait
+- [x] Skills UXR/PM et agents installés
+- [ ] Grille d'analyse validée (proposition : knowledge/uxr/outputs/grille-analyse.md)
+- [ ] Synthèse, personas, JTBD
+- [ ] Choix du problème à traiter (brief + MoSCoW)
+- [ ] User flow, user journey
+- [ ] Prototype
+- [ ] Pitch
 
 ## 6. Usage de l'IA
 - Outil : Claude Code (modèle Sonnet 5.5)

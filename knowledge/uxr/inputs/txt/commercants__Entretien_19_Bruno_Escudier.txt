@@ -1,0 +1,65 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°19 - Bruno Escudier
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Bruno Escudier, 57 ans
+Entretien
+n°19
+Activité
+Garage moto et scooters
+Date
+mer. 11/11 2026
+Ville
+Avignon
+Durée
+56 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (20 ans)
+Canal
+Courtier
+Situation
+Vol de motos, atelier vandalisé, fermé 2
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Bruno : J'ai un garage moto et scooters, trois salariés, depuis 20 ans. Les risques, c'est le vol de véhicules,
+ bien sûr, ceux de la clientèle surtout, et l'incendie, parce qu'on a de l'essence dans l'atelier.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Bruno : Courtier depuis 20 ans, Monsieur Vidal. Sérévance est la compagnie depuis une dizaine d'années,
+ avant c'était un autre assureur. Le courtier avait changé pour des raisons de prix. Je ne connais pas
+la compagnie.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Bruno : Ils ont forcé la grille, volé sept motos, dont cinq appartenant à des clients, et cassé l'atelier. Mon pire
+ souci : les motos de mes clients. Je les ai appelés un par un pour leur dire. Certains m'ont engueulé.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Bruno : Mon courtier a ouvert le dossier. Pour les motos des clients, c'est la garantie 'dépôt' qui joue, mais
+ Sérévance voulait d'abord que les clients déclarent chez leur assureur. Donc mes clients appelaient
+chez moi, moi chez mon courtier, mon courtier chez Sérévance. Un cercle.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Bruno : Expert J+9. Indemnisation à J+60 pour l'atelier. Pour les motos des clients, j'attends toujours. Pour moi,
+ un circuit où je peux déclarer et qui informe directement les assureurs des clients, ça aurait évité 3
+semaines de ping-pong.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Bruno : 4 sur 10. Courtier correct, assureur peu clair. Le pire moment, c'est quand un client m'a dit qu'il me
+ poursuivrait.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Bruno : Un système où je peux ouvrir un dossier avec les infos du véhicule et le partager avec l'assureur du
+ client, avec leur accord. Je refuse de faire le facteur.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Bruno : Que les biens de clients en dépôt soient traités à part, plus vite.
+ 

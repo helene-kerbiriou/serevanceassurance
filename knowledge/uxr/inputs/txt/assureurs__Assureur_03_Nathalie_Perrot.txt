@@ -1,0 +1,76 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°03 - Nathalie Perrot
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Nathalie Perrot, 46 ans
+Entretien
+n°03
+Fonction
+Gestionnaire sinistres (responsable
+d'équipe)
+Date
+ven. 13/11 2026
+Structure
+Sérévance, plateau sinistres Lyon
+Durée
+53 min
+Profil
+Gestionnaire sinistres
+Mode
+Visio
+Ancienneté
+19 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre rôle ? Quel est votre lien avec les commerçants ?
+ Nathalie : Je suis responsable d'une équipe de huit gestionnaires sur les professionnels. Je suis dans la
+ maison depuis 19 ans, j'ai connu la fusion, trois outils de gestion différents, et plusieurs crises, dont
+des tempêtes et un incendie industriel. Mon rôle, c'est de répartir les dossiers, d'arbitrer les cas
+litigieux et de répondre aux réclamations remontées.
+2. La relation avec les commerçants
+ UXR : Comment se passe la relation avec les commerçants, selon vous ? Ce qui marche, ce qui frotte ?
+ Nathalie : Les commerçants nous voient comme une administration. Ils souhaiteraient un interlocuteur unique,
+ ce qu'on ne peut pas garantir vu les volumes. Ce qui marche bien : quand l'agent fait le lien. Ce qui
+frotte : les demandes de pièces, qu'ils vivent comme un procès d'intention. Beaucoup m'ont dit 'vous
+me demandez de prouver que j'ai été volé'.
+3. La crise, le récit
+ UXR : Pouvez-vous me raconter les premiers jours, ce que vous avez fait et ce qui vous a surpris ?
+ Nathalie : La crise, c'était un tsunami, mais organisé. J'ai fait partie de la cellule dès J+1. Nous avons créé une
+ adresse mail dédiée, un formulaire simplifié, une ligne spéciale. Environ 3 400 déclarations sur 12
+jours. Mon équipe a travaillé le week-end. La principale surprise : le nombre de dossiers où il y avait
+à la fois dommage matériel, vol et perte d'exploitation, donc trois gestionnaires potentiels. On a
+décidé de les regrouper en un seul dossier, mais ça n'a pas été fluide.
+4. Qualité des déclarations et tri
+ UXR : Qu'est-ce qui arrive dans une déclaration ? Comment décidez-vous de l'ordre de traitement ?
+ Nathalie : Le tri s'est fait en trois niveaux : A, les commerçants fermés avec salariés ou avec dommage
+ structurel ; B, les dommages matériels importants mais activité maintenue ; C, les petits dommages.
+C'était une règle orale, pas dans l'outil. Je l'ai transmise en réunion le matin. Les gestionnaires l'ont
+appliquée avec leur jugement, donc de façon un peu variable. Pour la qualité : un tiers de dossiers
+incomplets, surtout pas de liste détaillée, ou des photos floues.
+5. Délais
+ UXR : Parlons des délais : combien de temps entre déclaration, expertise, avance, indemnisation ?
+ Nathalie : Niveau A : expert sous 5 jours, avance sous 10. Niveau B : expert à 10 jours. Niveau C : 15 jours,
+ souvent par photos. On n'a pas toujours tenu. Le principal goulot, ce sont les experts : on en avait
+25 mobilisés pour 1 000 dossiers nécessitant une visite. L'expertise à distance, nous l'avons utilisée
+pour les dossiers C, et ça a marché.
+6. Satisfaction perçue
+ UXR : Comment percevez-vous leur satisfaction, avec quels indicateurs ou retours ?
+ Nathalie : On suit les réclamations, on a eu 140 réclamations en un mois, contre une vingtaine habituellement.
+ Le motif numéro un : 'je n'ai aucune nouvelle'. Le numéro deux : 'on me demande les mêmes pièces
+plusieurs fois'. Ça m'a convaincue qu'un portail unique de pièces est nécessaire.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes, freins, lignes rouges
+ UXR : Qu'attendriez-vous d'un meilleur circuit de mise en relation ? Qu'est-ce que vous ne pourriez pas
+ accepter ?
+Nathalie : Un circuit qui structure la déclaration, qui capte la gravité et la situation dès le départ. Ce que je ne
+ pourrais pas accepter : qu'on promette au commerçant un délai que nous ne tiendrions pas. Mieux
+vaut une fourchette honnête. Et qu'on respecte la confidentialité des données bancaires et
+comptables. Pour la fraude, un formulaire structuré aide aussi.
+8. Clôture
+ UXR : Un dernier mot ?
+ Nathalie : Une règle de tri écrite et dans l'outil, pas seulement dans ma tête.
+ 

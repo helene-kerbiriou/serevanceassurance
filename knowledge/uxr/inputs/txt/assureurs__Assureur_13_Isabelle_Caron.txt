@@ -1,0 +1,68 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°13 - Isabelle Caron
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Isabelle Caron, 48 ans
+Entretien
+n°13
+Fonction
+Courtière, spécialiste commerçants et CHR
+Date
+ven. 13/11 2026
+Structure
+Cabinet Caron Courtage, Lille
+Durée
+52 min
+Profil
+Agent / courtier
+Mode
+Visio
+Ancienneté
+20 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Pour commencer, pouvez-vous vous présenter et me dire ce que vous faites au quotidien ?
+ Isabelle : Je suis courtière, indépendante, avec un cabinet de 5 personnes. Je place des contrats chez
+ plusieurs compagnies, dont Sérévance pour environ 40 % de mon portefeuille. Je suis spécialisée
+dans les cafés, hôtels, restaurants et commerces de proximité.
+2. La relation avec les commerçants
+ UXR : Qui est le visage de Sérévance pour un commerçant, d'après votre expérience ?
+ Isabelle : Je suis le premier interlocuteur de mes clients, et ils attendent que je défende leurs intérêts face à
+ l'assureur. Sérévance est un bon partenaire en temps normal, mais quand il y a un gros sinistre, j'ai
+deux niveaux de relation : mon contact commercial, qui est réactif, et la gestion sinistres, qui est
+plus lointaine. Je sers de pont.
+3. La crise, le récit
+ UXR : Racontez-moi ce qui s'est passé chez vous après les émeutes.
+ Isabelle : Pendant les émeutes, j'ai eu 60 clients sinistrés, dont 25 chez Sérévance. J'ai déclaré par le portail
+ courtiers, qui est assez bien fait. Mais le portail ne permet pas de joindre un gros fichier de pièces,
+j'ai dû renvoyer par mail. Et je n'avais pas de numéro de dossier unique pour chaque sinistre.
+4. Qualité des déclarations et tri
+ UXR : Que contient une déclaration ? Et comment priorise-t-on, concrètement ?
+ Isabelle : Quand je déclare, je transmets les pièces essentielles, mais j'ai souvent les mêmes demandes
+ complémentaires : 'merci de transmettre la liste des salariés', 'merci de transmettre le K-bis'. Ce
+sont des informations que je pourrais fournir en une fois, si le formulaire les demandait. Pour le tri,
+mes dossiers CHR fermés auraient dû être prioritaires, parce qu'ils ont des charges importantes.
+5. Délais
+ UXR : Quels délais constatez-vous, et qu'est-ce qui les explique ?
+ Isabelle : Mes clients Sérévance ont eu un expert entre J+7 et J+15. L'indemnisation entre J+35 et J+80. Pour
+ moi, ce qui est le plus difficile, c'est de promettre quelque chose à un client. Je dis 'on vous tient au
+courant', mais je n'ai pas de vision. J'aimerais un statut avec une date prévue.
+6. Satisfaction perçue
+ UXR : Comment savez-vous si un commerçant est satisfait ? Que remontent les retours ?
+ Isabelle : Les clients sont partagés : ceux qui ont eu une avance rapide sont satisfaits, les autres sont très
+ critiques. Il y a une vraie différence entre Sérévance et un concurrent qui, selon mes clients, a fait
+venir un expert sous 48 heures. Ça se sait, ça circule.
+7. Attentes, freins, lignes rouges
+ UXR : Quels seraient vos besoins, vos freins et vos lignes rouges pour un nouveau circuit ?
+ Isabelle : Je souhaite un circuit où le courtier est un acteur, avec accès au statut du dossier, un canal prioritaire,
+ et des demandes de pièces uniques. Je refuse qu'on exige de moi de ressaisir ce que le client a
+déjà fourni. Et je veux que le client reste le mien.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, une chose à retenir ?
+ Isabelle : Un portail courtier avec statut et dates prévues.
+ 

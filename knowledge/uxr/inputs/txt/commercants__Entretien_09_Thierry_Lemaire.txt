@@ -1,0 +1,72 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°09 - Thierry Lemaire
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Thierry Lemaire, 49 ans
+Entretien
+n°09
+Activité
+Magasin d'informatique
+Date
+mer. 11/11 2026
+Ville
+Nantes
+Durée
+40 min
+Taille
+5 salariés
+Mode
+Visio
+Assureur
+Sérévance (14 ans)
+Canal
+Courtier
+Situation
+Vitrine brisée, vol de matériel informatique,
+fermé 8 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Thierry : Je vends et dépanne du matériel informatique, on est cinq. Le gros risque : le vol, parce que mes
+ produits sont petits et chers, un ordinateur portable ça part sous le bras.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Thierry : Je suis passé par un courtier, Cabinet Dorval, il y a 14 ans. Sérévance, c'est la compagnie, mais je
+ n'ai jamais appelé directement. Le courtier gère tout. En temps normal, je le vois à peine, je laisse le
+renouvellement se faire.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Thierry : La vitrine a été défoncée vers 1h du matin, une trentaine d'ordinateurs portables et de téléphones
+ volés, des écrans cassés. J'ai fait l'inventaire grâce à mon logiciel, il génère un état des stocks, donc
+c'était plutôt précis. Dépôt de plainte le jour même.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Thierry : Mon courtier a déclaré le jour même, avec mon état des stocks. Ensuite plus rien pendant dix jours, il
+ m'a dit qu'il n'avait pas de nouvelles. Quand Sérévance m'a enfin contacté, ils m'ont demandé les
+numéros de série de chaque appareil, ce que je n'avais pas pour tous.
+UXR : Donc si je comprends bien, vous avez attendu trois mois pour que l'expert passe ?
+ Thierry : Non non, l'expert est passé au bout de 4 jours. C'est l'indemnisation qui a pris trois mois.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Thierry : Expert à J+4, très rapide. Indemnisation à J+90. Entre les deux, 80 jours à relancer le courtier. Moi,
+ après l'expertise, je voudrais un paiement sous 15 jours pour la partie incontestable.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Thierry : 6 sur 10. L'expert, super. Le courtier, correct. Le reste, trop lent. Pire moment : le blocage pour les
+ numéros de série.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Thierry : Qu'on accepte le logiciel de gestion comme preuve. Je refuse de refaire un inventaire à la main, on l'a
+ déjà. Une appli pour joindre les fichiers, oui.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Thierry : Un paiement partiel rapide, et un point de contact unique.
+ 

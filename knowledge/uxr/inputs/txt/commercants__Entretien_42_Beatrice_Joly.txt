@@ -1,0 +1,88 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°42 - Béatrice Joly
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Béatrice Joly, 49 ans
+Entretien
+n°42
+Activité
+Boutique de décoration et art de la table
+Date
+mar. 10/11 2026
+Ville
+Valenciennes
+Durée
+54 min
+Taille
+2 salariées
+Mode
+Visio
+Assureur
+Groupe Valmont (10 ans)
+Canal
+Courtier
+Situation
+Vitrine brisée, stock fragile détruit, fermée 6
+semaines
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Béatrice : Ma boutique de décoration et d'art de la table, je l'ai ouverte en 2016, après vingt ans comme cadre
+ dans la grande distribution, à Lille. J'ai deux salariées, Sylvie à temps plein et Mélanie à 25 heures.
+On est sur environ 90 m2, avec un petit atelier à l'arrière pour emballer les cadeaux. Mon stock, c'est
+surtout de la porcelaine, du verre, des bougies parfumées, des textiles de maison, des cadres. La
+casse, c'est le sujet quotidien. Je m'inquiète surtout de la saison de fin d'année, qui fait 40 % de mon
+chiffre.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Groupe Valmont, et quel contact
+ avez-vous avec eux d'habitude ?
+Béatrice : Mon assureur, c'est le Groupe Valmont, par l'intermédiaire d'un courtier, Cabinet Delvaux, à
+ Valenciennes, depuis 2016. Mon courtier, Monsieur Delvaux, je l'ai croisé pour la première fois à un
+salon des commerçants, il m'a fait un devis sur mesure. Depuis, une fois par an, un rendez-vous de
+30 minutes. Je n'ai jamais appelé directement Valmont. J'ai déjà été sinistrée : en 2019, un dégât des
+eaux, rien de grave, réglé en deux mois, et en 2022 un vol à l'étalage, pas indemnisé car sous la
+franchise.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Béatrice : Le sinistre, c'était un jeudi soir, vers 22h, ma voisine boulangère m'a appelée, la vitrine était brisée,
+ avec des objets jetés dedans. Quand je suis arrivée, il y avait de l'eau partout, parce qu'un tuyau a
+été arraché. J'ai passé la nuit à éponger avec Sylvie. Le lendemain matin, on a trié : 60 % de la
+porcelaine, cassée, les bougies souillées, les textiles trempés. J'ai fait 180 photos et un inventaire sur
+Excel, par catégorie, que j'ai complété avec les bons de livraison. Ça a pris trois jours, de 8h à 21h.
+J'ai aussi dû gérer la communication avec les clients qui avaient commandé pour Noël.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Béatrice : J'ai prévenu mon courtier le vendredi à 9h, il a ouvert le dossier à 11h. Valmont a envoyé un accusé
+ le même jour avec un numéro de dossier. Ensuite, dans les 48 heures, un gestionnaire a pris contact.
+Il m'a demandé l'inventaire, les photos, le dépôt de plainte. J'ai tout fourni sous 4 jours. Le suivi était
+correct : un point hebdomadaire par mail, plus un appel quand il y avait un blocage.
+UXR : Vous saviez à quelle étape en était le dossier ?
+ Béatrice : Oui, grâce aux points hebdomadaires. Ce n'était pas parfait, mais je savais.
+ 
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Béatrice : Expert à J+9, validation du chiffrage à J+25, avance de 50 % à J+30, solde à J+50. Pour moi, ça va,
+ même si j'aurais voulu l'avance plus tôt à cause de Noël. L'idéal serait une avance de 30 % dès
+l'expertise, donc J+10. Pour moi, plus de 6 semaines de fermeture, ce n'est pas tenable pour une
+boutique saisonnière.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Groupe
+ Valmont ?
+Béatrice : 7 sur 10. Un gestionnaire joignable, un courtier fiable. Ce que j'ai moins aimé : la lenteur de la
+ validation du chiffrage, et le fait que je ne sois pas rassurée sur la prise en compte de la saison. Je
+recommande Valmont pour la qualité du suivi, mais je suis surtout satisfaite du courtier.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Béatrice : Je voudrais pouvoir suivre mon dossier en ligne, avec les étapes et les dates prévues. Je veux aussi
+ qu'on tienne compte de la saisonnalité dans la priorisation. Ce que je refuse : qu'on mette la boutique
+d'une personne seule avec 2 salariées au même rang qu'un grand magasin. Les petits n'ont pas de
+trésorerie.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Béatrice : Prioriser selon la trésorerie et la saison.
+ 

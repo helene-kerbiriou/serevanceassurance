@@ -1,0 +1,64 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°21 - Stéphane Roux
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Stéphane Roux, 46 ans
+Entretien
+n°21
+Activité
+Opticien
+Date
+jeu. 05/11 2026
+Ville
+Angers
+Durée
+48 min
+Taille
+3 salariés
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (13 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, vol de montures, fermé 6
+jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Stéphane : Je suis opticien indépendant, trois salariés. Le gros enjeu, c'est la valeur du stock : une monture de
+ marque, c'est 200 euros, et j'en ai 1 500 en vitrine. Le vol, évidemment.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Stéphane : Chez Sérévance depuis 13 ans, grâce à mon agent, Madame Lemoine, que j'ai toujours eue au
+ téléphone. On se connaît. Je n'ai jamais comparé.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Stéphane : La vitrine a été brisée, ils ont pris environ 200 montures. Mon stock est géré par logiciel, donc j'ai pu
+ sortir la liste exacte en une heure. Plainte déposée le matin. J'ai rouvert au bout de 6 jours avec un
+présentoir provisoire.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Stéphane : Madame Lemoine a déclaré. Sérévance a accepté ma liste exacte. L'expert est venu à J+6, a validé
+ le tout en 20 minutes. Tout a été fluide, honnêtement.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Stéphane : Indemnisation à J+21, avance à J+10. Pour moi, parfait. Je pense que j'ai eu de la chance d'avoir
+ des données propres.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Stéphane : 8 sur 10. Rien à redire sur la rapidité. Seul bémol : j'ai su par hasard que d'autres commerçants du
+ quartier avaient attendu des mois. Je recommande, mais mon cas n'est pas représentatif.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Stéphane : Que la qualité de la preuve soit récompensée : si j'ai un logiciel propre, un état de stock daté, on
+ devrait me traiter plus vite. Ça inciterait les autres à mieux s'organiser.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Stéphane : Que les bons dossiers soient traités en circuit court.
+ 

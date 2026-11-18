@@ -1,0 +1,74 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°01 - Karim Benali
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Karim Benali, 44 ans
+Entretien
+n°01
+Activité
+Boulangerie-pâtisserie
+Date
+jeu. 05/11 2026
+Ville
+Saint-Denis
+Durée
+56 min
+Taille
+6 salariés
+Mode
+Visio
+Assureur
+Sérévance (12 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, caisse et matériel volés,
+fermé 4 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Karim : On est une boulangerie-pâtisserie de quartier, six salariés, je suis là depuis 2012. Ce qui m'inquiète le
+ plus, c'est le four : s'il tombe en panne, je perds une journée entière. Et depuis les événements, la
+vitrine, évidemment.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Karim : Sérévance, c'est mon agent depuis le début, Monsieur Lefort, à l'agence de la rue principale. En temps
+ normal je le vois une fois par an, au renouvellement. Je ne comparais pas : tant que ça passait, je ne
+regardais pas.
+3. Le sinistre, le récit
+ UXR : Racontez-moi, depuis le début, ce qui s'est passé pour votre commerce.
+ Karim : Le lendemain à 5h, en arrivant, la vitrine était explosée, la caisse arrachée, les vitrines réfrigérées
+ renversées. J'ai appelé ma femme, puis la police pour le dépôt de plainte. J'ai pris une trentaine de
+photos avec mon téléphone avant de toucher à quoi que ce soit. J'ai nettoyé pour rouvrir le jeudi.
+4. Déclaration et suivi
+ UXR : Parlons de la déclaration : comment ça s'est passé, et qu'est-ce qu'on vous a dit ensuite ?
+ Karim : J'ai appelé la ligne sinistres vers 9h, attente de 25 minutes. Ils m'ont dit de déposer le dossier sur
+ l'espace client. Là j'ai dû ressaisir adresse, contrat, description. Ensuite un mail avec un numéro de
+dossier, c'est tout.
+UXR : Et vous saviez où en était votre dossier ?
+ Karim : Non. J'ai rappelé deux fois, à chaque fois quelqu'un de différent.
+ 
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Karim : L'expert est venu le 9e jour, l'indemnisation est arrivée 7 semaines après. Pour moi, un expert sous 48h
+ et une avance sous une semaine, ça aurait été acceptable. Entre-temps j'ai payé le vitrier sur ma
+trésorerie : 4 800 euros.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Karim : À un confrère je dirais : ce n'est pas catastrophique, mais on est seul. Le meilleur moment, l'expert, qui
+ était humain. Le pire, le silence de la deuxième semaine. Je les recommanderais à moitié.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Karim : Une appli pour envoyer photos et factures, oui, si ça m'évite de tout ressaisir. Être passé après des
+ gens plus touchés, je comprends, à condition qu'on me le dise et qu'on me donne une date. Un robot
+au téléphone, non.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Karim : Qu'on m'appelle une fois, de façon proactive, pour dire où on en est. Rien que ça.
+ 

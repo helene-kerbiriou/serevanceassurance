@@ -1,0 +1,68 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°33 - Lucien Moreau
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Lucien Moreau, 65 ans
+Entretien
+n°33
+Activité
+Horloger-réparateur
+Date
+ven. 13/11 2026
+Ville
+Limoges
+Durée
+48 min
+Taille
+Indépendant
+Mode
+Visio
+Assureur
+Sérévance (38 ans)
+Canal
+Agent (agence)
+Situation
+Non sinistré
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Lucien : Jsuis horloger depuis 38 ans, tout seul dans ma petite boutique. Mon souci cest la relève, jai personne
+ pour reprendre. Et le vol, parce quil y a des montres de valeur de clients.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Lucien : Sérévance, cest depuis toujours, mon père etait deja chez eux. Mon agent, Monsieur Faure, je le
+ connais depuis 25 ans. On se voit une fois par an, jl'offre un café. Cest comme une famille.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Sans avoir été touché, qu'est-ce que ça a changé pour vous ? Et avez-vous déjà vécu un sinistre par le
+ passé ?
+Lucien : Aux émeutes, rien chez moi. Jai eu peur quand même, la télé montrait des choses horribles. Mon seul
+ sinistre, cétait un cambriolage en 2012, ils ont pris des montres de clients. Cétait un cauchemar, il a
+fallu rembourser les clients et jsavais plus quoi faire.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Pour votre sinistre passé, comment avez-vous déclaré ? Et si c'était à refaire en crise, comment
+ l'imaginez-vous ?
+Lucien : En 2012, jai appelé mon agent, il est venu avec moi chez les gendarmes. Cétait un peu long mais il ma
+ accompagné. Jai du fournir les reçus de dépôt des montres, que je gardais heureusement. Lexpert
+est passé après 3 semaines.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Lucien : En 2012, expert J+21, indemnisation J+60. Aujourdhui je voudrais que ce soit plus rapide, une
+ semaine pour lexpert. Pour un artisan seul, cest long.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Lucien : 8 sur 10, mais pour mon agent. Sérévance, je men fiche, je connais que lui. Je recommande Monsieur
+ Faure. Si il part, jsais pas.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Lucien : Je veux garder mon agent. Une appli non, je suis pas à l'aise. Quon me parle au téléphone, avec des
+ mots simples. Je refuse quon me renvoie vers un site internet.
+
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Lucien : Que lagent ne disparaisse pas.
+ 

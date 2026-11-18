@@ -1,0 +1,64 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°40 - Kenza Ouali
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Kenza Ouali, 28 ans
+Entretien
+n°40
+Activité
+Boutique de vêtements seconde main
+Date
+lun. 02/11 2026
+Ville
+Marseille 1er
+Durée
+38 min
+Taille
+1 salariée
+Mode
+Sur place (dans le commerce)
+Assureur
+Sérévance (2 ans)
+Canal
+En ligne
+Situation
+Non sinistrée
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Pour commencer, pouvez-vous me présenter votre commerce ? Et ce qui vous préoccupe le plus au
+ quotidien ?
+Kenza : J'ai une boutique de seconde main depuis deux ans, avec une salariée. Mon risque, c'est la rotation du
+ stock et le vol à l'étalage. Pour l'assurance, je n'ai pas beaucoup de budget.
+2. Relation avec l'assureur au quotidien
+ UXR : Et côté assurance : Sérévance, comment ça s'est fait, et comment ça se passe au quotidien ?
+ Kenza : J'ai pris Sérévance en ligne, grâce à un comparateur. Je n'ai jamais eu de sinistre, je n'ai jamais
+ contacté personne. Je ne sais pas du tout comment ça se passe quand on a un sinistre.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Votre commerce n'a pas été touché par les émeutes. Comment l'avez-vous vécu, et avez-vous déjà eu
+ un sinistre ?
+Kenza : Aux émeutes, ma rue a été touchée un peu plus bas, mais pas ma boutique. Ça m'a fait peur. Je me
+ suis demandé si j'étais couverte. J'ai cherché sur le site, c'était flou, je n'ai pas trouvé. J'ai fini par
+appeler : on m'a dit que ça dépendait de mon contrat, de rappeler plus tard.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment s'est passée la déclaration, et qu'est-ce qui vous aiderait en cas de sinistre plus gros ?
+ Kenza : Si ça m'arrivait, je pense que je ferais la déclaration en ligne avec des photos. Mais je ne sais pas ce
+ qu'il faudrait comme preuves, vu que je n'ai pas de factures pour la moitié de mon stock, acheté en
+lots ou chez des particuliers.
+5. Les délais : vécu vs attendu
+ UXR : Quels ont été vos délais, étape par étape ? Et quel délai vous semblerait normal ?
+ Kenza : Honnêtement, je n'ai aucune idée des délais. J'imagine une semaine pour l'expert, un mois pour le
+ remboursement, mais c'est une supposition. Je voudrais en savoir plus avant d'avoir un problème.
+6. Satisfaction
+ UXR : Si vous racontiez cette expérience à un confrère, que diriez-vous ? Recommanderiez-vous Sérévance ?
+ Kenza : 5 sur 10. Je suis assurée, mais je ne sais pas si je suis bien couverte. C'est le flou qui me dérange. Je
+ recommanderais pour le prix, pas pour la clarté.
+7. Attentes et lignes rouges
+ UXR : Qu'est-ce que vous attendez d'un meilleur circuit ? Et qu'est-ce que vous refuseriez ?
+ Kenza : Je veux un récapitulatif simple de ma couverture, en langage clair, et un guide : que faire si un
+ événement arrive. Je refuse les documents de 40 pages en jargon.
+8. Clôture
+ UXR : Un dernier mot, une dernière idée ?
+ Kenza : Un guide clair : que faire en cas de sinistre.
+ 

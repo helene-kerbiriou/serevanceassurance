@@ -1,0 +1,62 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°32 - Anaïs Vidal
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Anaïs Vidal, 30 ans
+Entretien
+n°32
+Activité
+Café-librairie
+Date
+mar. 10/11 2026
+Ville
+Poitiers
+Durée
+50 min
+Taille
+2 salariés
+Mode
+Visio
+Assureur
+Sérévance (3 ans)
+Canal
+En ligne
+Situation
+Non sinistrée ; petit bris de glace en 2025
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Anaïs : J'ai un café-librairie, deux salariés. Mes soucis, c'est le flux de clients et la saisonnalité. Pour
+ l'assurance, je veux surtout être tranquille.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Anaïs : Souscrit en ligne il y a trois ans, parce que le simulateur était clair. En temps normal, je ne les contacte
+ pas. J'ai un espace en ligne que je consulte rarement.
+3. L'expérience d'un sinistre et le contexte des émeutes
+ UXR : Comment avez-vous vécu cette période, et avez-vous déjà eu à faire jouer votre assurance ?
+ Anaïs : Je n'ai pas été touchée par les émeutes, la ville est calme. J'ai eu un bris de glace sur une vitre latérale,
+ l'an dernier, un petit incident. J'ai déclaré en ligne, c'était simple.
+4. Déclaration et suivi (vécus ou imaginés)
+ UXR : Comment avez-vous déclaré la dernière fois, et comment pensez-vous que ça se passerait aujourd'hui ?
+ Anaïs : Déclaration en ligne, 10 minutes, avec une photo. Un artisan est venu sous 3 jours pour remplacer la
+ vitre, pris en charge directement. C'est le meilleur souvenir que j'ai de l'assurance : rapide, sans
+paperasse.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Anaïs : Délai total, 5 jours. Pour un petit sinistre, parfait. Pour un gros, je ne sais pas, mais je pense qu'on
+ attendrait une semaine pour l'expert, deux pour une avance.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Anaïs : 8 sur 10. Je recommande pour la simplicité. Je ne sais pas comment ils géreraient un gros sinistre, mais
+ pour un petit, c'est très bien.
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Anaïs : Je veux garder cette simplicité en cas de gros sinistre. Un parcours aussi fluide que pour le bris de
+ glace, mais avec un humain en cas de besoin. Je refuse qu'on me renvoie vers dix interlocuteurs.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Anaïs : Le même parcours simple pour les gros sinistres.
+ 

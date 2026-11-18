@@ -1,0 +1,63 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°23 - Michel Aubry
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Michel Aubry, 60 ans
+Entretien
+n°23
+Activité
+Cave à vin
+Date
+ven. 13/11 2026
+Ville
+Reims
+Durée
+41 min
+Taille
+2 salariés
+Mode
+Visio
+Assureur
+Sérévance (15 ans)
+Canal
+Agent (agence)
+Situation
+Vitrine brisée, bouteilles volées et cassées,
+fermé 10 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Racontez-moi votre commerce, depuis quand vous l'avez, avec qui. Qu'est-ce qui vous fait peur, côté
+ risques ?
+Michel : Je tiens une cave à vin et champagne, deux salariés. Mon gros risque, le vol de bouteilles de valeur, et
+ la casse. Et la conformité des conditions de stockage, bien sûr.
+2. Relation avec l'assureur au quotidien
+ UXR : Comment avez-vous choisi Sérévance, et comment la relation se passe-t-elle en temps normal ?
+ Michel : Sérévance depuis 15 ans, avec mon agent Monsieur Garnier. On se connaît bien. En temps normal, je
+ le vois pour mon renouvellement et on parle du marché.
+3. Le sinistre, le récit
+ UXR : Revenons au sinistre. Que s'est-il passé, et qu'avez-vous fait en premier ?
+ Michel : La vitrine a été défoncée, ils ont pris les bouteilles les plus chères, à portée de main. Des bouteilles ont
+ été cassées en pagaille. J'ai fait l'inventaire grâce à mon logiciel de cave, ça a pris une demi-journée.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré, et qu'est-ce qui s'est passé après ?
+ Michel : Monsieur Garnier a ouvert le dossier. Sérévance a demandé une liste précise avec millésimes et prix
+ d'achat. J'ai tout fourni. L'expert est passé à J+10, il connaît les vins, c'était agréable. Je n'ai pas eu à
+justifier grand-chose.
+5. Les délais : vécu vs attendu
+ UXR : Combien de temps avez-vous attendu à chaque étape ? Qu'est-ce qui aurait été acceptable ?
+ Michel : Expert J+10, indemnisation J+38. Je trouve ça raisonnable pour du vol. En revanche, pour les clients
+ qui avaient des bouteilles en dépôt chez moi, c'est plus long, je n'ai pas encore la réponse.
+6. Satisfaction
+ UXR : Sur une échelle de 1 à 10, où vous situeriez-vous, et pourquoi ? Recommanderiez-vous Sérévance ?
+ Michel : 7 sur 10. Un bon agent, un bon expert, une compagnie lente. Je recommanderais.
+ 
+7. Attentes et lignes rouges
+ UXR : Si vous pouviez tout changer, ce serait quoi ? Et quelles sont vos lignes rouges ?
+ Michel : Un statut en ligne, oui. Mais qu'on garde un contact humain. Je refuse qu'un algorithme évalue mes
+ bouteilles, c'est un métier.
+8. Clôture
+ UXR : Un dernier point à ajouter ? S'il fallait retenir une seule chose ?
+ Michel : Garder l'expert humain, au moins pour les cas de valeur.
+ 

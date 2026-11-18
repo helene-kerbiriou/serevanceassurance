@@ -1,0 +1,68 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°16 - Hervé Dumont
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Hervé Dumont, 53 ans
+Entretien
+n°16
+Fonction
+Responsable régional sinistres (cellule de
+crise, volet terrain)
+Date
+jeu. 12/11 2026
+Structure
+Sérévance, région Nord
+Durée
+58 min
+Profil
+Manager cellule de crise
+Mode
+Visio
+Ancienneté
+28 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Pour commencer, pouvez-vous vous présenter et me dire ce que vous faites au quotidien ?
+ Hervé : Je suis responsable régional sinistres pour le Nord, donc Lille, Roubaix, Amiens. J'ai géré le volet
+ terrain de la cellule de crise : les experts, les visites, la liaison avec les agents.
+2. La relation avec les commerçants
+ UXR : Qui est le visage de Sérévance pour un commerçant, d'après votre expérience ?
+ Hervé : Les commerçants du Nord ont une vraie culture de la proximité. Ils appellent l'agence avant tout. Notre
+ relation passe par les agents, qui sont notre première ligne. Quand ça marche, c'est très bien. Mais
+en crise, les agents sont débordés, et les commerçants se sentent abandonnés.
+3. La crise, le récit
+ UXR : Racontez-moi ce qui s'est passé chez vous après les émeutes.
+ Hervé : Dans ma région, nous avons eu 520 sinistres. J'ai mobilisé 12 experts, dont 5 externes, avec un
+ planning par zone. J'ai fait des points quotidiens avec les agents à 8h. Ce que je retiens : sans les
+agents, on n'aurait pas pu traiter. Ce qui m'a manqué : une vue consolidée des dossiers par zone,
+avec leur gravité.
+4. Qualité des déclarations et tri
+ UXR : Que contient une déclaration ? Et comment priorise-t-on, concrètement ?
+ Hervé : Sur le tri, j'ai fait une carte par quartier et j'ai classé par priorité. Mais je me suis basé sur ce que les
+ agents me disaient au téléphone, pas sur les dossiers. Les dossiers eux-mêmes n'avaient pas les
+informations nécessaires. Pour la qualité des déclarations, la moitié manquait de la situation du
+commerçant (fermé ou non).
+5. Délais
+ UXR : Quels délais constatez-vous, et qu'est-ce qui les explique ?
+ Hervé : Dans ma région, 9 jours en moyenne pour l'expert, ce qui est mieux que la moyenne nationale. Mais je
+ savais que certains commerçants, très touchés, attendaient 15 jours parce qu'ils avaient été mal
+classés. J'ai corrigé à la main, mais ça aurait pu être évité.
+6. Satisfaction perçue
+ UXR : Comment savez-vous si un commerçant est satisfait ? Que remontent les retours ?
+ Hervé : J'ai reçu des retours directs des agents : 'mes clients sont reconnaissants pour l'expert, mais ils n'ont
+ pas de nouvelles du paiement'. Je pense que le paiement est le moment de vérité. Plus il est rapide
+et clair, meilleur est le ressenti.
+7. Attentes, freins, lignes rouges
+ UXR : Quels seraient vos besoins, vos freins et vos lignes rouges pour un nouveau circuit ?
+ Hervé : Je voudrais que les agents et experts voient le même dossier, avec les mêmes priorités. Ce que je
+ refuse : un système qui contourne les agents. Ils sont notre force. Et il faut que les experts puissent
+corriger la gravité sur place.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+8. Clôture
+ UXR : Pour finir, une chose à retenir ?
+ Hervé : Que les agents et les experts voient le même dossier.
+ 

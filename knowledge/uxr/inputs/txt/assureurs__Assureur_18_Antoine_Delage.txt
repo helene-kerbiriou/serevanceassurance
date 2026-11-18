@@ -1,0 +1,75 @@
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien assureur n°18 - Antoine Delage
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Antoine Delage, 42 ans
+Entretien
+n°18
+Fonction
+Responsable produit assurance
+commerçants
+Date
+ven. 06/11 2026
+Structure
+Sérévance, direction produits
+professionnels
+Durée
+42 min
+Profil
+Relation client / digital / produit
+Mode
+Visio
+Ancienneté
+14 ans
+Interviewer
+UXR, Sérévance Assurances
+1. Rôle et périmètre
+ UXR : Quel est votre rôle ? Quel est votre lien avec les commerçants ?
+ Antoine : Je suis responsable produit assurance commerçants. Je définis les garanties, les franchises, les tarifs
+ et les évolutions de l'offre multirisque professionnelle. Je suis à la direction produits depuis 14 ans,
+après un début de carrière chez un réassureur. Disons que je travaille sur des sujets un peu plus
+structurants que la mise en relation.
+2. La relation avec les commerçants
+ UXR : Comment se passe la relation avec les commerçants, selon vous ? Ce qui marche, ce qui frotte ?
+ Antoine : Les commerçants, c'est un segment à faible marge et à forte sinistralité en ce moment. Ils sont
+ sensibles au prix, pas à la qualité de la garantie, donc ils achètent un contrat de base et s'étonnent
+après. Ce n'est pas notre faute si leur compréhension est limitée. Notre rôle de produit, c'est de
+couvrir le risque, pas de faire de l'éducation.
+3. La crise, le récit
+ UXR : Pouvez-vous me raconter les premiers jours, ce que vous avez fait et ce qui vous a surpris ?
+ Antoine : Sur la crise, mon rôle a été de répondre aux questions de couverture : quelles garanties jouent pour
+ les émeutes, quelles exclusions. J'ai reçu des dizaines de demandes de gestionnaires qui n'avaient
+pas lu les conditions générales. Honnêtement, c'était épuisant de répondre aux mêmes questions.
+Et puis la direction m'a demandé de participer à votre atelier, ce qui est très aimable mais pas
+forcément la priorité.
+4. Qualité des déclarations et tri
+ UXR : Qu'est-ce qui arrive dans une déclaration ? Comment décidez-vous de l'ordre de traitement ?
+ Antoine : La qualité des déclarations, ce n'est pas mon sujet. Pour le tri, je pense que le critère devrait être
+ contractuel : ceux qui ont la garantie perte d'exploitation, par exemple, devraient passer avant. Ça
+paraît logique. Que des designers essaient de réinventer le tri avec des post-it, je trouve ça
+touchant, mais il y a des règles juridiques que vous ne connaissez pas.
+5. Délais
+ UXR : Parlons des délais : combien de temps entre déclaration, expertise, avance, indemnisation ?
+ Antoine : Les délais, ce sont des promesses commerciales dangereuses. Si on affiche un délai, on s'expose à
+ des litiges. Je sais que vous allez me dire que les clients le veulent, mais le juridique ne vous suivra
+pas. Vous perdrez six mois à discuter avec la conformité.
+6. Satisfaction perçue
+ UXR : Comment percevez-vous leur satisfaction, avec quels indicateurs ou retours ?
+ Antoine : La satisfaction, je laisse ça à la direction client. Ce que je sais, c'est que notre ratio sinistres sur
+ primes est dégradé. Je ne vois pas bien comment une application améliorerait ça. Je serais plus
+sensible à un argument sur la baisse de la sinistralité.
+
+Entretien UXR assureurs - Sérévance Assurances - Hackathon designers - données fictives
+2
+7. Attentes, freins, lignes rouges
+ UXR : Qu'attendriez-vous d'un meilleur circuit de mise en relation ? Qu'est-ce que vous ne pourriez pas
+ accepter ?
+Antoine : Mes contraintes : des délais affichés qui engagent juridiquement, des données qui alimentent la
+ tarification, le risque de fraude. Je pense que votre projet est sympathique, mais il faudrait un
+business case. Si vous me dites qu'une plateforme réduit les coûts de gestion de 15 %, je vous
+écoute. Sinon, c'est un projet de communication.
+8. Clôture
+ UXR : Un dernier mot ?
+ Antoine : Je ne suis pas sûr que ce soit utile, mais si vous me présentez un chiffrage, je le lirai.
+ 

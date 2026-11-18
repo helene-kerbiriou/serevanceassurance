@@ -1,0 +1,64 @@
+Entretien UXR - Sérévance Assurances - Hackathon designers - données fictives
+1
+Entretien n°15 - Hugo Perrin
+Étude exploratoire : relation commerçants / assureur et parcours post-sinistre. Retranscription. Données fictives.
+Nom
+Hugo Perrin, 34 ans
+Entretien
+n°15
+Activité
+Magasin de vélos
+Date
+lun. 09/11 2026
+Ville
+Bordeaux
+Durée
+42 min
+Taille
+3 salariés
+Mode
+Visio
+Assureur
+Sérévance (7 ans)
+Canal
+En ligne
+Situation
+Vol de vélos haut de gamme, vitrine, fermé
+5 jours
+Interviewer
+UXR, Sérévance Assurances
+1. Le commerce et le rapport au risque
+ UXR : Parlez-moi de votre activité. Qu'est-ce qui vous inquiète le plus pour elle ?
+ Hugo : Je vends et répare des vélos, trois salariés. Le risque numéro un, le vol : un vélo électrique, c'est 3 000
+ euros, et ça se prend facilement. Les vélos de clients en réparation aussi.
+2. Relation avec l'assureur au quotidien
+ UXR : Parlez-moi de votre assureur. Comment êtes-vous arrivé chez Sérévance, et quel contact avez-vous
+ avec eux d'habitude ?
+Hugo : Souscrit en ligne il y a sept ans, c'était pratique. J'ai appelé une fois pour une modification de contrat,
+ très bien reçu. En temps normal, je ne les contacte pas.
+3. Le sinistre, le récit
+ UXR : Pouvez-vous me raconter ce moment : ce que vous avez vu, ce que vous avez fait, qui vous avez appelé
+ ?
+Hugo : Vitrine cassée, dix-huit vélos volés, dont quatre vélos électriques de clients. J'ai passé la matinée à
+ sortir les numéros de série des factures. Je les avais bien conservés, parce que je suis rigoureux
+là-dessus.
+4. Déclaration et suivi
+ UXR : Comment avez-vous déclaré le sinistre ? Et comment avez-vous su où en était votre dossier ?
+ Hugo : J'ai déclaré en ligne avec la liste et les numéros de série. Dossier accepté très vite, accusé en 2h.
+ L'expert m'a appelé à J+5. Très fluide au départ, puis un silence de deux semaines.
+5. Les délais : vécu vs attendu
+ UXR : Parlons des délais : expert, avance, indemnisation. Combien de temps, et qu'attendiez-vous ?
+ Hugo : Expert J+5, indemnisation J+32. Honnêtement, pour du vol, c'est un bon délai. Ce qui manque, c'est la
+ visibilité sur les 4 semaines entre les deux.
+6. Satisfaction
+ UXR : Quel est votre bilan ? Meilleur moment, pire moment, et est-ce que vous recommanderiez Sérévance ?
+ Hugo : 7 sur 10. Fluide au début, opaque ensuite. Je recommanderais pour un petit sinistre. Pour un gros, je ne
+ sais pas.
+7. Attentes et lignes rouges
+ UXR : Dans l'idéal, comment cela devrait-il se passer ? Y a-t-il des choses que vous n'accepteriez pas ?
+ Hugo : Une plateforme avec un statut visible, comme un colis. Je refuse qu'on me redemande des pièces déjà
+ fournies.
+8. Clôture
+ UXR : Pour finir, si vous ne deviez changer qu'une chose ?
+ Hugo : Un tracker de dossier, avec des dates.
+ 

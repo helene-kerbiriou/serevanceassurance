@@ -1,0 +1,107 @@
+Protocoles UXR - Hackathon designers - Sérévance Assurances (données fictives)
+1
+Protocoles d'entretiens UXR
+Hackathon designers – Mise en relation commerçants / assureurs post-sinistre
+Contexte : étude exploratoire menée pour Sérévance Assurances. Les entretiens produits à partir de ces protocoles seront
+synthétiques (données fictives pour le hackathon).
+Principes communs
+ Entrée par la relation, pas par le sinistre : le sinistre est un moment fort d'une relation plus large.
+ Récits plutôt qu'opinions : « racontez-moi la dernière fois que… » avant toute question de satisfaction.
+ Sérévance au cœur, sans exclusivité : comparaison avec les autres assureurs et courtiers connus.
+ Blocs dédiés aux délais (attendu vs vécu) et aux refus (lignes rouges).
+ Aucune solution présentée avant la fin, pour ne pas biaiser les réponses.
+
+Protocoles UXR - Hackathon designers - Sérévance Assurances (données fictives)
+2
+Protocole 1 – Commerçants (50 entretiens)
+Objectif : comprendre la relation actuelle avec Sérévance (et les autres assureurs), la satisfaction, la
+perception des délais, les attentes et les lignes rouges, avec un focus sur l'expérience post-sinistre.
+Durée : 50 min, en visio ou sur place.
+Échantillon
+ ~30 clients Sérévance sinistrés (émeutes), de gravité variée.
+ ~10 clients Sérévance non sinistrés (relation « normale », perception avant crise).
+ ~10 sinistrés chez un autre assureur ou courtier (comparaison, regard extérieur).
+ Variété : secteur, taille, ancienneté, canal de souscription (agence, courtier, en ligne), aisance numérique.
+Déroulé
+Bloc
+Durée
+Questions principales
+Relances
+0. Intro
+3 min
+Cadre, enregistrement, anonymat, aucun
+jugement.
+« Je ne suis pas là pour défendre l'assureur.
+»
+1. Le commerce et
+le rapport au
+risque
+5 min
+Parlez-moi de votre activité. Qu'est-ce qui
+vous inquiète le plus pour elle ?
+Qui s'occupe des « papiers » ? Que
+représente l'assurance pour vous ?
+2. Relation au
+quotidien avec
+l'assureur
+8 min
+Comment avez-vous choisi Sérévance ?
+Comment la relation se passe-t-elle en temps
+normal ?
+Depuis quand ? Quel interlocuteur, quel
+canal ? Vous sentez-vous connu ?
+Avez-vous déjà comparé ou changé ?
+Qu'attendiez-vous du contrat ?
+3. Le sinistre, le
+récit
+12 min
+Racontez-moi, depuis le début, ce qui s'est
+passé pour votre commerce.
+Premiers réflexes ? Qui contacté et
+comment ? Inventaire ? Preuves ? Ce qui a
+rassuré ou inquiété ? Ce qui a pris du temps
+?
+4. Déclaration et
+suivi
+7 min
+Comment avez-vous déclaré ? Comment
+avez-vous su où en était votre dossier ?
+Canal, nombre de relances, infos
+demandées deux fois ? Qui était votre
+contact ? Visibilité sur le délai ?
+5. Les délais :
+vécu vs attendu
+5 min
+Combien de temps avez-vous attendu pour
+chaque étape ? Qu'est-ce qui aurait été
+acceptable ?
+Expertise, indemnisation, avance ?
+Qu'est-ce qui rend l'attente supportable ou
+non ? Conséquences (trésorerie, fermeture,
+salariés).
+6. Satisfaction
+4 min
+Si vous racontiez cette expérience à un
+confrère, que diriez-vous ?
+Recommanderiez-vous Sérévance ?
+Meilleur / pire moment ? Courbe
+émotionnelle à dessiner ensemble.
+Confiance après sinistre ?
+7. Attentes et
+lignes rouges
+5 min
+Dans l'idéal, comment cela devrait-il se
+passer ? Y a-t-il des choses que vous
+n'accepteriez pas ?
+Partager photos et factures via une appli ?
+Être traité après d'autres plus touchés ?
+Parler à un robot ? Expertise à distance ?
+Partager vos données ?
+8. Clôture
+1 min
+Un dernier point à ajouter ?
+À capter
+ Timeline réelle (J0, J+1, J+7…), canaux utilisés, preuves mobilisées.
+ Moments d'émotion, comparaison inter-assureurs.
+ Attentes de délai chiffrées (« sous 48 h », « une semaine »).
+ Refus : confidentialité, automatisation, priorisation perçue comme injuste.
