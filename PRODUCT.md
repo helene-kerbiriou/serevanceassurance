@@ -32,11 +32,11 @@ Undecided (working hypotheses, to display as hypotheses): first-aid amount and r
 
 ## Brand Commitments
 - Name shown in the product: **Sérévance** (the insurer's own mark, no separate product name).
-- Binding visual constraint volunteered by the user: use `severance.md` (Lumon / Severance theme) as the design layer.
+- Visual direction (updated by the user after review of v1): `severance.md` is **no longer binding**; v1 felt cold and clinical, like a hospital. The design layer is now warm and human: shopfront green, warm paper, photographs of real shopkeepers, a named handler with a face and a handwritten signature. `prototype/v1-severance.html` keeps the first version for comparison.
 - Binding voice, stated by the user: **very human tone of voice**, to bring humanity into an institutional-looking system. The product speaks as a named person, not as an institution.
 
 ## Evidence on Hand
-All data is fictional and must be labelled synthetic: merchants, handlers, agents, dates. Real interview quotes are in `knowledge/uxr/inputs/txt/` (synthetic corpus). No real customers, no real policies, no real amounts. The 5,000 euro advance ceiling comes from one insurer interview and is only an example value.
+All data is fictional and must be labelled synthetic: merchants, handlers, agents, dates. Real interview quotes are in `knowledge/uxr/inputs/txt/` (synthetic corpus). No real customers, no real policies, no real amounts. Photos are free-licence Unsplash images used for illustration only (see credits in the footer); the people shown are not Sérévance customers or staff. The 5,000 euro advance ceiling comes from one insurer interview and is only an example value.
 
 ## Product Principles
 1. A person, then a date: every state names who is in charge and when the next step is expected, as a range.
@@ -46,4 +46,4 @@ All data is fictional and must be labelled synthetic: merchants, handlers, agent
 5. Honest about what is not known: say "to be confirmed" and when the answer comes, instead of "in progress".
 
 ## Accessibility & Inclusion
-Odile has low digital ease: large touch targets, plain language, no jargon, phone fallback. The merchant is stressed and tired: short screens, one task at a time, no time pressure. WCAG AA contrast is required (small text on Terminal Blue fails AA, use Severed Green or Lumon Black). Never use red decoratively.
+Odile has low digital ease: large touch targets, plain language, no jargon, phone fallback. The merchant is stressed and tired: short screens, one task at a time, no time pressure. WCAG AA contrast is required. Never use red decoratively (brick is reserved for errors).

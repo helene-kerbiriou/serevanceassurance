@@ -6,223 +6,219 @@
 <title>Sérévance · Mon dossier</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&family=Figtree:wght@400;500;600;700&family=Young+Serif&display=swap" rel="stylesheet">
 <style>
-/* ---------- Tokens (severance.md) ---------- */
+/* ---------- Tokens : la devanture de quartier ---------- */
 :root{
-  --white:#F0F0EE;      /* Lumon White */
-  --green:#4A6B5A;      /* Severed Green */
-  --gray:#9AA3A8;       /* Corridor Gray */
-  --blue:#5B7B9A;       /* Terminal Blue */
-  --black:#1E2328;      /* Lumon Black */
-  --gold:#B89A5A;       /* Kier Gold, once per screen */
-  --teal:#3D7A72;       /* Break Room Teal */
-  --cream:#E8E4D9;      /* Waxy Cream, paperwork */
-  --red:#C0392B;        /* Alert Red, errors only */
-  --ink-2:#3C434A;
-  --line:rgba(30,35,40,.24);
-  --line-strong:rgba(30,35,40,.6);
-  --sans:"IBM Plex Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-  --mono:"IBM Plex Mono","Courier Prime",ui-monospace,Menlo,monospace;
+  --paper:#F7F1E6;       /* papier chaud */
+  --paper-2:#EFE6D4;     /* papier d'un courrier */
+  --ink:#2B2320;         /* encre brune */
+  --ink-2:#4A3F39;
+  --green:#2F5B4B;       /* vert de devanture */
+  --green-tint:#E3EBDD;
+  --brass:#D9A441;       /* laiton : une fois par écran */
+  --brick:#A33F2A;       /* seulement pour les erreurs */
+  --line:rgba(43,35,32,.16);
+  --line-strong:rgba(43,35,32,.42);
+  --display:"Young Serif",Georgia,"Times New Roman",serif;
+  --sans:"Figtree","Helvetica Neue",Helvetica,Arial,sans-serif;
+  --hand:"Caveat","Segoe Script",cursive;
   --ease:cubic-bezier(.16,1,.3,1);
-  --gutter:clamp(16px,5vw,40px);
+  --gutter:clamp(18px,5vw,48px);
+  --r:14px;
 }
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%;scrollbar-color:var(--gray) var(--white)}
-body{
-  margin:0;background:var(--white);color:var(--black);
-  font-family:var(--sans);font-size:1.0625rem;line-height:1.6;
-  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='72' height='72'%3E%3Cpath d='M72 0H0V72' fill='none' stroke='%231E2328' stroke-opacity='.045'/%3E%3C/svg%3E");
-  caret-color:var(--green);
-}
-::selection{background:var(--green);color:var(--white)}
-::-webkit-scrollbar{width:12px;height:12px}
-::-webkit-scrollbar-track{background:var(--white)}
-::-webkit-scrollbar-thumb{background:var(--gray);border:3px solid var(--white)}
-a{color:var(--black);text-underline-offset:.22em;text-decoration-thickness:1px}
-:focus-visible{outline:3px solid var(--blue);outline-offset:3px}
-.num,time,.mono{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:.94em}
-.skip{position:absolute;left:var(--gutter);top:-60px;background:var(--black);color:var(--white);padding:12px 16px;z-index:10}
+html{-webkit-text-size-adjust:100%;scrollbar-color:#BDB09A var(--paper)}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:1.0625rem;line-height:1.6;caret-color:var(--green)}
+::selection{background:var(--green);color:var(--paper)}
+::-webkit-scrollbar{width:12px}
+::-webkit-scrollbar-track{background:var(--paper)}
+::-webkit-scrollbar-thumb{background:#BDB09A;border:3px solid var(--paper);border-radius:8px}
+a{color:var(--ink);text-underline-offset:.2em}
+:focus-visible{outline:3px solid var(--green);outline-offset:3px;border-radius:6px}
+.date{font-weight:600;font-variant-numeric:tabular-nums}
+.skip{position:absolute;left:var(--gutter);top:-60px;background:var(--ink);color:var(--paper);padding:12px 16px;z-index:10;border-radius:8px}
 .skip:focus{top:8px}
 
-/* ---------- Header ---------- */
-.bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px var(--gutter);border-bottom:1px solid var(--line)}
-.brand{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--black)}
-.brand b{font-weight:600;letter-spacing:.24em;font-size:.88rem;text-transform:uppercase}
-.brand svg{display:block}
+/* ---------- Auvent + en-tête ---------- */
+.awning{height:12px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='12'%3E%3Crect width='24' height='12' fill='%232F5B4B'/%3E%3Crect x='24' width='24' height='12' fill='%23F7F1E6'/%3E%3C/svg%3E") repeat-x;border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px var(--gutter)}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink)}
+.brand b{font-family:var(--display);font-weight:400;font-size:1.5rem;letter-spacing:.005em}
 .nav{display:flex;gap:4px}
-.nav button{
-  font:inherit;font-size:.78rem;font-weight:500;letter-spacing:.16em;text-transform:uppercase;
-  background:none;border:0;border-bottom:1px solid transparent;color:var(--black);
-  padding:12px 12px;min-height:44px;cursor:pointer;
-}
+.nav button{font:inherit;font-size:.98rem;font-weight:600;background:none;border:0;color:var(--ink);padding:10px 14px;min-height:44px;cursor:pointer;border-radius:999px;transition:background-color .3s var(--ease)}
 .nav button{white-space:nowrap}
-.nav button:hover{border-bottom-color:var(--line-strong)}
-@media (max-width:460px){.nav button{padding:12px 8px;font-size:.72rem;letter-spacing:.1em}.brand b{letter-spacing:.16em;font-size:.8rem}.brand{gap:8px}.bar{gap:8px}}
-.nav button[aria-current="page"]{border-bottom-color:var(--black)}
+@media (max-width:460px){.nav button{padding:10px 10px;font-size:.92rem}.brand b{font-size:1.3rem}.brand{gap:8px}.bar{gap:6px}}
+.nav button:hover{background:var(--paper-2)}
+.nav button[aria-current="page"]{background:var(--green);color:var(--paper)}
 
-/* ---------- Layout ---------- */
+/* ---------- Mise en page ---------- */
 main{outline:none}
-.wrap{max-width:1120px;margin:0 auto;padding:clamp(28px,6vw,72px) var(--gutter) 64px}
+.wrap{max-width:1160px;margin:0 auto;padding:clamp(24px,5vw,56px) var(--gutter) 72px}
 .grid{display:grid;gap:40px;grid-template-columns:minmax(0,1fr)}
 .col-main{min-width:0;display:flex;flex-direction:column;gap:56px}
-.col-side{order:0}
+.col-side{display:flex;flex-direction:column;gap:20px}
 #v-dossier .col-side{order:-1}
-@media (min-width:920px){
-  .grid{grid-template-columns:minmax(0,1fr) 320px;gap:72px;align-items:start}
-  .col-side,#v-dossier .col-side{order:0;position:sticky;top:24px}
+@media (min-width:940px){
+  .grid{grid-template-columns:minmax(0,1fr) 340px;gap:64px;align-items:start}
+  .col-side,#v-dossier .col-side{order:0;position:sticky;top:20px}
 }
-h1{font-weight:500;font-size:clamp(1.75rem,4.4vw,2.6rem);line-height:1.18;letter-spacing:-.012em;margin:0 0 20px;text-wrap:balance;max-width:20ch}
-h2{font-weight:500;font-size:1.4rem;line-height:1.25;margin:0 0 14px;text-wrap:balance}
-h3{font-weight:600;font-size:1rem;margin:0 0 4px}
-p{margin:0 0 14px;max-width:62ch}
-.lead{font-size:1.125rem;max-width:56ch}
-.small{font-size:.9rem;color:var(--ink-2)}
-hr{border:0;border-top:1px solid var(--line);margin:0}
+h1{font-family:var(--display);font-weight:400;font-size:clamp(2rem,5vw,3.1rem);line-height:1.12;letter-spacing:-.005em;margin:0 0 20px;text-wrap:balance}
+h2{font-family:var(--display);font-weight:400;font-size:clamp(1.45rem,3vw,1.85rem);line-height:1.2;margin:0 0 14px;text-wrap:balance}
+h3{font-weight:700;font-size:1.05rem;margin:0 0 4px}
+p{margin:0 0 14px;max-width:60ch}
+.lead{font-size:1.175rem;line-height:1.6;max-width:54ch}
+.small{font-size:.95rem;color:var(--ink-2)}
 
-/* ---------- Buttons ---------- */
-.btn{
-  display:inline-flex;align-items:center;justify-content:center;gap:10px;
-  font:inherit;font-size:.8rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;
-  min-height:52px;padding:0 28px;border-radius:2px;border:1px solid var(--black);cursor:pointer;
-  background:transparent;color:var(--black);text-decoration:none;
-  transition:background-color .35s var(--ease),color .35s var(--ease),border-color .35s var(--ease);
-}
-.btn:hover{background:var(--black);color:var(--white)}
-.btn.primary{background:var(--green);color:var(--white);border-color:var(--green)}
-.btn.primary:hover{background:var(--black);border-color:var(--black)}
-.btn[disabled]{opacity:.45;cursor:not-allowed}
-.btn.small{min-height:44px;padding:0 18px;font-size:.74rem}
+/* ---------- Boutons ---------- */
+.btn{display:inline-flex;align-items:center;justify-content:center;font:inherit;font-weight:700;font-size:1.02rem;min-height:54px;padding:0 28px;border-radius:999px;border:2px solid var(--ink);cursor:pointer;background:transparent;color:var(--ink);text-decoration:none;transition:background-color .3s var(--ease),color .3s var(--ease),border-color .3s var(--ease)}
+.btn:hover{background:var(--ink);color:var(--paper)}
+.btn.primary{background:var(--green);border-color:var(--green);color:var(--paper)}
+.btn.primary:hover{background:var(--ink);border-color:var(--ink)}
+.btn.small{min-height:46px;padding:0 20px;font-size:.96rem}
 .actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:8px}
-.link{font:inherit;background:none;border:0;padding:0;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.22em;cursor:pointer;color:var(--black);min-height:44px}
-.link:hover{color:var(--green)}
 
-/* ---------- Forms ---------- */
+/* ---------- Formulaires ---------- */
 fieldset{border:0;padding:0;margin:0}
-legend,.label{font-weight:600;font-size:1rem;padding:0;margin:0 0 6px;display:block}
-.hint{font-size:.92rem;color:var(--ink-2);margin:0 0 12px;max-width:58ch}
+legend,.label{font-weight:700;font-size:1.05rem;padding:0;margin:0 0 6px;display:block}
+.hint{font-size:.97rem;color:var(--ink-2);margin:0 0 12px;max-width:56ch}
 .field{margin-bottom:28px}
-input[type=text],input[type=tel],input[type=date],input[type=number],select,textarea{
-  font:inherit;color:var(--black);background:var(--white);width:100%;
-  border:1px solid var(--line-strong);border-radius:2px;padding:12px 14px;min-height:52px;
-}
-textarea{min-height:128px;resize:vertical}
+input[type=text],input[type=tel],input[type=date],input[type=number],select,textarea{font:inherit;color:var(--ink);background:#FFFCF6;width:100%;border:1.5px solid var(--line-strong);border-radius:12px;padding:12px 16px;min-height:54px}
+textarea{min-height:140px;resize:vertical}
 input::placeholder,textarea::placeholder{color:var(--ink-2);opacity:1}
-input:hover,select:hover,textarea:hover{border-color:var(--black)}
-.choice{display:flex;gap:14px;align-items:flex-start;border:1px solid var(--line);padding:14px 16px;margin:0 0 8px;cursor:pointer;min-height:56px;transition:border-color .3s var(--ease)}
-.choice:hover{border-color:var(--black)}
-.choice:has(input:checked){border-color:var(--black);background:rgba(74,107,90,.08)}
-.choice input{appearance:none;-webkit-appearance:none;flex:none;width:22px;height:22px;margin:2px 0 0;border:1px solid var(--black);border-radius:2px;background:var(--white);display:grid;place-content:center;cursor:pointer}
+input:hover,select:hover,textarea:hover{border-color:var(--ink)}
+.choice{display:flex;gap:14px;align-items:flex-start;background:#FFFCF6;border:1.5px solid var(--line);border-radius:var(--r);padding:14px 18px;margin:0 0 10px;cursor:pointer;min-height:58px;transition:border-color .3s var(--ease),background-color .3s var(--ease)}
+.choice:hover{border-color:var(--ink)}
+.choice:has(input:checked){border-color:var(--green);background:var(--green-tint)}
+.choice input{appearance:none;-webkit-appearance:none;flex:none;width:24px;height:24px;margin:1px 0 0;border:2px solid var(--ink);border-radius:7px;background:#FFFCF6;display:grid;place-content:center;cursor:pointer}
 .choice input[type=radio]{border-radius:50%}
 .choice input:checked{background:var(--green);border-color:var(--green)}
-.choice input[type=checkbox]:checked::after{content:"";width:6px;height:11px;border:solid var(--white);border-width:0 2px 2px 0;transform:translateY(-1px) rotate(45deg)}
-.choice input[type=radio]:checked::after{content:"";width:8px;height:8px;border-radius:50%;background:var(--white)}
+.choice input[type=checkbox]:checked::after{content:"";width:6px;height:12px;border:solid var(--paper);border-width:0 2.5px 2.5px 0;transform:translateY(-1px) rotate(45deg)}
+.choice input[type=radio]:checked::after{content:"";width:8px;height:8px;border-radius:50%;background:var(--paper)}
 .choice span{display:block}
-.choice .t{font-weight:500}
-.choice .d{font-size:.92rem;color:var(--ink-2)}
-.stepper{display:inline-flex;border:1px solid var(--line-strong);border-radius:2px}
-.stepper button{width:52px;min-height:52px;background:none;border:0;font:inherit;font-size:1.3rem;cursor:pointer;color:var(--black)}
-.stepper button:hover{background:var(--black);color:var(--white)}
-.stepper output{display:grid;place-content:center;min-width:64px;border-inline:1px solid var(--line-strong);font-family:var(--mono);font-size:1.1rem}
-.filebtn{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin:6px 0 4px 36px}
+.choice .t{font-weight:600}
+.choice .d{font-size:.95rem;color:var(--ink-2)}
+.stepper{display:inline-flex;align-items:center;gap:6px}
+.stepper button{width:54px;height:54px;border-radius:50%;background:#FFFCF6;border:2px solid var(--ink);font:inherit;font-size:1.5rem;font-weight:600;cursor:pointer;color:var(--ink);transition:background-color .3s var(--ease),color .3s var(--ease)}
+.stepper button:hover{background:var(--ink);color:var(--paper)}
+.stepper output{display:grid;place-content:center;min-width:64px;font-weight:700;font-size:1.5rem;font-variant-numeric:tabular-nums}
+.filebtn{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin:2px 0 14px 42px}
 .filebtn input{position:absolute;opacity:0;width:1px;height:1px}
 .filebtn label{cursor:pointer}
-.filelist{font-family:var(--mono);font-size:.85rem;color:var(--ink-2)}
-.err{color:var(--red);font-weight:500;margin:8px 0 0;font-size:.95rem}
+.filelist{font-size:.95rem;font-weight:600;color:var(--green)}
+.err{color:var(--brick);font-weight:600;margin:8px 0 0}
 .status{min-height:1.6em}
 
-/* ---------- Steps bar (declaration) ---------- */
-.segs{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin:0 0 12px}
-.segs i{height:4px;background:var(--line);display:block}
+/* ---------- Étapes de la déclaration ---------- */
+.segs{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:0 0 12px}
+.segs i{height:6px;border-radius:6px;background:var(--line);display:block}
 .segs i.on{background:var(--green)}
-.stepline{font-size:.9rem;color:var(--ink-2);margin:0 0 28px}
+.stepline{font-size:.98rem;font-weight:600;color:var(--ink-2);margin:0 0 28px}
 
-/* ---------- Promises (accueil) ---------- */
-.promises{margin:0;padding:0;list-style:none;border-top:1px solid var(--line)}
-.promises li{display:grid;grid-template-columns:44px 1fr;gap:16px;padding:18px 0;border-bottom:1px solid var(--line);align-items:start}
-.promises svg{margin-top:3px}
-.promises b{font-weight:600;display:block}
-.promises span{font-size:.97rem;color:var(--ink-2)}
+/* ---------- Accueil ---------- */
+.hero{display:grid;gap:32px;grid-template-columns:minmax(0,1fr);align-items:center}
+.hero .pic{order:-1}
+@media (min-width:860px){.hero{grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:56px}.hero .pic{order:0}}
+.arch{margin:0;border-radius:200px 200px 22px 22px;overflow:hidden;background:var(--paper-2);aspect-ratio:4/4.4;box-shadow:0 18px 40px -22px rgba(43,35,32,.45)}
+.arch img{width:100%;height:100%;object-fit:cover;display:block}
+@media (max-width:859px){.arch{aspect-ratio:4/3;border-radius:120px 120px 20px 20px}}
+.promises{margin:0;padding:0;list-style:none;display:grid;gap:18px}
+.promises li{display:grid;grid-template-columns:56px 1fr;gap:18px;align-items:start}
+.ic{width:56px;height:56px;border-radius:50%;background:var(--green-tint);display:grid;place-content:center}
+.promises b{font-weight:700;display:block;font-size:1.08rem}
+.promises span{color:var(--ink-2)}
+@media (min-width:860px){.promises{grid-template-columns:repeat(3,1fr);gap:28px}.promises li{grid-template-columns:1fr}}
 
-/* ---------- Letter (handler voice) ---------- */
-.letter{background:var(--cream);border:1px solid var(--line);padding:24px;position:relative}
-@media (min-width:720px){.letter{padding:36px}}
-.letter p{max-width:58ch}
-.sign{display:flex;align-items:center;gap:14px;margin-top:24px}
-.sign b{display:block;font-weight:600}
-.sign span{font-size:.9rem;color:var(--ink-2)}
-.mono-badge{width:44px;height:44px;border:1px solid var(--black);display:grid;place-content:center;font-family:var(--mono);font-size:.95rem;flex:none;background:var(--white)}
-.next{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap;margin-top:18px;padding-top:16px;border-top:1px solid var(--line-strong)}
-
-/* ---------- Timeline ---------- */
-.tl{list-style:none;margin:0;padding:0;position:relative}
-.tl li{display:grid;grid-template-columns:28px 1fr;gap:16px;padding-bottom:30px;position:relative}
-.tl li:last-child{padding-bottom:0}
-.tl li::before{content:"";position:absolute;left:13px;top:26px;bottom:0;width:1px;background:var(--line-strong)}
-.tl li:last-child::before{display:none}
-.mk{width:28px;height:28px;border:1px solid var(--black);display:grid;place-content:center;background:var(--white);position:relative;z-index:1}
-.done .mk{background:var(--green);border-color:var(--green)}
-.now .mk{background:var(--blue);border-color:var(--blue)}
-.mk svg{display:block}
-.tl .what{font-weight:600;font-size:1.05rem;line-height:1.35}
-.tl .who{font-size:.93rem;color:var(--ink-2)}
-.tl .when{font-family:var(--mono);font-size:.9rem;margin-top:2px}
-.tag{display:inline-block;font-size:.75rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;border:1px solid var(--black);padding:2px 8px;margin-left:8px;vertical-align:2px;background:var(--white)}
-.done .tag{background:var(--green);color:var(--white);border-color:var(--green)}
-.now .tag{background:var(--black);color:var(--white)}
-
-/* ---------- Sections ---------- */
-.sect{border-top:1px solid var(--line-strong);padding-top:28px}
-.todo{list-style:none;margin:0;padding:0}
-.todo li{padding:18px 0;border-bottom:1px solid var(--line)}
-.todo li:first-child{padding-top:0}
-.aide{border:1px solid var(--line-strong);padding:22px}
-@media (min-width:720px){.aide{padding:30px}}
-.aide .top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap;margin-bottom:10px}
-.seal{display:inline-flex;align-items:center;gap:8px;background:var(--gold);color:var(--black);font-size:.75rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;padding:5px 10px}
-.demo{font-size:.85rem;color:var(--ink-2);border-top:1px solid var(--line);padding-top:12px;margin:16px 0 0}
-.log{list-style:none;margin:0;padding:0}
-.log li{display:grid;grid-template-columns:132px 1fr;gap:16px;padding:12px 0;border-bottom:1px solid var(--line)}
-.log time{font-size:.85rem}
-@media (max-width:520px){.log li{grid-template-columns:1fr;gap:2px}}
-
-/* ---------- Side (handler) ---------- */
-.card{border:1px solid var(--line-strong);padding:22px;background:var(--white)}
-.card h2{font-size:1.15rem;margin-bottom:4px}
-.card .sign{margin:0 0 16px}
-.tel{display:block;font-family:var(--mono);font-size:1.15rem;margin:6px 0 14px;color:var(--black);text-decoration:none}
+/* ---------- Carte de la gestionnaire ---------- */
+.card{background:#FFFCF6;border:1.5px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:0 14px 30px -24px rgba(43,35,32,.5)}
+.card .ph{aspect-ratio:16/10;overflow:hidden;background:var(--paper-2)}
+.card .ph img{width:100%;height:100%;object-fit:cover;object-position:50% 30%;display:block}
+.card .body{padding:20px 22px 22px}
+.card h2{font-size:1.35rem;margin-bottom:2px}
+.who{margin:0 0 10px;color:var(--ink-2);font-size:.97rem}
+.tel{display:block;font-weight:700;font-size:1.35rem;margin:8px 0 14px;color:var(--ink);text-decoration:none;font-variant-numeric:tabular-nums}
 .tel:hover{color:var(--green);text-decoration:underline}
-.cb{margin-top:14px;padding-top:14px;border-top:1px solid var(--line)}
+.cb{margin-top:16px;padding-top:16px;border-top:1px solid var(--line)}
 .cb[hidden]{display:none}
+.mini{font-size:.88rem;color:var(--ink-2);margin:12px 0 0}
+.pic-side{display:none}
+@media (min-width:940px){.pic-side{display:block}}
 
-/* ---------- Opening (terminal) ---------- */
-.term{font-family:var(--mono);font-size:1rem;background:var(--black);color:var(--white);padding:24px;min-height:240px;max-width:640px}
-@media (min-width:720px){.term{padding:40px}}
-.term p{margin:0 0 10px;opacity:0;max-width:none}
-.term p.in{opacity:1}
-.caret{display:inline-block;width:.6em;height:1.05em;background:var(--white);vertical-align:-.15em;animation:blink 1.05s steps(1) infinite}
-@keyframes blink{50%{opacity:0}}
+/* ---------- Le courrier de Camille ---------- */
+.letter{background:var(--paper-2);border-radius:18px;padding:26px;box-shadow:0 18px 36px -26px rgba(43,35,32,.55);position:relative}
+@media (min-width:720px){.letter{padding:40px}}
+.letter p{max-width:56ch;font-size:1.1rem}
+.sign{margin-top:22px;display:flex;align-items:flex-end;gap:16px;flex-wrap:wrap}
+.hand{font-family:var(--hand);font-weight:600;font-size:2.5rem;line-height:1;color:var(--green);transform:rotate(-2deg);display:inline-block}
+.sign small{display:block;font-size:.92rem;color:var(--ink-2)}
+.next{margin-top:22px;padding-top:16px;border-top:1px dashed var(--line-strong);display:flex;gap:12px;flex-wrap:wrap;align-items:baseline}
 
-/* ---------- Footer ---------- */
-footer{border-top:1px solid var(--line);padding:24px var(--gutter);font-size:.88rem;color:var(--ink-2)}
-footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28px;justify-content:space-between}
+/* ---------- Étapes (frise) ---------- */
+.tl{list-style:none;margin:0;padding:0}
+.tl li{display:grid;grid-template-columns:36px 1fr;gap:16px;padding-bottom:30px;position:relative}
+.tl li:last-child{padding-bottom:0}
+.tl li::before{content:"";position:absolute;left:17px;top:38px;bottom:0;width:2px;background:var(--line)}
+.tl li:last-child::before{display:none}
+.mk{width:36px;height:36px;border-radius:50%;border:2px solid var(--line-strong);display:grid;place-content:center;background:var(--paper);position:relative;z-index:1}
+.done .mk{background:var(--green);border-color:var(--green)}
+.now .mk{border-color:var(--green);background:var(--paper);box-shadow:0 0 0 5px var(--green-tint)}
+.what{font-weight:700;font-size:1.12rem;line-height:1.35}
+.tl .who{margin:0;font-size:.98rem}
+.tl .when{margin-top:2px;font-weight:600}
+.tag{display:inline-block;font-size:.82rem;font-weight:700;border-radius:999px;padding:2px 12px;margin-left:8px;vertical-align:2px;background:var(--paper-2)}
+.done .tag{background:var(--green);color:var(--paper)}
+.now .tag{background:var(--brass);color:var(--ink)}
 
-/* ---------- Views + door transition ---------- */
+/* ---------- Sections du dossier ---------- */
+.sect{border-top:1.5px solid var(--line);padding-top:32px}
+.todo{list-style:none;margin:0;padding:0}
+.todo li{padding:20px 0;border-bottom:1px solid var(--line)}
+.todo li:first-child{padding-top:0}
+.aide{background:var(--green-tint);border-radius:18px;padding:24px}
+@media (min-width:720px){.aide{padding:32px}}
+.aide .top{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:10px}
+.aide .top b{font-size:1.15rem}
+.seal{display:inline-block;background:var(--brass);color:var(--ink);font-size:.88rem;font-weight:700;border-radius:999px;padding:4px 14px}
+.demo{font-size:.9rem;color:var(--ink-2);border-top:1px solid var(--line-strong);padding-top:12px;margin:16px 0 0}
+.log{list-style:none;margin:0;padding:0}
+.log li{display:grid;grid-template-columns:150px 1fr;gap:16px;padding:12px 0;border-bottom:1px solid var(--line)}
+.log time{font-weight:600;font-size:.95rem;font-variant-numeric:tabular-nums}
+@media (max-width:520px){.log li{grid-template-columns:1fr;gap:2px}}
+.closing{display:grid;gap:0;border-radius:22px;overflow:hidden;background:var(--green);color:var(--paper)}
+.closing img{width:100%;height:240px;object-fit:cover;object-position:50% 30%;display:block}
+.closing div{padding:28px}
+.closing h2{color:var(--paper);margin-bottom:8px}
+.closing p{margin:0;color:#EDE6D6}
+@media (min-width:760px){.closing{grid-template-columns:1fr 1fr}.closing img{height:100%;min-height:280px}.closing div{padding:40px;align-self:center}}
+
+/* ---------- Ouverture du dossier ---------- */
+.open-grid{display:grid;gap:36px;align-items:center}
+@media (min-width:860px){.open-grid{grid-template-columns:minmax(0,1fr) minmax(0,.8fr);gap:64px}}
+.boot{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:14px}
+.boot li{display:flex;gap:14px;align-items:center;font-size:1.15rem;font-weight:600;opacity:0;transform:translateY(6px);transition:opacity .5s var(--ease),transform .5s var(--ease)}
+.boot li.in{opacity:1;transform:none}
+.boot .ok{width:32px;height:32px;border-radius:50%;background:var(--green);display:grid;place-content:center;flex:none}
+.open-pic{margin:0;border-radius:200px 200px 22px 22px;overflow:hidden;aspect-ratio:4/4.6}
+.open-pic img{width:100%;height:100%;object-fit:cover;display:block}
+@media (max-width:859px){.open-pic{aspect-ratio:4/3;border-radius:120px 120px 20px 20px}}
+
+/* ---------- Pied de page ---------- */
+footer{border-top:1.5px solid var(--line);padding:28px var(--gutter);font-size:.92rem;color:var(--ink-2);background:var(--paper-2)}
+footer div{max-width:1160px;margin:0 auto;display:grid;gap:6px}
+
+/* ---------- Vues et transition ---------- */
 [hidden]{display:none!important}
-.view.enter{animation:door .5s var(--ease) both}
-@keyframes door{from{clip-path:inset(0 50% 0 50%);opacity:.4}to{clip-path:inset(0 0 0 0);opacity:1}}
-@media (prefers-reduced-motion:reduce){
-  .view.enter{animation:none}.caret{animation:none}
-  *{transition:none!important}
-}
+.view.enter{animation:rise .55s var(--ease) both}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.view.enter{animation:none}*{transition:none!important}}
 </style>
 </head>
 <body>
 <a class="skip" href="#main">Aller au contenu</a>
-
+<div class="awning" aria-hidden="true"></div>
 <header class="bar">
   <a class="brand" href="#" data-go="accueil" aria-label="Sérévance, accueil">
-    <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="#1E2328" stroke-width="1.25" aria-hidden="true"><rect x="1" y="1" width="20" height="20"/><path d="M1 14h12V1"/></svg>
+    <svg width="30" height="28" viewBox="0 0 30 28" fill="none" aria-hidden="true"><path d="M2 12h26L25.5 3H4.5L2 12Z" fill="#2F5B4B"/><path d="M8 3 6.5 12M14 3 13.5 12M20 3l.5 9" stroke="#F7F1E6" stroke-width="2"/><path d="M2 12c0 2.2 1.8 3.5 3.6 3.5S9.2 14.2 9.2 12c0 2.2 1.8 3.5 3.6 3.5s3.6-1.3 3.6-3.5c0 2.2 1.8 3.5 3.6 3.5s3.6-1.3 3.6-3.5c0 2.2 1.8 3.5 3.6 3.5" stroke="#2F5B4B" stroke-width="2" fill="none"/><path d="M5 17v9h20v-9" stroke="#2B2320" stroke-width="1.75"/></svg>
     <b>Sérévance</b>
   </a>
   <nav class="nav" aria-label="Navigation principale">
@@ -235,11 +231,11 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
 
 <!-- ===================== ACCUEIL ===================== -->
 <section class="view" id="v-accueil" aria-labelledby="h-accueil">
-  <div class="wrap"><div class="grid">
-    <div class="col-main">
+  <div class="wrap">
+    <div class="hero">
       <div>
         <h1 id="h-accueil" tabindex="-1">Bonjour Élise. Nous sommes désolés pour votre boutique.</h1>
-        <p class="lead">Vous n'avez rien à chiffrer aujourd'hui et aucun papier à retrouver. Dites-nous simplement où en est votre commerce. Une personne lit votre dossier dès qu'il est ouvert, et elle vous répond.</p>
+        <p class="lead">Vous n'avez rien à chiffrer aujourd'hui et aucun papier à retrouver. Racontez-nous simplement où en est votre commerce. Une vraie personne lit votre dossier dès qu'il est ouvert, et elle vous répond.</p>
         <div class="actions">
           <button class="btn primary" type="button" data-go="declarer">Ouvrir mon dossier</button>
           <button class="btn" type="button" id="btn-call-home">Je préfère qu'on m'appelle</button>
@@ -260,35 +256,27 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
         </div>
         <p class="status" id="call-home-msg" role="status" aria-live="polite"></p>
       </div>
-
-      <div>
-        <h2>Ce que vous pouvez attendre de nous</h2>
-        <ul class="promises">
-          <li>
-            <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="#1E2328" stroke-width="1.25" aria-hidden="true"><circle cx="16" cy="11" r="5"/><path d="M5 28c1-6 5.5-9 11-9s10 3 11 9"/></svg>
-            <div><b>Une personne, avec son nom.</b><span>Dès l'ouverture de votre dossier, vous savez qui s'en occupe et comment la joindre.</span></div>
-          </li>
-          <li>
-            <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="#1E2328" stroke-width="1.25" aria-hidden="true"><rect x="4" y="6" width="24" height="22"/><path d="M4 13h24M10 3v6M22 3v6"/></svg>
-            <div><b>Une date pour chaque étape.</b><span>Donnée en fourchette, validée par votre gestionnaire. Jamais « en cours » sans rien d'autre.</span></div>
-          </li>
-          <li>
-            <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="#1E2328" stroke-width="1.25" aria-hidden="true"><path d="M6 26h20M9 26V13l7-6 7 6v13"/><path d="M13 26v-7h6v7"/></svg>
-            <div><b>Une première aide étudiée sans attendre l'expert.</b><span>Pour que vous puissiez rouvrir. Votre gestionnaire décide avec vous.</span></div>
-          </li>
-        </ul>
-      </div>
+      <figure class="arch pic"><img src="img/shopkeeper.jpg" alt="Une commerçante souriante, accoudée au comptoir de sa petite boutique." width="1400" height="933"></figure>
     </div>
 
-    <aside class="col-side" aria-label="Nous joindre">
-      <div class="card">
-        <h2>Une question avant de commencer ?</h2>
-        <p class="small" style="margin-bottom:10px">Le plateau sinistres de Lille répond du lundi au samedi.</p>
-        <a class="tel" href="tel:+33320000000">03 20 00 00 00</a>
-        <p class="small" style="margin:0">Numéro de démonstration. Vous parlez à une personne, jamais à un robot.</p>
-      </div>
-    </aside>
-  </div></div>
+    <div style="margin-top:72px">
+      <h2>Ce que vous pouvez attendre de nous</h2>
+      <ul class="promises">
+        <li>
+          <span class="ic"><svg width="30" height="30" viewBox="0 0 32 32" fill="none" stroke="#2F5B4B" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="16" cy="11" r="5"/><path d="M5 28c1-6 5.5-9 11-9s10 3 11 9"/></svg></span>
+          <div><b>Une personne, avec son prénom.</b><span>Dès l'ouverture de votre dossier, vous savez qui s'en occupe et comment la joindre.</span></div>
+        </li>
+        <li>
+          <span class="ic"><svg width="30" height="30" viewBox="0 0 32 32" fill="none" stroke="#2F5B4B" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><rect x="4" y="6" width="24" height="22" rx="3"/><path d="M4 13h24M10 3v6M22 3v6"/></svg></span>
+          <div><b>Une date pour chaque étape.</b><span>Donnée en fourchette, confirmée par votre gestionnaire. Jamais « en cours » sans rien d'autre.</span></div>
+        </li>
+        <li>
+          <span class="ic"><svg width="30" height="30" viewBox="0 0 32 32" fill="none" stroke="#2F5B4B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 27h22M8 27V14l8-7 8 7v13"/><path d="M13 27v-8h6v8"/></svg></span>
+          <div><b>Une première aide, étudiée tout de suite.</b><span>Sans attendre l'expert, pour que vous puissiez rouvrir. Votre gestionnaire décide avec vous.</span></div>
+        </li>
+      </ul>
+    </div>
+  </div>
 </section>
 
 <!-- ===================== DECLARATION ===================== -->
@@ -297,12 +285,11 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
     <div class="col-main">
       <div>
         <div class="segs" aria-hidden="true"><i class="on" data-seg="1"></i><i data-seg="2"></i><i data-seg="3"></i></div>
-        <p class="stepline" id="stepline"><span class="num">Étape 1 sur 3</span> · Votre commerce</p>
+        <p class="stepline" id="stepline">Étape 1 sur 3 · Votre commerce</p>
 
-        <!-- Étape 1 -->
         <form class="step" data-step="1" novalidate>
           <h1 id="h-declarer" tabindex="-1">Où en est votre commerce aujourd'hui&nbsp;?</h1>
-          <p class="lead">Aucun montant n'est demandé ici. Seulement votre situation, pour que nous comprenions l'urgence.</p>
+          <p class="lead">Aucun montant n'est demandé ici. Seulement votre situation, pour que nous comprenions ce qui presse.</p>
           <fieldset class="field">
             <legend>Votre commerce est</legend>
             <label class="choice"><input type="radio" name="etat" value="ferme" checked><span><span class="t">Fermé pour l'instant</span></span></label>
@@ -325,10 +312,9 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
           <div class="actions"><button class="btn primary" type="button" data-next>Continuer</button></div>
         </form>
 
-        <!-- Étape 2 -->
         <form class="step" data-step="2" novalidate hidden>
           <h1 tabindex="-1">Qu'avez-vous trouvé en arrivant&nbsp;?</h1>
-          <p class="lead">Cochez ce qui est touché. Une photo par endroit suffit, nous ne vous demanderons pas de refaire un inventaire.</p>
+          <p class="lead">Cochez ce qui est touché. Une photo par endroit suffit : nous ne vous demanderons pas de refaire un inventaire.</p>
           <fieldset class="field" id="dommages">
             <legend class="label">Ce qui est touché</legend>
             <div class="dm"><label class="choice"><input type="checkbox" name="dm" value="vitrine"><span><span class="t">La vitrine ou la façade</span></span></label>
@@ -348,7 +334,6 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
           <div class="actions"><button class="btn" type="button" data-prev>Retour</button><button class="btn primary" type="button" data-next>Continuer</button></div>
         </form>
 
-        <!-- Étape 3 -->
         <form class="step" data-step="3" novalidate hidden>
           <h1 tabindex="-1">Ce que vous avez déjà, et rien de plus.</h1>
           <p class="lead">Si une pièce manque ou a disparu, ce n'est pas un blocage. Nous trouverons une autre façon de le montrer, ensemble.</p>
@@ -361,7 +346,7 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
             <p class="status" id="noinv-msg" role="status" aria-live="polite"></p>
           </fieldset>
           <div class="field">
-            <label class="choice" style="margin-bottom:12px"><input type="checkbox" id="consent"><span><span class="t">Mon agent ou mon courtier peut suivre l'avancement de mon dossier.</span><span class="d">Il ne verra que l'état du dossier, et vous pouvez retirer cet accord quand vous voulez.</span></span></label>
+            <label class="choice" style="margin-bottom:14px"><input type="checkbox" id="consent"><span><span class="t">Mon agent ou mon courtier peut suivre l'avancement de mon dossier.</span><span class="d">Il ne verra que l'état du dossier, et vous pouvez retirer cet accord quand vous voulez.</span></span></label>
             <label class="label" for="agent">Son nom <span class="small">(facultatif)</span></label>
             <input id="agent" type="text" placeholder="Le nom de la personne qui vous suit à l'agence" autocomplete="off">
           </div>
@@ -371,26 +356,32 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
     </div>
     <aside class="col-side" aria-label="Nous joindre">
       <div class="card">
-        <h2>Vous préférez en parler&nbsp;?</h2>
-        <p class="small" style="margin-bottom:10px">Une personne du plateau sinistres peut remplir ceci avec vous, au téléphone.</p>
-        <a class="tel" href="tel:+33320000000">03 20 00 00 00</a>
-        <p class="small" style="margin:0">Numéro de démonstration.</p>
+        <div class="ph"><img src="img/camille.jpg" alt="Camille, gestionnaire sinistres, souriante à son bureau." width="1000" height="563"></div>
+        <div class="body">
+          <h2>Vous préférez en parler&nbsp;?</h2>
+          <p class="who">Camille ou une collègue du plateau sinistres de Lille remplit ceci avec vous, au téléphone.</p>
+          <a class="tel" href="tel:+33320000000">03 20 00 00 00</a>
+          <p class="mini">Numéro de démonstration. Vous parlez à une personne, jamais à un robot.</p>
+        </div>
       </div>
+      <figure class="arch pic-side" style="aspect-ratio:4/4.6"><img src="img/florist-hands.jpg" alt="Les mains d'une fleuriste qui compose un bouquet dans son atelier." width="1000" height="1500"></figure>
     </aside>
   </div></div>
 </section>
 
 <!-- ===================== OUVERTURE ===================== -->
 <section class="view" id="v-ouverture" aria-labelledby="h-ouverture" hidden>
-  <div class="wrap">
-    <h1 id="h-ouverture" tabindex="-1">Nous ouvrons votre dossier.</h1>
-    <div class="term" role="status" aria-live="polite" id="term">
-      <p>Vérification de votre contrat</p>
-      <p>Dossier <span class="num">SV-2611-0042</span> créé</p>
-      <p>Camille Verdier a reçu votre dossier</p>
-      <p><span class="caret" aria-hidden="true"></span></p>
+  <div class="wrap"><div class="open-grid">
+    <div>
+      <h1 id="h-ouverture" tabindex="-1">Nous ouvrons votre dossier.</h1>
+      <ul class="boot" role="status" aria-live="polite">
+        <li><span class="ok" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="#F7F1E6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 7.5l3 3 6-7"/></svg></span>Votre contrat est retrouvé.</li>
+        <li><span class="ok" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="#F7F1E6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 7.5l3 3 6-7"/></svg></span><span>Votre dossier <span class="date">SV-2611-0042</span> est créé.</span></li>
+        <li><span class="ok" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="#F7F1E6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 7.5l3 3 6-7"/></svg></span>Camille Verdier le reçoit et va le lire.</li>
+      </ul>
     </div>
-  </div>
+    <figure class="open-pic"><img src="img/storefront.jpg" alt="Une devanture de quartier avec son auvent rayé, des tables et des chaises devant la porte." width="1000" height="1500"></figure>
+  </div></div>
 </section>
 
 <!-- ===================== DOSSIER ===================== -->
@@ -402,10 +393,10 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
         <h1 id="h-dossier" tabindex="-1">Bonjour Élise. Voici où nous en sommes.</h1>
         <div class="letter">
           <p>Bonjour Élise,</p>
-          <p>Je m'appelle Camille, je m'occupe de votre dossier. Je l'ai ouvert ce matin et j'ai lu ce que vous m'avez écrit. Je vois que votre boutique est fermée et que vous avez des personnes à payer : c'est ce que je regarde en premier.</p>
-          <p>Je reviens vers vous avec ce qui est couvert d'ici vendredi. Si vous préférez que je vous appelle plutôt que de lire, dites-le-moi, je le ferai.</p>
-          <div class="sign"><span class="mono-badge" aria-hidden="true">CV</span><div><b>Camille Verdier</b><span>Gestionnaire sinistres, plateau de Lille</span></div></div>
-          <div class="next"><b>Ma prochaine nouvelle</b><time class="num" datetime="2026-11-19">jeudi 19 novembre</time></div>
+          <p>Je suis désolée pour ce qui est arrivé à votre boutique. Je m'appelle Camille et je m'occupe de votre dossier. Je l'ai ouvert ce matin et j'ai lu ce que vous m'avez écrit.</p>
+          <p>Je vois que votre commerce est fermé et que des personnes comptent sur vous pour être payées : c'est ce que je regarde en premier. Je reviens vers vous avec ce qui est couvert d'ici vendredi. Si vous préférez que je vous appelle plutôt que de lire, dites-le-moi, je le ferai.</p>
+          <div class="sign"><span class="hand">Camille</span><span><b>Camille Verdier</b><small>Gestionnaire sinistres, plateau de Lille</small></span></div>
+          <div class="next"><b>Ma prochaine nouvelle</b><time class="date" datetime="2026-11-19">jeudi 19 novembre</time></div>
         </div>
       </div>
 
@@ -413,24 +404,24 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
         <h2>Les étapes de votre dossier</h2>
         <ol class="tl">
           <li class="done">
-            <span class="mk" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="#F0F0EE" stroke-width="1.75"><path d="M2.5 7.5l3 3 6-7"/></svg></span>
-            <div><div class="what">Dossier ouvert<span class="tag">Fait</span></div><div class="who">Par vous, avec Camille Verdier</div><div class="when"><time datetime="2026-11-18">mercredi 18 novembre</time></div></div>
+            <span class="mk" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 14 14" fill="none" stroke="#F7F1E6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 7.5l3 3 6-7"/></svg></span>
+            <div><div class="what">Dossier ouvert<span class="tag">Fait</span></div><p class="who">Par vous, avec Camille Verdier</p><div class="when"><time class="date" datetime="2026-11-18">mercredi 18 novembre</time></div></div>
           </li>
           <li class="now">
-            <span class="mk" aria-hidden="true"><svg width="10" height="10" viewBox="0 0 10 10"><rect width="10" height="10" fill="#F0F0EE"/></svg></span>
-            <div><div class="what">Ce qui est couvert<span class="tag">En cours</span></div><div class="who">Camille Verdier vérifie votre contrat et vous répond</div><div class="when">entre le <time datetime="2026-11-19">jeu. 19</time> et le <time datetime="2026-11-20">ven. 20 novembre</time></div></div>
+            <span class="mk" aria-hidden="true"><svg width="12" height="12" viewBox="0 0 12 12"><circle cx="6" cy="6" r="5" fill="#2F5B4B"/></svg></span>
+            <div><div class="what">Ce qui est couvert<span class="tag">En cours</span></div><p class="who">Camille vérifie votre contrat et vous répond</p><div class="when">entre le <time class="date" datetime="2026-11-19">jeu. 19</time> et le <time class="date" datetime="2026-11-20">ven. 20 novembre</time></div></div>
           </li>
           <li>
             <span class="mk" aria-hidden="true"></span>
-            <div><div class="what">Première aide</div><div class="who">Camille Verdier décide avec vous</div><div class="when">entre le <time datetime="2026-11-23">lun. 23</time> et le <time datetime="2026-11-25">mer. 25 novembre</time></div></div>
+            <div><div class="what">Première aide</div><p class="who">Camille décide avec vous</p><div class="when">entre le <time class="date" datetime="2026-11-23">lun. 23</time> et le <time class="date" datetime="2026-11-25">mer. 25 novembre</time></div></div>
           </li>
           <li>
             <span class="mk" aria-hidden="true"></span>
-            <div><div class="what">Expertise</div><div class="who">À distance si votre dommage s'y prête, sur place sinon</div><div class="when">entre le <time datetime="2026-11-25">mer. 25</time> et le <time datetime="2026-11-27">ven. 27 novembre</time></div></div>
+            <div><div class="what">Expertise</div><p class="who">À distance si votre dommage s'y prête, sur place sinon</p><div class="when">entre le <time class="date" datetime="2026-11-25">mer. 25</time> et le <time class="date" datetime="2026-11-27">ven. 27 novembre</time></div></div>
           </li>
           <li>
             <span class="mk" aria-hidden="true"></span>
-            <div><div class="what">Règlement</div><div class="who">Je vous donne une fourchette après l'expertise, pas avant.</div><div class="when">date à venir</div></div>
+            <div><div class="what">Règlement</div><p class="who">Je vous donne une fourchette après l'expertise, pas avant.</p><div class="when">date à venir</div></div>
           </li>
         </ol>
       </div>
@@ -440,7 +431,7 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
         <div class="aide">
           <div class="top"><b>Votre demande est à l'étude</b><span class="seal">À l'étude</span></div>
           <p>Je regarde si une première somme peut vous être versée sans attendre l'expert, pour que vous puissiez rouvrir. C'est moi qui décide, avec vous. Aucun versement ne part sans que je l'aie validé.</p>
-          <p class="mono" style="margin:0">Ma réponse : entre le lun. 23 et le mer. 25 novembre. Je vous appelle quand elle est prise.</p>
+          <p style="margin:0"><b>Ma réponse :</b> <span class="date">entre le lun. 23 et le mer. 25 novembre.</span> Je vous appelle quand elle est prise.</p>
           <p class="demo">Démonstration. Le montant et les conditions de la première aide restent à confirmer avec Sérévance.</p>
         </div>
       </div>
@@ -478,27 +469,35 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
       <div class="sect">
         <h2>Ce qui s'est passé sur votre dossier</h2>
         <ul class="log">
-          <li><time class="num" datetime="2026-11-18T09:41">18 nov., 09:41</time><span>Camille Verdier a lu votre dossier.</span></li>
-          <li><time class="num" datetime="2026-11-18T09:12">18 nov., 09:12</time><span>Vous avez ouvert votre dossier.</span></li>
+          <li><time datetime="2026-11-18T09:41">18 novembre, 09:41</time><span>Camille Verdier a lu votre dossier.</span></li>
+          <li><time datetime="2026-11-18T09:12">18 novembre, 09:12</time><span>Vous avez ouvert votre dossier.</span></li>
         </ul>
+      </div>
+
+      <div class="closing">
+        <img src="img/bakery-counter.jpg" alt="Une commerçante derrière son comptoir de boulangerie, entourée de viennoiseries." width="1000" height="667">
+        <div><h2>Rouvrir d'abord.</h2><p>Le reste, nous le faisons avec vous, étape par étape, et vous savez toujours qui vous répond.</p></div>
       </div>
     </div>
 
     <aside class="col-side" aria-label="Votre gestionnaire">
       <div class="card">
-        <div class="sign"><span class="mono-badge" aria-hidden="true">CV</span><div><b>Camille Verdier</b><span>Votre gestionnaire</span></div></div>
-        <p class="small" style="margin-bottom:0">Elle répond du lundi au samedi, de 8 h à 19 h.</p>
-        <a class="tel" href="tel:+33320000001">03 20 00 00 01</a>
-        <button class="btn small" type="button" id="btn-cb" aria-expanded="false" aria-controls="cb">Me faire rappeler</button>
-        <div class="cb" id="cb" hidden>
-          <form id="f-cb" novalidate>
-            <label class="label" for="cb-when">Quand&nbsp;?</label>
-            <select id="cb-when" style="margin-bottom:12px"><option>Dans la journée</option><option>Demain matin</option><option>Demain après-midi</option></select>
-            <button class="btn primary small" type="submit">Demander un rappel</button>
-          </form>
+        <div class="ph"><img src="img/camille.jpg" alt="Camille Verdier, votre gestionnaire, souriante à son bureau." width="1000" height="563"></div>
+        <div class="body">
+          <h2>Camille Verdier</h2>
+          <p class="who">Votre gestionnaire. Elle répond du lundi au samedi, de 8 h à 19 h.</p>
+          <a class="tel" href="tel:+33320000001">03 20 00 00 01</a>
+          <button class="btn small" type="button" id="btn-cb" aria-expanded="false" aria-controls="cb">Me faire rappeler</button>
+          <div class="cb" id="cb" hidden>
+            <form id="f-cb" novalidate>
+              <label class="label" for="cb-when">Quand&nbsp;?</label>
+              <select id="cb-when" style="margin-bottom:12px"><option>Dans la journée</option><option>Demain matin</option><option>Demain après-midi</option></select>
+              <button class="btn primary small" type="submit">Demander un rappel</button>
+            </form>
+          </div>
+          <p class="status small" id="cb-msg" role="status" aria-live="polite" style="margin:12px 0 0"></p>
+          <p class="mini">Numéro de démonstration.</p>
         </div>
-        <p class="status small" id="cb-msg" role="status" aria-live="polite" style="margin:12px 0 0"></p>
-        <p class="demo" style="margin-top:14px">Numéro de démonstration.</p>
       </div>
     </aside>
   </div></div>
@@ -510,6 +509,7 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
   <div>
     <span>Sérévance Assurances · Plateau sinistres de Lille</span>
     <span>Démonstration. Les personnes, les dates et les dossiers sont fictifs.</span>
+    <span>Photos : Unsplash, usage libre (licence Unsplash), à titre d'illustration. Les personnes photographiées ne sont ni des clientes ni des collaboratrices de Sérévance.</span>
   </div>
 </footer>
 
@@ -531,11 +531,11 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
   }
 
   function boot(){
-    var ps=$$('#term p');ps.forEach(function(p){p.classList.remove('in')});
+    var items=$$('#v-ouverture .boot li');items.forEach(function(p){p.classList.remove('in')});
     var reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    var gap=reduce?0:650;
-    ps.forEach(function(p,i){timers.push(setTimeout(function(){p.classList.add('in')},gap*(i+1)))});
-    timers.push(setTimeout(function(){go('dossier')},reduce?100:gap*ps.length+700));
+    var gap=reduce?0:700;
+    items.forEach(function(p,i){timers.push(setTimeout(function(){p.classList.add('in')},gap*(i+1)))});
+    timers.push(setTimeout(function(){go('dossier')},reduce?100:gap*items.length+900));
   }
 
   function showStep(n,skipFocus){
@@ -543,7 +543,7 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
     $$('.step').forEach(function(f){f.hidden=Number(f.dataset.step)!==n});
     $$('.segs i').forEach(function(i){i.classList.toggle('on',Number(i.dataset.seg)<=n)});
     var names=['Votre commerce','Ce qui s’est passé','Vos pièces'];
-    $('#stepline').innerHTML='<span class="num">Étape '+n+' sur 3</span> · '+names[n-1];
+    $('#stepline').textContent='Étape '+n+' sur 3 · '+names[n-1];
     window.scrollTo(0,0);
     if(!skipFocus){var h=$('.step[data-step="'+n+'"] h1');if(h){h.setAttribute('tabindex','-1');h.focus({preventScroll:true})}}
   }
@@ -557,12 +557,10 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
     if(sb){state.staff=Math.max(0,Math.min(60,state.staff+Number(sb.dataset.stepBtn)));$('#staff').textContent=state.staff;return}
   });
 
-  // Étape 1 : "depuis quand" seulement si fermé / réduit
   $$('input[name=etat]').forEach(function(r){r.addEventListener('change',function(){
     $('#since-wrap').hidden=($('input[name=etat]:checked').value==='normal');
   })});
 
-  // Étape 2 : photos par catégorie
   $$('#dommages .dm').forEach(function(dm){
     var cb=$('input[type=checkbox]',dm),fb=$('.filebtn',dm),fi=$('input[type=file]',dm),fl=$('.filelist',dm);
     cb.addEventListener('change',function(){fb.hidden=!cb.checked});
@@ -571,13 +569,11 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
     });
   });
 
-  // Étape 3 : pas de factures
   $('#noinv').addEventListener('change',function(){
     $('#noinv-msg').textContent=this.checked?'Merci de nous le dire. Ce n’est pas un blocage : nous regarderons ensemble vos bons de commande, vos relevés ou vos photos.':'';
   });
   $('#btn-open').addEventListener('click',function(){go('ouverture')});
 
-  // Appel depuis l'accueil
   $('#btn-call-home').addEventListener('click',function(){var b=$('#call-home');b.hidden=!b.hidden;if(!b.hidden)$('#ch-when').focus()});
   $('#f-call-home').addEventListener('submit',function(e){
     e.preventDefault();
@@ -587,7 +583,6 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
     $('#call-home').hidden=true;
   });
 
-  // Dossier : rappel, canal, stock
   $('#btn-cb').addEventListener('click',function(){var b=$('#cb'),open=b.hidden;b.hidden=!open;this.setAttribute('aria-expanded',String(open));if(open)$('#cb-when').focus()});
   $('#f-cb').addEventListener('submit',function(e){
     e.preventDefault();
@@ -599,7 +594,6 @@ footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28
   $('#btn-noexport').addEventListener('click',function(){$('#stock-msg').textContent='Merci de me le dire. Ce n’est pas un blocage : je regarderai avec vous vos bons de commande, vos relevés ou vos photos.'});
   $('#up-stock').addEventListener('change',function(){var f=this.files[0];if(f)$('#stock-msg').textContent='Bien reçu : '+f.name+'. Je le lis et je vous dis si j’ai besoin d’autre chose.'});
 
-  // Accès direct par ancre (utile pour la démo)
   var h=(location.hash||'').replace('#','');
   go(views.indexOf(h)>-1&&h!=='ouverture'?h:'accueil',{silent:true});
 })();

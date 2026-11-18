@@ -29,7 +29,7 @@ README.md                    présentation courte
 HANDOFF.md                   ce fichier
 TOKENS.md                    journal de consommation de tokens
 CLAUDE.md                    règles pour l'IA
-severance.md                 couche design du prototype (thème Lumon / Severance)
+severance.md                 thème Lumon / Severance utilisé pour la v1 du prototype (jugé trop froid)
 brief/                       exercice.pdf, deck du hackathon, liens utiles
 skills/uxr, skills/pm        skills (SKILL.md) ; pipeline dans skills/README.md
 .claude/agents/              agent-uxr, agent-pm
@@ -53,7 +53,7 @@ Pas de Figma/FigJam, mesure du coût en tokens, au moins 2 LLM différents, 2 h 
 - **Features formalisées** : knowledge/pm/outputs/features.md (FEAT-01 à FEAT-18, aucun JTBD orphelin).
 - **MoSCoW fait** : knowledge/pm/outputs/backlog.md (6 Must, 7 Should, 4 Could, 1 Won't), priorités à valider.
 - **User stories faites** : knowledge/pm/outputs/us.md (29 stories : 6 Must + 7 Should).
-- **Prototype fait** : prototype/index.html (HTML autonome, thème severance.md, ton humain ; vues : accueil, déclaration en 3 étapes, ouverture, suivi du dossier). Contexte produit : PRODUCT.md. Non fait : vue gestionnaire, vue agent, DESIGN.md.
+- **Prototype v2 (chaleureux)** : prototype/index.html (HTML autonome, devanture de quartier : vert, papier chaud, auvent rayé, photos Unsplash dans prototype/img/, courrier signé à la main). La v1 froide (severance.md) est conservée dans prototype/v1-severance.html. (v1 : vues : accueil, déclaration en 3 étapes, ouverture, suivi du dossier). Contexte produit : PRODUCT.md. Non fait : vue gestionnaire, vue agent, DESIGN.md.
 - **Prochaines étapes :** (user journey, features, MoSCoW, user stories, prototype faits) -> relecture équipe, pitch -> prototype avec severance.md (design, à ajouter au repo) -> pitch.
 - **Benchmark fait** : knowledge/product/benchmark.md (Rockfi lu sur rockfi.fr, Bpifrance Prêt Solidarité Commerce, Alan, Sidecare (confirmé par l'équipe, lecture directe du site à faire), compléments 🔎 à vérifier, matrice, principes réutilisables, voix proposée "présent, calme, précis"). À valider par l'équipe : articulation avec le prêt Bpifrance, voix.
 - Décisions ouvertes : règle de gravité, E22/E24/E28/E48/E50, biens de clients, montant de l'avance (voir SYNTHESE-FINALE.md section 5).

@@ -1,0 +1,608 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sérévance · Mon dossier</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ---------- Tokens (severance.md) ---------- */
+:root{
+  --white:#F0F0EE;      /* Lumon White */
+  --green:#4A6B5A;      /* Severed Green */
+  --gray:#9AA3A8;       /* Corridor Gray */
+  --blue:#5B7B9A;       /* Terminal Blue */
+  --black:#1E2328;      /* Lumon Black */
+  --gold:#B89A5A;       /* Kier Gold, once per screen */
+  --teal:#3D7A72;       /* Break Room Teal */
+  --cream:#E8E4D9;      /* Waxy Cream, paperwork */
+  --red:#C0392B;        /* Alert Red, errors only */
+  --ink-2:#3C434A;
+  --line:rgba(30,35,40,.24);
+  --line-strong:rgba(30,35,40,.6);
+  --sans:"IBM Plex Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  --mono:"IBM Plex Mono","Courier Prime",ui-monospace,Menlo,monospace;
+  --ease:cubic-bezier(.16,1,.3,1);
+  --gutter:clamp(16px,5vw,40px);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scrollbar-color:var(--gray) var(--white)}
+body{
+  margin:0;background:var(--white);color:var(--black);
+  font-family:var(--sans);font-size:1.0625rem;line-height:1.6;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='72' height='72'%3E%3Cpath d='M72 0H0V72' fill='none' stroke='%231E2328' stroke-opacity='.045'/%3E%3C/svg%3E");
+  caret-color:var(--green);
+}
+::selection{background:var(--green);color:var(--white)}
+::-webkit-scrollbar{width:12px;height:12px}
+::-webkit-scrollbar-track{background:var(--white)}
+::-webkit-scrollbar-thumb{background:var(--gray);border:3px solid var(--white)}
+a{color:var(--black);text-underline-offset:.22em;text-decoration-thickness:1px}
+:focus-visible{outline:3px solid var(--blue);outline-offset:3px}
+.num,time,.mono{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:.94em}
+.skip{position:absolute;left:var(--gutter);top:-60px;background:var(--black);color:var(--white);padding:12px 16px;z-index:10}
+.skip:focus{top:8px}
+
+/* ---------- Header ---------- */
+.bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px var(--gutter);border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--black)}
+.brand b{font-weight:600;letter-spacing:.24em;font-size:.88rem;text-transform:uppercase}
+.brand svg{display:block}
+.nav{display:flex;gap:4px}
+.nav button{
+  font:inherit;font-size:.78rem;font-weight:500;letter-spacing:.16em;text-transform:uppercase;
+  background:none;border:0;border-bottom:1px solid transparent;color:var(--black);
+  padding:12px 12px;min-height:44px;cursor:pointer;
+}
+.nav button{white-space:nowrap}
+.nav button:hover{border-bottom-color:var(--line-strong)}
+@media (max-width:460px){.nav button{padding:12px 8px;font-size:.72rem;letter-spacing:.1em}.brand b{letter-spacing:.16em;font-size:.8rem}.brand{gap:8px}.bar{gap:8px}}
+.nav button[aria-current="page"]{border-bottom-color:var(--black)}
+
+/* ---------- Layout ---------- */
+main{outline:none}
+.wrap{max-width:1120px;margin:0 auto;padding:clamp(28px,6vw,72px) var(--gutter) 64px}
+.grid{display:grid;gap:40px;grid-template-columns:minmax(0,1fr)}
+.col-main{min-width:0;display:flex;flex-direction:column;gap:56px}
+.col-side{order:0}
+#v-dossier .col-side{order:-1}
+@media (min-width:920px){
+  .grid{grid-template-columns:minmax(0,1fr) 320px;gap:72px;align-items:start}
+  .col-side,#v-dossier .col-side{order:0;position:sticky;top:24px}
+}
+h1{font-weight:500;font-size:clamp(1.75rem,4.4vw,2.6rem);line-height:1.18;letter-spacing:-.012em;margin:0 0 20px;text-wrap:balance;max-width:20ch}
+h2{font-weight:500;font-size:1.4rem;line-height:1.25;margin:0 0 14px;text-wrap:balance}
+h3{font-weight:600;font-size:1rem;margin:0 0 4px}
+p{margin:0 0 14px;max-width:62ch}
+.lead{font-size:1.125rem;max-width:56ch}
+.small{font-size:.9rem;color:var(--ink-2)}
+hr{border:0;border-top:1px solid var(--line);margin:0}
+
+/* ---------- Buttons ---------- */
+.btn{
+  display:inline-flex;align-items:center;justify-content:center;gap:10px;
+  font:inherit;font-size:.8rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;
+  min-height:52px;padding:0 28px;border-radius:2px;border:1px solid var(--black);cursor:pointer;
+  background:transparent;color:var(--black);text-decoration:none;
+  transition:background-color .35s var(--ease),color .35s var(--ease),border-color .35s var(--ease);
+}
+.btn:hover{background:var(--black);color:var(--white)}
+.btn.primary{background:var(--green);color:var(--white);border-color:var(--green)}
+.btn.primary:hover{background:var(--black);border-color:var(--black)}
+.btn[disabled]{opacity:.45;cursor:not-allowed}
+.btn.small{min-height:44px;padding:0 18px;font-size:.74rem}
+.actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:8px}
+.link{font:inherit;background:none;border:0;padding:0;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.22em;cursor:pointer;color:var(--black);min-height:44px}
+.link:hover{color:var(--green)}
+
+/* ---------- Forms ---------- */
+fieldset{border:0;padding:0;margin:0}
+legend,.label{font-weight:600;font-size:1rem;padding:0;margin:0 0 6px;display:block}
+.hint{font-size:.92rem;color:var(--ink-2);margin:0 0 12px;max-width:58ch}
+.field{margin-bottom:28px}
+input[type=text],input[type=tel],input[type=date],input[type=number],select,textarea{
+  font:inherit;color:var(--black);background:var(--white);width:100%;
+  border:1px solid var(--line-strong);border-radius:2px;padding:12px 14px;min-height:52px;
+}
+textarea{min-height:128px;resize:vertical}
+input::placeholder,textarea::placeholder{color:var(--ink-2);opacity:1}
+input:hover,select:hover,textarea:hover{border-color:var(--black)}
+.choice{display:flex;gap:14px;align-items:flex-start;border:1px solid var(--line);padding:14px 16px;margin:0 0 8px;cursor:pointer;min-height:56px;transition:border-color .3s var(--ease)}
+.choice:hover{border-color:var(--black)}
+.choice:has(input:checked){border-color:var(--black);background:rgba(74,107,90,.08)}
+.choice input{appearance:none;-webkit-appearance:none;flex:none;width:22px;height:22px;margin:2px 0 0;border:1px solid var(--black);border-radius:2px;background:var(--white);display:grid;place-content:center;cursor:pointer}
+.choice input[type=radio]{border-radius:50%}
+.choice input:checked{background:var(--green);border-color:var(--green)}
+.choice input[type=checkbox]:checked::after{content:"";width:6px;height:11px;border:solid var(--white);border-width:0 2px 2px 0;transform:translateY(-1px) rotate(45deg)}
+.choice input[type=radio]:checked::after{content:"";width:8px;height:8px;border-radius:50%;background:var(--white)}
+.choice span{display:block}
+.choice .t{font-weight:500}
+.choice .d{font-size:.92rem;color:var(--ink-2)}
+.stepper{display:inline-flex;border:1px solid var(--line-strong);border-radius:2px}
+.stepper button{width:52px;min-height:52px;background:none;border:0;font:inherit;font-size:1.3rem;cursor:pointer;color:var(--black)}
+.stepper button:hover{background:var(--black);color:var(--white)}
+.stepper output{display:grid;place-content:center;min-width:64px;border-inline:1px solid var(--line-strong);font-family:var(--mono);font-size:1.1rem}
+.filebtn{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin:6px 0 4px 36px}
+.filebtn input{position:absolute;opacity:0;width:1px;height:1px}
+.filebtn label{cursor:pointer}
+.filelist{font-family:var(--mono);font-size:.85rem;color:var(--ink-2)}
+.err{color:var(--red);font-weight:500;margin:8px 0 0;font-size:.95rem}
+.status{min-height:1.6em}
+
+/* ---------- Steps bar (declaration) ---------- */
+.segs{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin:0 0 12px}
+.segs i{height:4px;background:var(--line);display:block}
+.segs i.on{background:var(--green)}
+.stepline{font-size:.9rem;color:var(--ink-2);margin:0 0 28px}
+
+/* ---------- Promises (accueil) ---------- */
+.promises{margin:0;padding:0;list-style:none;border-top:1px solid var(--line)}
+.promises li{display:grid;grid-template-columns:44px 1fr;gap:16px;padding:18px 0;border-bottom:1px solid var(--line);align-items:start}
+.promises svg{margin-top:3px}
+.promises b{font-weight:600;display:block}
+.promises span{font-size:.97rem;color:var(--ink-2)}
+
+/* ---------- Letter (handler voice) ---------- */
+.letter{background:var(--cream);border:1px solid var(--line);padding:24px;position:relative}
+@media (min-width:720px){.letter{padding:36px}}
+.letter p{max-width:58ch}
+.sign{display:flex;align-items:center;gap:14px;margin-top:24px}
+.sign b{display:block;font-weight:600}
+.sign span{font-size:.9rem;color:var(--ink-2)}
+.mono-badge{width:44px;height:44px;border:1px solid var(--black);display:grid;place-content:center;font-family:var(--mono);font-size:.95rem;flex:none;background:var(--white)}
+.next{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap;margin-top:18px;padding-top:16px;border-top:1px solid var(--line-strong)}
+
+/* ---------- Timeline ---------- */
+.tl{list-style:none;margin:0;padding:0;position:relative}
+.tl li{display:grid;grid-template-columns:28px 1fr;gap:16px;padding-bottom:30px;position:relative}
+.tl li:last-child{padding-bottom:0}
+.tl li::before{content:"";position:absolute;left:13px;top:26px;bottom:0;width:1px;background:var(--line-strong)}
+.tl li:last-child::before{display:none}
+.mk{width:28px;height:28px;border:1px solid var(--black);display:grid;place-content:center;background:var(--white);position:relative;z-index:1}
+.done .mk{background:var(--green);border-color:var(--green)}
+.now .mk{background:var(--blue);border-color:var(--blue)}
+.mk svg{display:block}
+.tl .what{font-weight:600;font-size:1.05rem;line-height:1.35}
+.tl .who{font-size:.93rem;color:var(--ink-2)}
+.tl .when{font-family:var(--mono);font-size:.9rem;margin-top:2px}
+.tag{display:inline-block;font-size:.75rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;border:1px solid var(--black);padding:2px 8px;margin-left:8px;vertical-align:2px;background:var(--white)}
+.done .tag{background:var(--green);color:var(--white);border-color:var(--green)}
+.now .tag{background:var(--black);color:var(--white)}
+
+/* ---------- Sections ---------- */
+.sect{border-top:1px solid var(--line-strong);padding-top:28px}
+.todo{list-style:none;margin:0;padding:0}
+.todo li{padding:18px 0;border-bottom:1px solid var(--line)}
+.todo li:first-child{padding-top:0}
+.aide{border:1px solid var(--line-strong);padding:22px}
+@media (min-width:720px){.aide{padding:30px}}
+.aide .top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap;margin-bottom:10px}
+.seal{display:inline-flex;align-items:center;gap:8px;background:var(--gold);color:var(--black);font-size:.75rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;padding:5px 10px}
+.demo{font-size:.85rem;color:var(--ink-2);border-top:1px solid var(--line);padding-top:12px;margin:16px 0 0}
+.log{list-style:none;margin:0;padding:0}
+.log li{display:grid;grid-template-columns:132px 1fr;gap:16px;padding:12px 0;border-bottom:1px solid var(--line)}
+.log time{font-size:.85rem}
+@media (max-width:520px){.log li{grid-template-columns:1fr;gap:2px}}
+
+/* ---------- Side (handler) ---------- */
+.card{border:1px solid var(--line-strong);padding:22px;background:var(--white)}
+.card h2{font-size:1.15rem;margin-bottom:4px}
+.card .sign{margin:0 0 16px}
+.tel{display:block;font-family:var(--mono);font-size:1.15rem;margin:6px 0 14px;color:var(--black);text-decoration:none}
+.tel:hover{color:var(--green);text-decoration:underline}
+.cb{margin-top:14px;padding-top:14px;border-top:1px solid var(--line)}
+.cb[hidden]{display:none}
+
+/* ---------- Opening (terminal) ---------- */
+.term{font-family:var(--mono);font-size:1rem;background:var(--black);color:var(--white);padding:24px;min-height:240px;max-width:640px}
+@media (min-width:720px){.term{padding:40px}}
+.term p{margin:0 0 10px;opacity:0;max-width:none}
+.term p.in{opacity:1}
+.caret{display:inline-block;width:.6em;height:1.05em;background:var(--white);vertical-align:-.15em;animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+
+/* ---------- Footer ---------- */
+footer{border-top:1px solid var(--line);padding:24px var(--gutter);font-size:.88rem;color:var(--ink-2)}
+footer div{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px 28px;justify-content:space-between}
+
+/* ---------- Views + door transition ---------- */
+[hidden]{display:none!important}
+.view.enter{animation:door .5s var(--ease) both}
+@keyframes door{from{clip-path:inset(0 50% 0 50%);opacity:.4}to{clip-path:inset(0 0 0 0);opacity:1}}
+@media (prefers-reduced-motion:reduce){
+  .view.enter{animation:none}.caret{animation:none}
+  *{transition:none!important}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Aller au contenu</a>
+
+<header class="bar">
+  <a class="brand" href="#" data-go="accueil" aria-label="Sérévance, accueil">
+    <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="#1E2328" stroke-width="1.25" aria-hidden="true"><rect x="1" y="1" width="20" height="20"/><path d="M1 14h12V1"/></svg>
+    <b>Sérévance</b>
+  </a>
+  <nav class="nav" aria-label="Navigation principale">
+    <button type="button" data-go="declarer">Déclarer</button>
+    <button type="button" data-go="dossier">Mon dossier</button>
+  </nav>
+</header>
+
+<main id="main" tabindex="-1">
+
+<!-- ===================== ACCUEIL ===================== -->
+<section class="view" id="v-accueil" aria-labelledby="h-accueil">
+  <div class="wrap"><div class="grid">
+    <div class="col-main">
+      <div>
+        <h1 id="h-accueil" tabindex="-1">Bonjour Élise. Nous sommes désolés pour votre boutique.</h1>
+        <p class="lead">Vous n'avez rien à chiffrer aujourd'hui et aucun papier à retrouver. Dites-nous simplement où en est votre commerce. Une personne lit votre dossier dès qu'il est ouvert, et elle vous répond.</p>
+        <div class="actions">
+          <button class="btn primary" type="button" data-go="declarer">Ouvrir mon dossier</button>
+          <button class="btn" type="button" id="btn-call-home">Je préfère qu'on m'appelle</button>
+        </div>
+        <div id="call-home" class="cb" hidden>
+          <form id="f-call-home" novalidate>
+            <div class="field" style="margin-bottom:16px">
+              <label class="label" for="ch-when">Quand pouvons-nous vous appeler ?</label>
+              <select id="ch-when"><option>Dans la journée</option><option>Demain matin</option><option>Demain après-midi</option></select>
+            </div>
+            <div class="field" style="margin-bottom:16px">
+              <label class="label" for="ch-tel">Votre numéro</label>
+              <input id="ch-tel" type="tel" value="06 00 00 00 00" autocomplete="tel">
+              <p class="hint" style="margin:6px 0 0">Numéro de démonstration.</p>
+            </div>
+            <button class="btn primary small" type="submit">Demander l'appel</button>
+          </form>
+        </div>
+        <p class="status" id="call-home-msg" role="status" aria-live="polite"></p>
+      </div>
+
+      <div>
+        <h2>Ce que vous pouvez attendre de nous</h2>
+        <ul class="promises">
+          <li>
+            <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="#1E2328" stroke-width="1.25" aria-hidden="true"><circle cx="16" cy="11" r="5"/><path d="M5 28c1-6 5.5-9 11-9s10 3 11 9"/></svg>
+            <div><b>Une personne, avec son nom.</b><span>Dès l'ouverture de votre dossier, vous savez qui s'en occupe et comment la joindre.</span></div>
+          </li>
+          <li>
+            <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="#1E2328" stroke-width="1.25" aria-hidden="true"><rect x="4" y="6" width="24" height="22"/><path d="M4 13h24M10 3v6M22 3v6"/></svg>
+            <div><b>Une date pour chaque étape.</b><span>Donnée en fourchette, validée par votre gestionnaire. Jamais « en cours » sans rien d'autre.</span></div>
+          </li>
+          <li>
+            <svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="#1E2328" stroke-width="1.25" aria-hidden="true"><path d="M6 26h20M9 26V13l7-6 7 6v13"/><path d="M13 26v-7h6v7"/></svg>
+            <div><b>Une première aide étudiée sans attendre l'expert.</b><span>Pour que vous puissiez rouvrir. Votre gestionnaire décide avec vous.</span></div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <aside class="col-side" aria-label="Nous joindre">
+      <div class="card">
+        <h2>Une question avant de commencer ?</h2>
+        <p class="small" style="margin-bottom:10px">Le plateau sinistres de Lille répond du lundi au samedi.</p>
+        <a class="tel" href="tel:+33320000000">03 20 00 00 00</a>
+        <p class="small" style="margin:0">Numéro de démonstration. Vous parlez à une personne, jamais à un robot.</p>
+      </div>
+    </aside>
+  </div></div>
+</section>
+
+<!-- ===================== DECLARATION ===================== -->
+<section class="view" id="v-declarer" aria-labelledby="h-declarer" hidden>
+  <div class="wrap"><div class="grid">
+    <div class="col-main">
+      <div>
+        <div class="segs" aria-hidden="true"><i class="on" data-seg="1"></i><i data-seg="2"></i><i data-seg="3"></i></div>
+        <p class="stepline" id="stepline"><span class="num">Étape 1 sur 3</span> · Votre commerce</p>
+
+        <!-- Étape 1 -->
+        <form class="step" data-step="1" novalidate>
+          <h1 id="h-declarer" tabindex="-1">Où en est votre commerce aujourd'hui&nbsp;?</h1>
+          <p class="lead">Aucun montant n'est demandé ici. Seulement votre situation, pour que nous comprenions l'urgence.</p>
+          <fieldset class="field">
+            <legend>Votre commerce est</legend>
+            <label class="choice"><input type="radio" name="etat" value="ferme" checked><span><span class="t">Fermé pour l'instant</span></span></label>
+            <label class="choice"><input type="radio" name="etat" value="reduit"><span><span class="t">Ouvert, mais en activité réduite</span></span></label>
+            <label class="choice"><input type="radio" name="etat" value="normal"><span><span class="t">Ouvert normalement</span></span></label>
+          </fieldset>
+          <div class="field" id="since-wrap">
+            <label class="label" for="since">Depuis quand&nbsp;?</label>
+            <input id="since" type="date" value="2026-11-17" style="max-width:260px">
+          </div>
+          <div class="field">
+            <span class="label" id="lbl-staff">Combien de personnes travaillent avec vous&nbsp;?</span>
+            <p class="hint">Vous comprise, salariés compris. Cela nous aide à voir si votre commerce peut tenir.</p>
+            <div class="stepper" role="group" aria-labelledby="lbl-staff">
+              <button type="button" data-step-btn="-1" aria-label="Une personne de moins">−</button>
+              <output id="staff" aria-live="polite">3</output>
+              <button type="button" data-step-btn="1" aria-label="Une personne de plus">+</button>
+            </div>
+          </div>
+          <div class="actions"><button class="btn primary" type="button" data-next>Continuer</button></div>
+        </form>
+
+        <!-- Étape 2 -->
+        <form class="step" data-step="2" novalidate hidden>
+          <h1 tabindex="-1">Qu'avez-vous trouvé en arrivant&nbsp;?</h1>
+          <p class="lead">Cochez ce qui est touché. Une photo par endroit suffit, nous ne vous demanderons pas de refaire un inventaire.</p>
+          <fieldset class="field" id="dommages">
+            <legend class="label">Ce qui est touché</legend>
+            <div class="dm"><label class="choice"><input type="checkbox" name="dm" value="vitrine"><span><span class="t">La vitrine ou la façade</span></span></label>
+              <div class="filebtn" hidden><input id="ph-vitrine" type="file" accept="image/*" multiple><label class="btn small" for="ph-vitrine">Ajouter des photos</label><span class="filelist" aria-live="polite"></span></div></div>
+            <div class="dm"><label class="choice"><input type="checkbox" name="dm" value="stock"><span><span class="t">Le stock</span></span></label>
+              <div class="filebtn" hidden><input id="ph-stock" type="file" accept="image/*" multiple><label class="btn small" for="ph-stock">Ajouter des photos</label><span class="filelist" aria-live="polite"></span></div></div>
+            <div class="dm"><label class="choice"><input type="checkbox" name="dm" value="materiel"><span><span class="t">Le matériel et les équipements</span></span></label>
+              <div class="filebtn" hidden><input id="ph-materiel" type="file" accept="image/*" multiple><label class="btn small" for="ph-materiel">Ajouter des photos</label><span class="filelist" aria-live="polite"></span></div></div>
+            <div class="dm"><label class="choice"><input type="checkbox" name="dm" value="autre"><span><span class="t">Autre chose</span><span class="d">Dites-nous de quoi il s'agit juste en dessous.</span></span></label>
+              <div class="filebtn" hidden><input id="ph-autre" type="file" accept="image/*" multiple><label class="btn small" for="ph-autre">Ajouter des photos</label><span class="filelist" aria-live="polite"></span></div></div>
+          </fieldset>
+          <div class="field">
+            <label class="label" for="story">Racontez-nous avec vos mots</label>
+            <p class="hint">Ce que vous avez vu, ce qui presse le plus. Nous lisons tout.</p>
+            <textarea id="story" placeholder="Écrivez comme vous parleriez à quelqu'un de l'agence."></textarea>
+          </div>
+          <div class="actions"><button class="btn" type="button" data-prev>Retour</button><button class="btn primary" type="button" data-next>Continuer</button></div>
+        </form>
+
+        <!-- Étape 3 -->
+        <form class="step" data-step="3" novalidate hidden>
+          <h1 tabindex="-1">Ce que vous avez déjà, et rien de plus.</h1>
+          <p class="lead">Si une pièce manque ou a disparu, ce n'est pas un blocage. Nous trouverons une autre façon de le montrer, ensemble.</p>
+          <fieldset class="field">
+            <legend class="label">Cochez ce que vous pouvez nous donner</legend>
+            <label class="choice"><input type="checkbox" name="proof" value="caisse"><span><span class="t">Un export de mon logiciel de caisse ou de stock</span></span></label>
+            <label class="choice"><input type="checkbox" name="proof" value="series"><span><span class="t">Des numéros de série ou des bordereaux</span></span></label>
+            <label class="choice"><input type="checkbox" name="proof" value="plainte"><span><span class="t">Un dépôt de plainte</span></span></label>
+            <label class="choice"><input type="checkbox" id="noinv" name="proof" value="none"><span><span class="t">Je n'ai plus mes factures</span></span></label>
+            <p class="status" id="noinv-msg" role="status" aria-live="polite"></p>
+          </fieldset>
+          <div class="field">
+            <label class="choice" style="margin-bottom:12px"><input type="checkbox" id="consent"><span><span class="t">Mon agent ou mon courtier peut suivre l'avancement de mon dossier.</span><span class="d">Il ne verra que l'état du dossier, et vous pouvez retirer cet accord quand vous voulez.</span></span></label>
+            <label class="label" for="agent">Son nom <span class="small">(facultatif)</span></label>
+            <input id="agent" type="text" placeholder="Le nom de la personne qui vous suit à l'agence" autocomplete="off">
+          </div>
+          <div class="actions"><button class="btn" type="button" data-prev>Retour</button><button class="btn primary" type="button" id="btn-open">Ouvrir mon dossier</button></div>
+        </form>
+      </div>
+    </div>
+    <aside class="col-side" aria-label="Nous joindre">
+      <div class="card">
+        <h2>Vous préférez en parler&nbsp;?</h2>
+        <p class="small" style="margin-bottom:10px">Une personne du plateau sinistres peut remplir ceci avec vous, au téléphone.</p>
+        <a class="tel" href="tel:+33320000000">03 20 00 00 00</a>
+        <p class="small" style="margin:0">Numéro de démonstration.</p>
+      </div>
+    </aside>
+  </div></div>
+</section>
+
+<!-- ===================== OUVERTURE ===================== -->
+<section class="view" id="v-ouverture" aria-labelledby="h-ouverture" hidden>
+  <div class="wrap">
+    <h1 id="h-ouverture" tabindex="-1">Nous ouvrons votre dossier.</h1>
+    <div class="term" role="status" aria-live="polite" id="term">
+      <p>Vérification de votre contrat</p>
+      <p>Dossier <span class="num">SV-2611-0042</span> créé</p>
+      <p>Camille Verdier a reçu votre dossier</p>
+      <p><span class="caret" aria-hidden="true"></span></p>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== DOSSIER ===================== -->
+<section class="view" id="v-dossier" aria-labelledby="h-dossier" hidden>
+  <div class="wrap"><div class="grid">
+    <div class="col-main">
+
+      <div>
+        <h1 id="h-dossier" tabindex="-1">Bonjour Élise. Voici où nous en sommes.</h1>
+        <div class="letter">
+          <p>Bonjour Élise,</p>
+          <p>Je m'appelle Camille, je m'occupe de votre dossier. Je l'ai ouvert ce matin et j'ai lu ce que vous m'avez écrit. Je vois que votre boutique est fermée et que vous avez des personnes à payer : c'est ce que je regarde en premier.</p>
+          <p>Je reviens vers vous avec ce qui est couvert d'ici vendredi. Si vous préférez que je vous appelle plutôt que de lire, dites-le-moi, je le ferai.</p>
+          <div class="sign"><span class="mono-badge" aria-hidden="true">CV</span><div><b>Camille Verdier</b><span>Gestionnaire sinistres, plateau de Lille</span></div></div>
+          <div class="next"><b>Ma prochaine nouvelle</b><time class="num" datetime="2026-11-19">jeudi 19 novembre</time></div>
+        </div>
+      </div>
+
+      <div>
+        <h2>Les étapes de votre dossier</h2>
+        <ol class="tl">
+          <li class="done">
+            <span class="mk" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="#F0F0EE" stroke-width="1.75"><path d="M2.5 7.5l3 3 6-7"/></svg></span>
+            <div><div class="what">Dossier ouvert<span class="tag">Fait</span></div><div class="who">Par vous, avec Camille Verdier</div><div class="when"><time datetime="2026-11-18">mercredi 18 novembre</time></div></div>
+          </li>
+          <li class="now">
+            <span class="mk" aria-hidden="true"><svg width="10" height="10" viewBox="0 0 10 10"><rect width="10" height="10" fill="#F0F0EE"/></svg></span>
+            <div><div class="what">Ce qui est couvert<span class="tag">En cours</span></div><div class="who">Camille Verdier vérifie votre contrat et vous répond</div><div class="when">entre le <time datetime="2026-11-19">jeu. 19</time> et le <time datetime="2026-11-20">ven. 20 novembre</time></div></div>
+          </li>
+          <li>
+            <span class="mk" aria-hidden="true"></span>
+            <div><div class="what">Première aide</div><div class="who">Camille Verdier décide avec vous</div><div class="when">entre le <time datetime="2026-11-23">lun. 23</time> et le <time datetime="2026-11-25">mer. 25 novembre</time></div></div>
+          </li>
+          <li>
+            <span class="mk" aria-hidden="true"></span>
+            <div><div class="what">Expertise</div><div class="who">À distance si votre dommage s'y prête, sur place sinon</div><div class="when">entre le <time datetime="2026-11-25">mer. 25</time> et le <time datetime="2026-11-27">ven. 27 novembre</time></div></div>
+          </li>
+          <li>
+            <span class="mk" aria-hidden="true"></span>
+            <div><div class="what">Règlement</div><div class="who">Je vous donne une fourchette après l'expertise, pas avant.</div><div class="when">date à venir</div></div>
+          </li>
+        </ol>
+      </div>
+
+      <div class="sect">
+        <h2>Première aide</h2>
+        <div class="aide">
+          <div class="top"><b>Votre demande est à l'étude</b><span class="seal">À l'étude</span></div>
+          <p>Je regarde si une première somme peut vous être versée sans attendre l'expert, pour que vous puissiez rouvrir. C'est moi qui décide, avec vous. Aucun versement ne part sans que je l'aie validé.</p>
+          <p class="mono" style="margin:0">Ma réponse : entre le lun. 23 et le mer. 25 novembre. Je vous appelle quand elle est prise.</p>
+          <p class="demo">Démonstration. Le montant et les conditions de la première aide restent à confirmer avec Sérévance.</p>
+        </div>
+      </div>
+
+      <div class="sect">
+        <h2>Ce dont j'ai besoin de vous</h2>
+        <ul class="todo">
+          <li>
+            <h3>La liste de votre stock</h3>
+            <p class="small" style="margin-bottom:12px">Envoyez-moi l'export de votre caisse si vous en avez un. Sinon, dites-le-moi, nous ferons autrement.</p>
+            <div class="actions" style="margin:0">
+              <span class="filebtn" style="margin:0"><input id="up-stock" type="file"><label class="btn small" for="up-stock">Envoyer un fichier</label></span>
+              <button class="btn small" type="button" id="btn-noexport">Je n'en ai pas</button>
+            </div>
+            <p class="status small" id="stock-msg" role="status" aria-live="polite" style="margin:10px 0 0"></p>
+          </li>
+          <li>
+            <h3>Les photos de votre vitrine</h3>
+            <p class="small" style="margin:0">Reçues. Merci, je n'ai rien d'autre à vous demander là-dessus.</p>
+          </li>
+        </ul>
+      </div>
+
+      <div class="sect">
+        <h2>Comment voulez-vous que je vous prévienne&nbsp;?</h2>
+        <fieldset class="field" id="canal" style="margin-bottom:8px">
+          <legend class="label" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)">Canal de contact</legend>
+          <label class="choice"><input type="radio" name="canal" value="appel" checked><span><span class="t">Par un appel</span><span class="d">Je vous appelle à chaque étape.</span></span></label>
+          <label class="choice"><input type="radio" name="canal" value="sms"><span><span class="t">Par SMS</span><span class="d">Un message court, avec la date suivante.</span></span></label>
+          <label class="choice"><input type="radio" name="canal" value="appli"><span><span class="t">Ici, sur cette page</span><span class="d">Vous venez voir quand vous voulez.</span></span></label>
+        </fieldset>
+        <p class="status small" id="canal-msg" role="status" aria-live="polite" style="margin:0">C'est noté : je vous appelle à chaque étape.</p>
+      </div>
+
+      <div class="sect">
+        <h2>Ce qui s'est passé sur votre dossier</h2>
+        <ul class="log">
+          <li><time class="num" datetime="2026-11-18T09:41">18 nov., 09:41</time><span>Camille Verdier a lu votre dossier.</span></li>
+          <li><time class="num" datetime="2026-11-18T09:12">18 nov., 09:12</time><span>Vous avez ouvert votre dossier.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <aside class="col-side" aria-label="Votre gestionnaire">
+      <div class="card">
+        <div class="sign"><span class="mono-badge" aria-hidden="true">CV</span><div><b>Camille Verdier</b><span>Votre gestionnaire</span></div></div>
+        <p class="small" style="margin-bottom:0">Elle répond du lundi au samedi, de 8 h à 19 h.</p>
+        <a class="tel" href="tel:+33320000001">03 20 00 00 01</a>
+        <button class="btn small" type="button" id="btn-cb" aria-expanded="false" aria-controls="cb">Me faire rappeler</button>
+        <div class="cb" id="cb" hidden>
+          <form id="f-cb" novalidate>
+            <label class="label" for="cb-when">Quand&nbsp;?</label>
+            <select id="cb-when" style="margin-bottom:12px"><option>Dans la journée</option><option>Demain matin</option><option>Demain après-midi</option></select>
+            <button class="btn primary small" type="submit">Demander un rappel</button>
+          </form>
+        </div>
+        <p class="status small" id="cb-msg" role="status" aria-live="polite" style="margin:12px 0 0"></p>
+        <p class="demo" style="margin-top:14px">Numéro de démonstration.</p>
+      </div>
+    </aside>
+  </div></div>
+</section>
+
+</main>
+
+<footer>
+  <div>
+    <span>Sérévance Assurances · Plateau sinistres de Lille</span>
+    <span>Démonstration. Les personnes, les dates et les dossiers sont fictifs.</span>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var $=function(s,r){return (r||document).querySelector(s)},$$=function(s,r){return Array.prototype.slice.call((r||document).querySelectorAll(s))};
+  var views=['accueil','declarer','ouverture','dossier'];
+  var state={step:1,staff:3};
+  var timers=[];
+
+  function go(name,opts){
+    timers.forEach(clearTimeout);timers=[];
+    views.forEach(function(v){var el=$('#v-'+v);var on=v===name;el.hidden=!on;el.classList.toggle('enter',on)});
+    $$('.nav button').forEach(function(b){var cur=b.dataset.go===name||(name==='ouverture'&&b.dataset.go==='declarer');if(cur)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current')});
+    window.scrollTo(0,0);
+    if(name==='declarer')showStep(state.step,true);
+    if(name==='ouverture')boot();
+    if(!(opts&&opts.silent)){var h=$('#v-'+name+' h1');if(h){h.setAttribute('tabindex','-1');h.focus({preventScroll:true})}}
+  }
+
+  function boot(){
+    var ps=$$('#term p');ps.forEach(function(p){p.classList.remove('in')});
+    var reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var gap=reduce?0:650;
+    ps.forEach(function(p,i){timers.push(setTimeout(function(){p.classList.add('in')},gap*(i+1)))});
+    timers.push(setTimeout(function(){go('dossier')},reduce?100:gap*ps.length+700));
+  }
+
+  function showStep(n,skipFocus){
+    state.step=n;
+    $$('.step').forEach(function(f){f.hidden=Number(f.dataset.step)!==n});
+    $$('.segs i').forEach(function(i){i.classList.toggle('on',Number(i.dataset.seg)<=n)});
+    var names=['Votre commerce','Ce qui s’est passé','Vos pièces'];
+    $('#stepline').innerHTML='<span class="num">Étape '+n+' sur 3</span> · '+names[n-1];
+    window.scrollTo(0,0);
+    if(!skipFocus){var h=$('.step[data-step="'+n+'"] h1');if(h){h.setAttribute('tabindex','-1');h.focus({preventScroll:true})}}
+  }
+
+  document.addEventListener('click',function(e){
+    var g=e.target.closest('[data-go]');
+    if(g){e.preventDefault();if(g.dataset.go==='declarer')state.step=1;go(g.dataset.go);return}
+    if(e.target.closest('[data-next]')){e.preventDefault();showStep(Math.min(3,state.step+1));return}
+    if(e.target.closest('[data-prev]')){e.preventDefault();showStep(Math.max(1,state.step-1));return}
+    var sb=e.target.closest('[data-step-btn]');
+    if(sb){state.staff=Math.max(0,Math.min(60,state.staff+Number(sb.dataset.stepBtn)));$('#staff').textContent=state.staff;return}
+  });
+
+  // Étape 1 : "depuis quand" seulement si fermé / réduit
+  $$('input[name=etat]').forEach(function(r){r.addEventListener('change',function(){
+    $('#since-wrap').hidden=($('input[name=etat]:checked').value==='normal');
+  })});
+
+  // Étape 2 : photos par catégorie
+  $$('#dommages .dm').forEach(function(dm){
+    var cb=$('input[type=checkbox]',dm),fb=$('.filebtn',dm),fi=$('input[type=file]',dm),fl=$('.filelist',dm);
+    cb.addEventListener('change',function(){fb.hidden=!cb.checked});
+    fi.addEventListener('change',function(){
+      var n=fi.files.length;fl.textContent=n?(n+(n>1?' photos ajoutées':' photo ajoutée')):'';
+    });
+  });
+
+  // Étape 3 : pas de factures
+  $('#noinv').addEventListener('change',function(){
+    $('#noinv-msg').textContent=this.checked?'Merci de nous le dire. Ce n’est pas un blocage : nous regarderons ensemble vos bons de commande, vos relevés ou vos photos.':'';
+  });
+  $('#btn-open').addEventListener('click',function(){go('ouverture')});
+
+  // Appel depuis l'accueil
+  $('#btn-call-home').addEventListener('click',function(){var b=$('#call-home');b.hidden=!b.hidden;if(!b.hidden)$('#ch-when').focus()});
+  $('#f-call-home').addEventListener('submit',function(e){
+    e.preventDefault();
+    var w=$('#ch-when').value.toLowerCase(),t=$('#ch-tel').value.trim();
+    if(!t){$('#call-home-msg').innerHTML='<span class="err">Il nous manque un numéro pour vous appeler.</span>';$('#ch-tel').focus();return}
+    $('#call-home-msg').textContent='C’est noté. Une personne du plateau sinistres vous appelle '+w+', au '+t+'.';
+    $('#call-home').hidden=true;
+  });
+
+  // Dossier : rappel, canal, stock
+  $('#btn-cb').addEventListener('click',function(){var b=$('#cb'),open=b.hidden;b.hidden=!open;this.setAttribute('aria-expanded',String(open));if(open)$('#cb-when').focus()});
+  $('#f-cb').addEventListener('submit',function(e){
+    e.preventDefault();
+    $('#cb-msg').textContent='C’est noté. Camille vous rappelle '+$('#cb-when').value.toLowerCase()+'. Si elle ne le peut pas, elle vous le dit avant.';
+    $('#cb').hidden=true;$('#btn-cb').setAttribute('aria-expanded','false');
+  });
+  var canalMsg={appel:'C’est noté : je vous appelle à chaque étape.',sms:'C’est noté : je vous envoie un SMS à chaque étape, avec la date suivante.',appli:'C’est noté : je mets cette page à jour à chaque étape, et je vous appelle si je dois vous parler.'};
+  $$('input[name=canal]').forEach(function(r){r.addEventListener('change',function(){$('#canal-msg').textContent=canalMsg[r.value]})});
+  $('#btn-noexport').addEventListener('click',function(){$('#stock-msg').textContent='Merci de me le dire. Ce n’est pas un blocage : je regarderai avec vous vos bons de commande, vos relevés ou vos photos.'});
+  $('#up-stock').addEventListener('change',function(){var f=this.files[0];if(f)$('#stock-msg').textContent='Bien reçu : '+f.name+'. Je le lis et je vous dis si j’ai besoin d’autre chose.'});
+
+  // Accès direct par ancre (utile pour la démo)
+  var h=(location.hash||'').replace('#','');
+  go(views.indexOf(h)>-1&&h!=='ouverture'?h:'accueil',{silent:true});
+})();
+</script>
+</body>
+</html>
